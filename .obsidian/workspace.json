@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HomePage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0950bd50e4c27580",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb0e280bdd2371c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d1819fda844f1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8c935dd4b1f36106",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "李笑来",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0bce969343c7c185",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "158c89bda8c70c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed45f0f518a4324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca6fe017aef9b98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "981896b1c3c423d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Read It Later/稍后阅读开源神器 Omnivore 退场之后 - 少数派.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "稍后阅读开源神器 Omnivore 退场之后 - 少数派 的出链列表"
+            }
+          },
+          {
+            "id": "229b10a95981cd0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7975b9a665861f00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Read It Later/稍后阅读开源神器 Omnivore 退场之后 - 少数派.md"
+              },
+              "icon": "lucide-list",
+              "title": "稍后阅读开源神器 Omnivore 退场之后 - 少数派 的大纲"
+            }
+          },
+          {
+            "id": "08169aa61664d389",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 515.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "media-extended:Open media": false,
+      "homepage:Open homepage": false,
+      "xiaohongshu-importer:Import Xiaohongshu note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "HomePage.md",
+    "obsidian-urls/urls.md",
+    "obsidian-urls/logs/2025-07-26_23-00-18.md",
+    "obsidian-urls/logs/2025-07-26_22-50-35.md",
+    "obsidian-urls/logs/2025-07-26_22-59-34.md",
+    "obsidian-urls/logs/2025-07-26_22-59-50.md",
+    "obsidian-urls/logs/2025-07-26_22-59-34_backup.md",
+    "obsidian-urls/logs/2025-07-26_23-05-44.md",
+    "obsidian-urls/logs/attachments",
+    "obsidian-urls/logs/2025-07-26_22-50-03.md",
+    "obsidian-urls/logs/2025-07-26_22-49-52_backup.md",
+    "obsidian-urls/logs/2025-07-26_22-49-52.md",
+    "obsidian-urls/logs/2025-07-26_22-49-08_backup.md",
+    "obsidian-urls/logs/2025-07-26_22-49-08.md",
+    "obsidian-urls/logs/2025-07-26_22-48-24.md",
+    "obsidian-urls/logs/2025-07-26_22-47-15.md",
+    "obsidian-urls/logs/2025-07-26_22-46-39.md",
+    "obsidian-urls/logs/2025-07-26_22-45-51.md",
+    "obsidian-urls/log.md",
+    "obsidian-urls/logs/log-2025-07-26T14-38-24.143Z.md",
+    "obsidian-urls/logs/log-2025-07-26T14-37-21.639Z.md",
+    "obsidian-urls/logs",
+    "Watch It Later/【万字爆肝】普通小孩，也有过好大学四年的方法｜问问大象30w粉纪念，愿你少年有为不慌张_哔哩哔哩_bilibili.md",
+    "Watch It Later/How I Track Every Movie I've Ever Watched  Obsidian Walkthrough.md",
+    "Watch It Later/How to Analyze Books like a Renaissance Scholar.md",
+    "Watch It Later/Taking notes from YouTube videos in Obsidian.md",
+    "Watch It Later/Scared to write in books Watch this.md",
+    "Read It Later/Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作-Pkmer.md",
+    "obsidian-urls/urls.json",
+    "obsidian-urls",
+    "Templates/attachments",
+    "Templates",
+    "customjs/hello.js",
+    "customjs/exportUrls.js",
+    "customjs",
+    "Read It Later/attachments/84e04d9a6b34c9f4caa6066b9ef610a3_MD5.png",
+    "attachments",
+    "Read It Later/attachments/7f51582543216f6ce09baf09e9a4d172_MD5.jpg",
+    "Read It Later/attachments/ae02f1ce05d0ac133730c63fac0f6d18_MD5.jpg",
+    "Read It Later/attachments/0f89710ca7b8fea0fd05dcaf6c13facd_MD5.png",
+    "Read It Later/attachments/2a2c61fb3b2311019aa970ac21d1565b_MD5.jpg",
+    "Read It Later/attachments/00f0221fbe92c1d9e619a3116c832257_MD5.jpg",
+    "Read It Later/attachments/2de301a0fb17b463fa6c04556780c905_MD5.webp",
+    "Read It Later/attachments/754dc6ff8245da8ab56673bc4d3fde85_MD5.png",
+    "Read It Later/attachments/74d33c3ebeedafcd054ca9803eb47072_MD5.webp",
+    "Read It Later/attachments/2879ddd82d3e88c43028d6268ed821e8_MD5.jpg"
+  ]
+}

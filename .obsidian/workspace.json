@@ -192,6 +192,8 @@
   },
   "active": "0a444074abcd29e1",
   "lastOpenFiles": [
+    "obsidian-urls/urls.json",
+    "obsidian-urls",
     "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_19-51-20.md",
     "Watch It Later/解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili.md",
@@ -233,9 +235,7 @@
     "utils/obsidian-urls/urls.json",
     "utils/obsidian-urls/logs/attachments",
     "utils/obsidian-urls/logs",
-    "obsidian-urls/urls.json",
     "attachments",
-    "obsidian-urls",
     "obsidian-urls/logs/attachments"
   ]
 }

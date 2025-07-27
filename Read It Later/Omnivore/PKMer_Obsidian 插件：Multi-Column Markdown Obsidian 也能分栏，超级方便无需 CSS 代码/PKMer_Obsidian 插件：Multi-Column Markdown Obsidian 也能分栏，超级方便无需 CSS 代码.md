@@ -2,7 +2,7 @@
 id: 8ba118de-7e55-4c7e-898d-a2b199a97db3
 
 url: https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/multi-column-markdown/
-status:
+status: readed
 ---
 
 

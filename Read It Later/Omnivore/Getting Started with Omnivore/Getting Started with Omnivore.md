@@ -2,7 +2,7 @@
 id: 45ee4bfc-f5bb-11ee-b9c2-97185a665a59
 
 url: https://blog.omnivore.app/p/getting-started-with-omnivore
-status:
+status: readed
 ---
 
 

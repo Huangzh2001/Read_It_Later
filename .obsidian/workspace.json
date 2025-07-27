@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/Omnivore/(99+ 封私信/10 条消息) 如何评价笔记软件的双向链功能？ - 知乎/(99+ 封私信 - 10 条消息) 如何评价笔记软件的双向链功能？ - 知乎.md",
+                "file": "正在读&正在看.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(99+ 封私信 - 10 条消息) 如何评价笔记软件的双向链功能？ - 知乎"
+              "title": "正在读&正在看"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Readed  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,6 +203,11 @@
   },
   "active": "0fe8152d8d43e0ae",
   "lastOpenFiles": [
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_15-47-23.md",
+    "已读&已看.md",
+    "未读&未看.md",
+    "Read It Later/Omnivore/(99+ 封私信/10 条消息) 如何评价笔记软件的双向链功能？ - 知乎/(99+ 封私信 - 10 条消息) 如何评价笔记软件的双向链功能？ - 知乎.md",
     "正在读&正在看.md",
     "Read It Later/Omnivore/因果推断综述解析-A Survey on Causal Inference(2) - 知乎/因果推断综述解析-A Survey on Causal Inference(2) - 知乎.md",
     "Read It Later/Omnivore/Free Price - 按您的价格购买虚拟号码/Free Price - 按您的价格购买虚拟号码.md",
@@ -214,8 +218,6 @@
     "Read It Later/为什么你一年读了几十本书，却还是一无所获？.md",
     "Read It Later/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
     "Read It Later/想提升打字速度？这有一份双拼入门指南  有用功.md",
-    "已读&已看.md",
-    "未读&未看.md",
     "Read It Later/(99+ 封私信  69 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
     "Read It Later/分享一个写小说用的 obsidian 示例库.md",
     "Read It Later/NebulaPKM Ignite Creativity & Tackle Complex Problems.md",
@@ -224,14 +226,10 @@
     "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/How I Track Every Movie I've Ever Watched  Obsidian Walkthrough.md",
     "Read It Later/GraphRAG访问模式和知识图谱建模.md",
-    "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_15-28-42.md",
     "Read It Later/意识科学初步：David Chalmers的简单问题与困难问题.md",
     "Clippings/如何做数学笔记 - 知乎.md",
-    "Clippings/Mathfan 的自我修养 —— Latex 篇 - 知乎.md",
-    "utils/obsidian-urls/logs/2025-07-27_15-23-04.md",
     "Clippings/未命名",
-    "Clippings/因果推断综述解析-A Survey on Causal Inference(2) - 知乎.md",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",
     "Clippings/sync.ffs_lock",

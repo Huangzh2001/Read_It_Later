@@ -2,7 +2,7 @@
 id: 0364d88f-886a-467c-9c55-5122731a0a2e
 
 url: https://cloud.tencent.com/developer/article/2390893
-status:
+status: readed
 ---
 
 

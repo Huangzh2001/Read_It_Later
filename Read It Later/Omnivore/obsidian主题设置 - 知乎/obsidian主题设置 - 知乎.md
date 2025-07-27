@@ -2,7 +2,7 @@
 id: fa22b9eb-45fc-4469-9483-ff77cdf3fc6c
 
 url: https://zhuanlan.zhihu.com/p/367811948
-status:
+status: readed
 ---
 
 

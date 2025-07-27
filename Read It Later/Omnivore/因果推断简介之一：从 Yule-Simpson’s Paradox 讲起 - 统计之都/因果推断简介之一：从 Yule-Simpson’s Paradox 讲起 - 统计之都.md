@@ -2,7 +2,7 @@
 id: 827fff0e-b311-4150-9b1c-ff257391b375
 
 url: https://cosx.org/2012/03/causality1-simpson-paradox/
-status:
+status: readed
 ---
 
 

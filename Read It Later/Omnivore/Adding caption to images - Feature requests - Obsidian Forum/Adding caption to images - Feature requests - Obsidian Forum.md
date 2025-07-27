@@ -2,7 +2,7 @@
 id: d5cf42eb-e8cb-4f31-8a9f-8ab861c9d3d3
 
 url: https://forum.obsidian.md/t/adding-caption-to-images/16431/28
-status:
+status: readed
 ---
 
 

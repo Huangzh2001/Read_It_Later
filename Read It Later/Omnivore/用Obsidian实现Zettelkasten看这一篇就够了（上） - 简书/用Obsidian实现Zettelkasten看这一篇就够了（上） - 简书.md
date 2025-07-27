@@ -2,7 +2,7 @@
 id: 08cd5fe2-c62d-4350-a199-f0c21e30bc5d
 
 url: https://www.jianshu.com/p/cd9388319366
-status:
+status: readed
 ---
 
 

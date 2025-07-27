@@ -1,5 +1,7 @@
 ---
 id: ab48992d-9c6d-4332-9206-04e440f91601
+
+url: https://cosx.org/2012/03/causality3-fisher-and-neyman/
 ---
 
 

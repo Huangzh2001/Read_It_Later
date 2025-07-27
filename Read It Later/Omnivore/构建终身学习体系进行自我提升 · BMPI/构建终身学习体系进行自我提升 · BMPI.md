@@ -1,5 +1,7 @@
 ---
 id: fb33d5d8-287f-4a92-95b5-d2e2728240f7
+
+url: https://www.bmpi.dev/self/build-personal-knowledge-system/
 ---
 
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21b8985e52b28eb4",
+        "id": "c568a65f3d0ef289",
         "type": "tabs",
         "children": [
           {
-            "id": "a19ef5453c1cb9f5",
+            "id": "bdfc40c83c775316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/Omnivore/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎.md",
+                "file": "Clippings/Mathfan 的自我修养 —— Latex 篇 - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎"
+              "title": "Mathfan 的自我修养 —— Latex 篇 - 知乎"
             }
           }
         ]
@@ -186,8 +186,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a19ef5453c1cb9f5",
+  "active": "bdfc40c83c775316",
   "lastOpenFiles": [
+    "Clippings/因果推断综述解析-A Survey on Causal Inference(2) - 知乎.md",
+    "Clippings/因果推断综述解析-A Survey on Causal Inference(1) - 知乎.md",
+    "Clippings/我们如何获取信息，组织知识.md",
+    "Clippings/(99+ 封私信 - 91 条消息) 小朋友不愿意整理房间，认为「我的房间我自己住的舒服就可以」，该如何回应？ - 知乎.md",
+    "Clippings/(99+ 封私信 - 2 条消息) 为什么 2020 年双链式笔记如此热门？这类工具适合做什么样的笔记？ - 知乎.md",
+    "Watch It Later/How to Analyze Books like a Renaissance Scholar.md",
+    "Watch It Later/Scared to write in books Watch this.md",
+    "Watch It Later/Taking notes from YouTube videos in Obsidian.md",
+    "Watch It Later/【万字爆肝】普通小孩，也有过好大学四年的方法｜问问大象30w粉纪念，愿你少年有为不慌张_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/logs/2025-07-27_15-13-57.md",
+    "Read It Later/Omnivore/不放过重要信息，Omnivore 邮箱收集入口的4大用法 - 知乎/不放过重要信息，Omnivore 邮箱收集入口的4大用法 - 知乎.md",
+    "utils/obsidian-urls/urls-with-status.json",
+    "Read It Later/Omnivore/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎.md",
+    "Read It Later/Omnivore/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎.md",
     "未读&未看.md",
     "Templates/exportUrls.md",
     "正在读&正在看.md",
@@ -195,22 +209,15 @@
     "HomePage.md",
     "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
-    "Clippings/(99+ 封私信 - 2 条消息) 为什么 2020 年双链式笔记如此热门？这类工具适合做什么样的笔记？ - 知乎.md",
     "如何搭建一个稍后阅读系统.md",
-    "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_15-01-19.md",
     "utils/obsidian-urls/logs/2025-07-27_14-52-11.md",
     "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "utils/obsidian-urls/logs/2025-07-27_14-39-34.md",
     "utils/obsidian-urls/logs/2025-07-27_12-27-47.md",
-    "Watch It Later/【万字爆肝】普通小孩，也有过好大学四年的方法｜问问大象30w粉纪念，愿你少年有为不慌张_哔哩哔哩_bilibili.md",
-    "Read It Later/用obsidian搭建小说写作系统（一）.md",
-    "utils/obsidian-urls/logs/2025-07-27_12-04-33.md",
     "attachments/Pasted image 20250727115850.png",
-    "Read It Later/(99+ 封私信  61 条消息) LaTeX 如何将数学公式写得漂亮？ - 知乎.md",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/logs/2025-07-27_11-48-33.md",
     "attachments/b44ff0b00dde514d9942981d2745e49c_MD5.jpeg",
     "attachments/Pasted image 20250727110425.png",
     "attachments/5cac9963696098daa69ba3d504c827da_MD5.jpeg",
@@ -220,15 +227,8 @@
     "attachments/f47663c072aad00fc8537c37936976dc_MD5.jpeg",
     "attachments/Pasted image 20250727105255.png",
     "utils/obsidian-urls/urls.json",
-    "utils/obsidian-urls/logs/2025-07-27_10-28-18.md",
-    "Read It Later/(99+ 封私信  61 条消息) 如何建立自己的知识体系和观点？ - 知乎.md",
-    "utils/obsidian-urls/logs/2025-07-27_10-15-14.md",
     "utils/obsidian-urls/logs/attachments",
     "utils/obsidian-urls/logs",
-    "Untitled 1.md",
-    "utils/obsidian-urls/logs/2025-07-27_09-42-04.md",
-    "utils/obsidian-urls/logs/2025-07-27_09-41-14.md",
-    "Untitled 3.md",
     "obsidian-urls/urls.json",
     "attachments",
     "obsidian-urls",

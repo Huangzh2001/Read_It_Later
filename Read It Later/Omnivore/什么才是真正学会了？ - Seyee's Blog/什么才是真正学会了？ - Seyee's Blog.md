@@ -1,5 +1,7 @@
 ---
 id: 807d6112-1d15-4d30-ae7f-5111175beb71
+
+url: http://seyee.co/post/learning/
 ---
 
 

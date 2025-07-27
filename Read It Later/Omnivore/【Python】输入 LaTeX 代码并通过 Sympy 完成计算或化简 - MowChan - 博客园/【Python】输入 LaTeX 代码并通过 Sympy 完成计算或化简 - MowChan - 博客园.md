@@ -1,5 +1,7 @@
 ---
 id: f9bdea16-5eb8-41b4-924d-d6963afab84d
+
+url: https://www.cnblogs.com/mowchan/p/calculate-latex-formula-by-sympy.html
 ---
 
 

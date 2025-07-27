@@ -1,5 +1,7 @@
 ---
 id: 70c25e75-19a9-4a8f-a6ca-2fc1dba0d77c
+
+url: https://www.thepaper.cn/newsDetail_forward_11353755
 ---
 
 

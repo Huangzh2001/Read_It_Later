@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/exportUrls.md",
+                "file": "如何搭建一个稍后阅读系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exportUrls"
+              "title": "如何搭建一个稍后阅读系统"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -154,6 +155,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "791fd4167575c9cc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 4
@@ -172,20 +183,24 @@
       "command-palette:打开命令面板": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a19ef5453c1cb9f5",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
-    "utils/obsidian-urls/urls-with-status.json",
-    "utils/obsidian-urls/logs/2025-07-27_12-27-47.md",
+    "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
+    "Watch It Later/attachments/Pasted image 20250727144546.png",
     "如何搭建一个稍后阅读系统.md",
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_14-39-34.md",
+    "Templates/exportUrls.md",
+    "utils/obsidian-urls/logs/2025-07-27_12-27-47.md",
     "Watch It Later/【万字爆肝】普通小孩，也有过好大学四年的方法｜问问大象30w粉纪念，愿你少年有为不慌张_哔哩哔哩_bilibili.md",
     "Read It Later/用obsidian搭建小说写作系统（一）.md",
     "utils/obsidian-urls/logs/2025-07-27_12-04-33.md",
     "attachments/Pasted image 20250727115850.png",
     "Read It Later/(99+ 封私信  61 条消息) LaTeX 如何将数学公式写得漂亮？ - 知乎.md",
-    "Templates/exportUrls.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/logs/2025-07-27_11-48-33.md",
     "attachments/b44ff0b00dde514d9942981d2745e49c_MD5.jpeg",
@@ -196,7 +211,6 @@
     "attachments/Pasted image 20250727105327.png",
     "attachments/f47663c072aad00fc8537c37936976dc_MD5.jpeg",
     "attachments/Pasted image 20250727105255.png",
-    "attachments/651140fcc824f3f0d881010aafeb6e0e_MD5.jpeg",
     "utils/obsidian-urls/urls.json",
     "utils/obsidian-urls/logs/2025-07-27_10-28-18.md",
     "Read It Later/(99+ 封私信  61 条消息) 如何建立自己的知识体系和观点？ - 知乎.md",
@@ -219,7 +233,6 @@
     "utils/obsidian-urls/logs/2025-07-27_09-37-08.md",
     "utils/obsidian-urls/logs/2025-07-27_09-33-25.md",
     "utils/obsidian-urls/logs/2025-07-27_09-33-50.md",
-    "utils/obsidian-urls/logs/2025-07-27_09-34-56.md",
     "obsidian-urls/logs/attachments",
     "obsidian-urls/logs"
   ]

@@ -18,8 +18,8 @@
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4.1|openai",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "defaultModelKey": "ep-m-20250227225652-pkt89|3rd party (openai-format)",
+  "embeddingModelKey": "ep-20250727132315-6ns9v|3rd party (openai-format)",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -231,6 +231,19 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "ep-m-20250227225652-pkt89",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://ark.cn-beijing.volces.com/api/v3",
+      "apiKey": "43f9b79e-dd0f-4417-86e4-d7ce729bbc37",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "deepseek-R1",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
@@ -299,6 +312,18 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
+    },
+    {
+      "name": "ep-20250727132315-6ns9v",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://ark.cn-beijing.volces.com/api/v3",
+      "apiKey": "43f9b79e-dd0f-4417-86e4-d7ce729bbc37",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "enableCors": true,
+      "displayName": "deepseek-RAG"
     }
   ],
   "embeddingRequestsPerMin": 90,

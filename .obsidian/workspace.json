@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1309fabec66718b",
+        "id": "009e5e7cec881bde",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdfcdafa2335d7e",
+            "id": "2d8931602ffb979a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "李笑来",
+                "query": "status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,15 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bdfcdafa2335d7e",
+  "active": "2d8931602ffb979a",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250727115850.png",
+    "Read It Later/(99+ 封私信  61 条消息) LaTeX 如何将数学公式写得漂亮？ - 知乎.md",
     "Templates/exportUrls.md",
+    "Clippings/sync.ffs_lock",
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_11-48-33.md",
     "如何搭建一个稍后阅读系统.md",
     "attachments/b44ff0b00dde514d9942981d2745e49c_MD5.jpeg",
     "attachments/Pasted image 20250727110425.png",
     "attachments/5cac9963696098daa69ba3d504c827da_MD5.jpeg",
     "attachments/Pasted image 20250727110352.png",
-    "Read It Later/(99+ 封私信  61 条消息) LaTeX 如何将数学公式写得漂亮？ - 知乎.md",
     "attachments/553675b6b530aed93a83a602995144f9_MD5.jpeg",
     "attachments/Pasted image 20250727105327.png",
     "attachments/f47663c072aad00fc8537c37936976dc_MD5.jpeg",
@@ -218,9 +222,6 @@
     "obsidian-urls/urls.md",
     "obsidian-urls/logs/2025-07-27_09-22-43.md",
     "obsidian-urls/logs",
-    "obsidian-urls/logs/2025-07-27_09-21-34.md",
-    "obsidian-urls/logs/2025-07-27_09-19-41.md",
-    "utils",
-    "utils/copilot-custom-prompts/attachments"
+    "obsidian-urls/logs/2025-07-27_09-21-34.md"
   ]
 }

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "(99+ 封私信 - 18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎"
             }
+          },
+          {
+            "id": "931e3ff20d8ba4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如何搭建一个稍后阅读系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何搭建一个稍后阅读系统"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +215,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0fe8152d8d43e0ae",
+  "active": "931e3ff20d8ba4d7",
   "lastOpenFiles": [
     "已读&已看.md",
+    "如何搭建一个稍后阅读系统.md",
     "正在读&正在看.md",
+    "未读&未看.md",
+    "Read It Later/Omnivore/(99+ 封私信/18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎/(99+ 封私信 - 18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
     "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_15-47-23.md",
-    "未读&未看.md",
     "Read It Later/Omnivore/(99+ 封私信/10 条消息) 如何评价笔记软件的双向链功能？ - 知乎/(99+ 封私信 - 10 条消息) 如何评价笔记软件的双向链功能？ - 知乎.md",
     "Read It Later/Omnivore/因果推断综述解析-A Survey on Causal Inference(2) - 知乎/因果推断综述解析-A Survey on Causal Inference(2) - 知乎.md",
     "Read It Later/Omnivore/Free Price - 按您的价格购买虚拟号码/Free Price - 按您的价格购买虚拟号码.md",
@@ -228,7 +244,6 @@
     "Read It Later/GraphRAG访问模式和知识图谱建模.md",
     "utils/obsidian-urls/logs/2025-07-27_15-28-42.md",
     "Read It Later/意识科学初步：David Chalmers的简单问题与困难问题.md",
-    "Clippings/如何做数学笔记 - 知乎.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",

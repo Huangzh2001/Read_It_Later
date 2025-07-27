@@ -17,6 +17,27 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "正在读&正在看.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "未读&未看.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "已读&已看.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

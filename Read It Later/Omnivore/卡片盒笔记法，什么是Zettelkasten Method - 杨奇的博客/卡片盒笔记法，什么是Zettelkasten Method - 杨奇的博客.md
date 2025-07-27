@@ -2,7 +2,7 @@
 id: 66e8ba17-c890-44b0-ad31-0a3d403b7236
 
 url: https://www.yangqi.show/posts/what-is-zettelkasten
-status:
+status: reading
 ---
 
 

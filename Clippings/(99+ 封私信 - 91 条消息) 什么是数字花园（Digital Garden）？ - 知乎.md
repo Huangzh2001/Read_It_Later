@@ -2,6 +2,8 @@
 id: 5740343c-8372-442f-9530-3e61432dc317
 created: 星期五, 七月 5日 2024, 6:20:56 晚上
 updated: 星期五, 三月 7日 2025, 3:13:37 下午
+
+url: https://www.zhihu.com/question/400660802/answer/2486759498
 ---
 
 # (99+ 封私信 / 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎

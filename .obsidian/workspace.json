@@ -188,6 +188,9 @@
   },
   "active": "bdfc40c83c775316",
   "lastOpenFiles": [
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_15-23-04.md",
+    "Clippings/未命名",
     "Clippings/因果推断综述解析-A Survey on Causal Inference(2) - 知乎.md",
     "Clippings/因果推断综述解析-A Survey on Causal Inference(1) - 知乎.md",
     "Clippings/我们如何获取信息，组织知识.md",
@@ -199,7 +202,6 @@
     "Watch It Later/【万字爆肝】普通小孩，也有过好大学四年的方法｜问问大象30w粉纪念，愿你少年有为不慌张_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-07-27_15-13-57.md",
     "Read It Later/Omnivore/不放过重要信息，Omnivore 邮箱收集入口的4大用法 - 知乎/不放过重要信息，Omnivore 邮箱收集入口的4大用法 - 知乎.md",
-    "utils/obsidian-urls/urls-with-status.json",
     "Read It Later/Omnivore/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎/(99+ 封私信) 六度分隔理论可以用什么数学模型证明？ - 知乎.md",
     "未读&未看.md",
@@ -214,8 +216,6 @@
     "utils/obsidian-urls/logs/2025-07-27_14-52-11.md",
     "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
-    "utils/obsidian-urls/logs/2025-07-27_14-39-34.md",
-    "utils/obsidian-urls/logs/2025-07-27_12-27-47.md",
     "attachments/Pasted image 20250727115850.png",
     "Clippings/sync.ffs_lock",
     "attachments/b44ff0b00dde514d9942981d2745e49c_MD5.jpeg",
@@ -232,7 +232,6 @@
     "obsidian-urls/urls.json",
     "attachments",
     "obsidian-urls",
-    "obsidian-urls/logs/attachments",
-    "obsidian-urls/logs"
+    "obsidian-urls/logs/attachments"
   ]
 }

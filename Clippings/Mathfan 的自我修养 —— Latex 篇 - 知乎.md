@@ -2,6 +2,8 @@
 id: f4896923-023e-4b53-b854-81a323e1d428
 created: 星期五, 九月 20日 2024, 5:59:49 下午
 updated: 星期一, 十一月 25日 2024, 6:27:01 晚上
+
+url: https://zhuanlan.zhihu.com/p/720441726
 ---
 
 # Mathfan 的自我修养 —— Latex 篇 - 知乎

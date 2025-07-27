@@ -2,6 +2,8 @@
 id: f4c9a55f-583c-4c91-8078-a66d05cb95e4
 created: 星期二, 六月 18日 2024, 9:27:24 晚上
 updated: 星期五, 三月 7日 2025, 3:11:49 下午
+
+url: https://zhuanlan.zhihu.com/p/360837921
 ---
 
 # 因果推断综述解析|A Survey on Causal Inference(1) - 知乎

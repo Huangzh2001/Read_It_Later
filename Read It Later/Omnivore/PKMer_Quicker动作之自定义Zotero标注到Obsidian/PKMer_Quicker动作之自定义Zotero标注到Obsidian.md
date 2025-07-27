@@ -1,5 +1,7 @@
 ---
 id: 3aa3ac69-5c5b-4d7c-a5d0-6cfd8bc9a2e0
+
+url: https://pkmer.cn/Pkmer-Docs/03-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BD%AF%E4%BB%B6/quicker/quicker%E5%8A%A8%E4%BD%9C%E4%B9%8B%E8%87%AA%E5%AE%9A%E4%B9%89zotero%E6%A0%87%E6%B3%A8%E5%88%B0obsidian/
 ---
 
 

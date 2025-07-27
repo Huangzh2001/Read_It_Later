@@ -1,5 +1,7 @@
 ---
 id: 87ee09e7-d5d9-4645-bb2d-7ea2a09bb025
+
+url: https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/show-diff/
 ---
 
 

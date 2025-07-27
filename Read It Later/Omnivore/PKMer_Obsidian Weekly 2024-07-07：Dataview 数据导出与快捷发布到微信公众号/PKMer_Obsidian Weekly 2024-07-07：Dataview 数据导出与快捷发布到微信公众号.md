@@ -1,5 +1,7 @@
 ---
 id: bcb76668-d9ae-4175-a2d9-25fbf31105af
+
+url: https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/2024-07-07-obsidian-weekly/
 ---
 
 

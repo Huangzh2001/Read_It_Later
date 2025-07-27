@@ -1,7 +1,2 @@
 # Auto detect text files and perform LF normalization
-# 强制所有文本文件使用 LF
-* text=auto eol=lf
-*.md text eol=lf
-*.json text eol=lf
-*.js text eol=lf
-*.css text eol=lf
+* text=auto

@@ -1,14 +1,9 @@
 [
-  "obsidian-local-images-plus",
   "dataview",
   "obsidian-clipper",
-  "media-extended",
-  "homepage",
-  "multi-column-markdown",
-  "obsidian-banners",
-  "obsidian-timestamp-notes",
-  "media-notes",
-  "xiaohongshu-importer",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "mousewheel-image-zoom",
+  "obsidian-image-toolkit",
+  "obsidian-local-images-plus"
 ]

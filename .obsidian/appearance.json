@@ -1,8 +1,9 @@
 {
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "dataview"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 19
 }

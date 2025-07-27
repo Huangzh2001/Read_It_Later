@@ -1,7 +1,7 @@
 ---
 date: 2025-03-12T14:00:10+08:00
 url: https://www.zhihu.com/question/29816700/answer/2307586513
-Readed: true
+status: readed
 ---
 [LaTeX](https://www.zhihu.com/topic/19568710)
 

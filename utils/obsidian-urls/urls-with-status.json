@@ -1,7 +1,7 @@
 [
   {
     "url": "https://www.bilibili.com/video/BV1y34y1m7bT/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c",
-    "status": "unread"
+    "status": "read"
   },
   {
     "url": "https://www.bilibili.com/video/BV1Em9jYWEgk/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=06168f390bae49c4867767c52a20e87c",
@@ -28,12 +28,12 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/469718524",
-    "status": "reading"
-  },
-  {
     "url": "https://sspai.com/post/81230",
     "status": "unread"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/469718524",
+    "status": "reading"
   },
   {
     "url": "https://sspai.com/post/68492",
@@ -72,12 +72,12 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/440115356",
-    "status": "reading"
-  },
-  {
     "url": "https://zhuanlan.zhihu.com/p/720636846",
     "status": "unread"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/440115356",
+    "status": "reading"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/675034211",
@@ -92,16 +92,16 @@
     "status": "unread"
   },
   {
+    "url": "https://sspai.com/post/39004",
+    "status": "unread"
+  },
+  {
     "url": "https://zhuanlan.zhihu.com/p/718544624",
     "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/127018661",
     "status": "read"
-  },
-  {
-    "url": "https://sspai.com/post/39004",
-    "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/689222028",
@@ -124,20 +124,20 @@
     "status": "unread"
   },
   {
-    "url": "https://mp.weixin.qq.com/s/mNs6w_Jp7jPvE-24OvyOEw",
-    "status": "read"
-  },
-  {
     "url": "https://zhuanlan.zhihu.com/p/692914150",
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/491831883",
+    "url": "https://mp.weixin.qq.com/s/mNs6w_Jp7jPvE-24OvyOEw",
     "status": "read"
   },
   {
     "url": "https://meta.appinn.net/t/topic/45307/4",
     "status": "unread"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/491831883",
+    "status": "read"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/667612588",
@@ -152,6 +152,10 @@
     "status": "read"
   },
   {
+    "url": "https://m.sohu.com/a/362466583_688647",
+    "status": "unread"
+  },
+  {
     "url": "https://zhuanlan.zhihu.com/p/652917474",
     "status": "unread"
   },
@@ -160,15 +164,7 @@
     "status": "unread"
   },
   {
-    "url": "https://m.sohu.com/a/362466583_688647",
-    "status": "unread"
-  },
-  {
     "url": "https://zhuanlan.zhihu.com/p/669724017",
-    "status": "unread"
-  },
-  {
-    "url": "https://www.bmpi.dev/self/build-personal-knowledge-system/",
     "status": "unread"
   },
   {
@@ -176,7 +172,7 @@
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/685441093",
+    "url": "https://www.bmpi.dev/self/build-personal-knowledge-system/",
     "status": "unread"
   },
   {
@@ -184,8 +180,8 @@
     "status": "unread"
   },
   {
-    "url": "https://www.pmthinking.com/619b68d4a9184080a9429f24724e8c0a",
-    "status": "read"
+    "url": "https://zhuanlan.zhihu.com/p/685441093",
+    "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/664971619",
@@ -193,6 +189,10 @@
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/634088447",
+    "status": "read"
+  },
+  {
+    "url": "https://www.pmthinking.com/619b68d4a9184080a9429f24724e8c0a",
     "status": "read"
   },
   {
@@ -244,20 +244,20 @@
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/434074509",
-    "status": "unread"
-  },
-  {
     "url": "https://zhuanlan.zhihu.com/p/24805724",
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/554314017",
-    "status": "read"
+    "url": "https://zhuanlan.zhihu.com/p/434074509",
+    "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/31130755",
     "status": "unread"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/554314017",
+    "status": "read"
   },
   {
     "url": "https://forum-zh.obsidian.md/t/topic/35076",
@@ -292,11 +292,11 @@
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/679988388",
+    "url": "https://zhuanlan.zhihu.com/p/682079211",
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/682079211",
+    "url": "https://zhuanlan.zhihu.com/p/679988388",
     "status": "unread"
   },
   {
@@ -304,16 +304,12 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/566051634",
-    "status": "reading"
-  },
-  {
     "url": "https://cloud.tencent.com/developer/article/2390893",
     "status": "read"
   },
   {
-    "url": "https://www.pmthinking.com/Zettelkasten-25627d7ce99344c487f4e42d861f9e0a",
-    "status": "unread"
+    "url": "https://zhuanlan.zhihu.com/p/566051634",
+    "status": "reading"
   },
   {
     "url": "https://mp.weixin.qq.com/s?__biz=MzU3OTM4OTkzNQ%3D%3D&chksm=fd679b14ca101202789030aa1d2b8bbfa28c3ffcbe293d132d7b586aca6592a93704c7ec1be3&idx=1&mid=2247486356&scene=21&sn=297df58067c736c2ba2bcbce42112dba",
@@ -324,24 +320,28 @@
     "status": "reading"
   },
   {
-    "url": "https://www.thepaper.cn/newsDetail_forward_11353755",
-    "status": "read"
+    "url": "https://www.pmthinking.com/Zettelkasten-25627d7ce99344c487f4e42d861f9e0a",
+    "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/556260588",
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/336758375",
-    "status": "unread"
+    "url": "https://www.thepaper.cn/newsDetail_forward_11353755",
+    "status": "read"
   },
   {
-    "url": "https://sspai.com/post/64080",
+    "url": "https://zhuanlan.zhihu.com/p/336758375",
     "status": "unread"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/657890577",
     "status": "read"
+  },
+  {
+    "url": "https://sspai.com/post/64080",
+    "status": "unread"
   },
   {
     "url": "https://www.jianshu.com/p/16eb649519cd",
@@ -364,12 +364,12 @@
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/37110153",
-    "status": "read"
-  },
-  {
     "url": "https://www.pmthinking.com/a601a12335044f349a22caf57f274c27",
     "status": "unread"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/37110153",
+    "status": "read"
   },
   {
     "url": "https://zhuanlan.zhihu.com/p/715310350",
@@ -396,11 +396,11 @@
     "status": "unread"
   },
   {
-    "url": "https://tieba.baidu.com/p/8347187073?see_lz=1",
+    "url": "https://forum-zh.obsidian.md/t/topic/15300",
     "status": "unread"
   },
   {
-    "url": "https://forum-zh.obsidian.md/t/topic/15300",
+    "url": "https://tieba.baidu.com/p/8347187073?see_lz=1",
     "status": "unread"
   },
   {
@@ -420,11 +420,11 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/682791139",
+    "url": "https://zhuanlan.zhihu.com/p/173835344",
     "status": "read"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/173835344",
+    "url": "https://zhuanlan.zhihu.com/p/682791139",
     "status": "read"
   },
   {
@@ -436,11 +436,11 @@
     "status": "read"
   },
   {
-    "url": "https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125",
+    "url": "https://zhuanlan.zhihu.com/p/651144180",
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/651144180",
+    "url": "https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125",
     "status": "unread"
   },
   {
@@ -452,12 +452,12 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/708786002",
-    "status": "unread"
-  },
-  {
     "url": "https://zhuanlan.zhihu.com/p/670175298",
     "status": "read"
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/708786002",
+    "status": "unread"
   },
   {
     "url": "https://www.bilibili.com/opus/776661796815634451",
@@ -476,11 +476,11 @@
     "status": "read"
   },
   {
-    "url": "https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/2024-07-07-obsidian-weekly/",
+    "url": "https://blog.omnivore.app/p/organize-your-omnivore-library-with",
     "status": "read"
   },
   {
-    "url": "https://blog.omnivore.app/p/organize-your-omnivore-library-with",
+    "url": "https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E5%91%A8%E6%8A%A5/2024-07-07-obsidian-weekly/",
     "status": "read"
   },
   {
@@ -496,11 +496,11 @@
     "status": "unread"
   },
   {
-    "url": "https://zhuanlan.zhihu.com/p/367811948",
+    "url": "https://post.smzdm.com/p/a0xerdd8/",
     "status": "read"
   },
   {
-    "url": "https://post.smzdm.com/p/a0xerdd8/",
+    "url": "https://zhuanlan.zhihu.com/p/367811948",
     "status": "read"
   },
   {
@@ -592,12 +592,12 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/477033931/answer/3547786390",
-    "status": "read"
-  },
-  {
     "url": "https://www.zhihu.com/question/436057757/answer/1741202128",
     "status": "unread"
+  },
+  {
+    "url": "https://www.zhihu.com/question/477033931/answer/3547786390",
+    "status": "read"
   },
   {
     "url": "https://www.zhihu.com/question/657154213/answer/3533805639",
@@ -644,11 +644,11 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/344382117/answer/817121367",
+    "url": "https://www.zhihu.com/question/54265751/answer/1995587976",
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/54265751/answer/1995587976",
+    "url": "https://www.zhihu.com/question/344382117/answer/817121367",
     "status": "unread"
   },
   {
@@ -664,6 +664,10 @@
     "status": "unread"
   },
   {
+    "url": "https://www.zhihu.com/question/531022002/answer/2475087694",
+    "status": "read"
+  },
+  {
     "url": "https://www.zhihu.com/question/634381823/answer/3327474554",
     "status": "unread"
   },
@@ -673,10 +677,6 @@
   },
   {
     "url": "https://www.zhihu.com/question/54455539/answer/139627947",
-    "status": "read"
-  },
-  {
-    "url": "https://www.zhihu.com/question/531022002/answer/2475087694",
     "status": "read"
   },
   {
@@ -696,12 +696,12 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/26359793/answer/133232527",
-    "status": "reading"
-  },
-  {
     "url": "https://www.zhihu.com/question/52782284/answer/3613698493",
     "status": "unread"
+  },
+  {
+    "url": "https://www.zhihu.com/question/26359793/answer/133232527",
+    "status": "reading"
   },
   {
     "url": "https://www.zhihu.com/question/310507084/answer/3554716079",
@@ -736,6 +736,10 @@
     "status": "unread"
   },
   {
+    "url": "https://www.zhihu.com/question/401972085/answer/3365454194",
+    "status": "unread"
+  },
+  {
     "url": "https://www.zhihu.com/question/23427617/answer/3564892912",
     "status": "unread"
   },
@@ -744,7 +748,7 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/401972085/answer/3365454194",
+    "url": "https://www.zhihu.com/question/635190539",
     "status": "unread"
   },
   {
@@ -752,24 +756,20 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/635190539",
-    "status": "unread"
+    "url": "https://www.zhihu.com/question/438064417/answer/1714575802",
+    "status": "reading"
   },
   {
     "url": "https://www.zhihu.com/question/23427617/answer/2687681708",
     "status": "read"
   },
   {
-    "url": "https://www.zhihu.com/question/438064417/answer/1714575802",
-    "status": "reading"
-  },
-  {
     "url": "https://www.zhihu.com/question/662623813/answer/5718450382",
     "status": "read"
   },
   {
-    "url": "https://www.zhihu.com/question/473841271/answer/3032775351",
-    "status": "read"
+    "url": "https://www.zhihu.com/question/292293671/answer/2829349894",
+    "status": "unread"
   },
   {
     "url": "https://www.zhihu.com/question/630707081/answer/3582828054",
@@ -780,8 +780,8 @@
     "status": "unread"
   },
   {
-    "url": "https://www.zhihu.com/question/292293671/answer/2829349894",
-    "status": "unread"
+    "url": "https://www.zhihu.com/question/473841271/answer/3032775351",
+    "status": "read"
   },
   {
     "url": "https://www.zhihu.com/question/553537069",

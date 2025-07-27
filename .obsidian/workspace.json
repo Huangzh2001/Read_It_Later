@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read It Later/稍后阅读开源神器 Omnivore 退场之后 - 少数派.md"
+                "file": "Watch It Later/解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "稍后阅读开源神器 Omnivore 退场之后 - 少数派 的大纲"
+              "title": "解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili 的大纲"
             }
           },
           {
@@ -170,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +190,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0a444074abcd29e1",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
     "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_17-40-10.md",
     "utils/obsidian-urls/logs/2025-07-27_17-39-49.md",
     "Watch It Later/解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-07-27_17-12-55.md",
@@ -214,7 +218,6 @@
     "Read It Later/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
     "Read It Later/想提升打字速度？这有一份双拼入门指南  有用功.md",
     "Read It Later/(99+ 封私信  69 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
-    "Read It Later/分享一个写小说用的 obsidian 示例库.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",

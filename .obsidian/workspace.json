@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21497b1cfa3d7beb",
+        "id": "b08f84ab84d29035",
         "type": "tabs",
         "children": [
           {
-            "id": "504927741f590d37",
+            "id": "263b866727569e63",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -183,9 +183,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "504927741f590d37",
+  "active": "263b866727569e63",
   "lastOpenFiles": [
     "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_17-12-55.md",
     "utils/obsidian-urls/logs/2025-07-27_17-12-32.md",
     "已读&已看.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
@@ -210,7 +211,6 @@
     "Read It Later/分享一个写小说用的 obsidian 示例库.md",
     "Read It Later/NebulaPKM Ignite Creativity & Tackle Complex Problems.md",
     "Read It Later/用Obsidian打造自己的写作系统 - 少数派.md",
-    "Watch It Later/How to Analyze Books like a Renaissance Scholar.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",

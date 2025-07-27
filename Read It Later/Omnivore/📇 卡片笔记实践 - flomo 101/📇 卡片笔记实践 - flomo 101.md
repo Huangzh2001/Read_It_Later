@@ -2,6 +2,7 @@
 id: 3f469c4a-112d-4bde-bbf7-28ab1f117925
 
 url: https://help.flomoapp.com/thinking/smart-notes.html
+status:
 ---
 
 

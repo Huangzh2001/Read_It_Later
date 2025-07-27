@@ -2,6 +2,7 @@
 id: df1fdfe9-8130-4703-a0d7-ee469b178d86
 
 url: https://forum.obsidian.md/t/opening-developer-console/66755/5
+status:
 ---
 
 

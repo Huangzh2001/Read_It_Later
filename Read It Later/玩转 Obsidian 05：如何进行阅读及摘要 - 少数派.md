@@ -2,6 +2,7 @@
 date: "2024-11-30T16:23:13+08:00"
 url: "https://sspai.com/post/68492"
 Readed: false
+status:
 ---
 「玩转 Obsidian」系列会持续更新使用 Obsidian 进行知识管理的文章，如果你对此系列感兴趣可以关注少数派的专栏「[知识管理之术](https://sspai.com/my/column/263/post)」。
 

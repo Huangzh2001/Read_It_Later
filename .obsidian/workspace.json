@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Mathfan 的自我修养 —— Latex 篇 - 知乎.md",
+                "file": "Read It Later/分享一个写小说用的 obsidian 示例库.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Mathfan 的自我修养 —— Latex 篇 - 知乎"
+              "title": "分享一个写小说用的 obsidian 示例库"
             }
           }
         ]
@@ -188,6 +188,11 @@
   },
   "active": "bdfc40c83c775316",
   "lastOpenFiles": [
+    "Read It Later/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+    "Read It Later/分享一个写小说用的 obsidian 示例库.md",
+    "Read It Later/想提升打字速度？这有一份双拼入门指南  有用功.md",
+    "Clippings/如何做数学笔记 - 知乎.md",
+    "Clippings/Mathfan 的自我修养 —— Latex 篇 - 知乎.md",
     "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_15-23-04.md",
     "Clippings/未命名",
@@ -211,10 +216,6 @@
     "HomePage.md",
     "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
-    "如何搭建一个稍后阅读系统.md",
-    "utils/obsidian-urls/logs/2025-07-27_15-01-19.md",
-    "utils/obsidian-urls/logs/2025-07-27_14-52-11.md",
-    "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",
     "Clippings/sync.ffs_lock",

@@ -2,6 +2,7 @@
 date: "2025-04-12T11:41:09+08:00"
 url: "https://zhuanlan.zhihu.com/p/144226329"
 Readed: false
+status:
 ---
 ![意识科学初步：David Chalmers的简单问题与困难问题](https://picx.zhimg.com/70/v2-f7c3cb42039f9fc86768f25546f5dc0e_1440w.image?source=172ae18b&biz_tag=Post)
 

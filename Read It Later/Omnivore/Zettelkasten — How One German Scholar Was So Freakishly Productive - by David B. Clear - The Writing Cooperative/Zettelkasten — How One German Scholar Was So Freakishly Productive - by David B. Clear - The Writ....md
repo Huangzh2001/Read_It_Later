@@ -2,6 +2,7 @@
 id: def1c57d-2249-4301-a9b5-fca58a0b4ed5
 
 url: https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125
+status:
 ---
 
 

@@ -2,6 +2,7 @@
 date: "2025-03-30T15:32:41+08:00"
 url: "https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/longform/"
 Readed: false
+status:
 ---
 插件概述AILo
 

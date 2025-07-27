@@ -2,6 +2,7 @@
 date: "2025-03-07T12:15:13+08:00"
 url: "https://sspai.com/post/94637"
 Readed: false
+status:
 ---
 使用Obsidian Web Clipper作为稍后阅读工具
 

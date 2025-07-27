@@ -2,6 +2,7 @@
 id: 0d7988bc-1847-434e-9a9e-86c59e118a69
 
 url: https://www.pmthinking.com/Zettelkasten-25627d7ce99344c487f4e42d861f9e0a
+status:
 ---
 
 

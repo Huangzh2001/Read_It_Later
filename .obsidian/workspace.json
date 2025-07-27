@@ -187,12 +187,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "08169aa61664d389",
+  "active": "a19ef5453c1cb9f5",
   "lastOpenFiles": [
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-27_14-52-11.md",
     "Watch It Later/健康专家如何用Obsidian高效笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "如何搭建一个稍后阅读系统.md",
-    "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-27_14-39-34.md",
     "Templates/exportUrls.md",
     "utils/obsidian-urls/logs/2025-07-27_12-27-47.md",
@@ -231,8 +232,6 @@
     "obsidian-urls",
     "utils/obsidian-urls/logs/2025-07-27_09-37-28.md",
     "utils/obsidian-urls/logs/2025-07-27_09-37-08.md",
-    "utils/obsidian-urls/logs/2025-07-27_09-33-25.md",
-    "utils/obsidian-urls/logs/2025-07-27_09-33-50.md",
     "obsidian-urls/logs/attachments",
     "obsidian-urls/logs"
   ]

@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Cyber Glow",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "dataview"
   ],
   "accentColor": "",
-  "baseFontSize": 19
+  "baseFontSize": 16
 }

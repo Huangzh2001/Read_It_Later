@@ -43,7 +43,7 @@ try {
     const statusMatch = content.match(/^status:\s*(.+)$/m);
 
     if (urlMatch) {
-      const url = urlMatch[1].trim();
+      const url = urlMatch[1].replace(/^"+|"+$/g, '').trim();
       const rawStatus = statusMatch ? statusMatch[1].trim().toLowerCase() : '';
       let statusLabel = 'unread';
 

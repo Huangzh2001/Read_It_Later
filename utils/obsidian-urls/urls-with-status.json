@@ -1,10 +1,14 @@
 [
   {
-    "url": "\"https://www.bilibili.com/video/BV1Em9jYWEgk/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=06168f390bae49c4867767c52a20e87c\"",
+    "url": "https://www.bilibili.com/video/BV1Em9jYWEgk/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=06168f390bae49c4867767c52a20e87c",
     "status": "unread"
   },
   {
-    "url": "\"https://www.bilibili.com/video/BV1d3DzYiEAh/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c\"",
+    "url": "https://www.bilibili.com/video/BV1d3DzYiEAh/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c",
+    "status": "unread"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TYA5EmY72zY",
     "status": "unread"
   },
   {
@@ -12,15 +16,11 @@
     "status": "unread"
   },
   {
-    "url": "\"https://www.youtube.com/watch?v=TYA5EmY72zY\"",
+    "url": "https://www.youtube.com/watch?v=r6RdMSYSQDE",
     "status": "unread"
   },
   {
-    "url": "\"https://www.youtube.com/watch?v=r6RdMSYSQDE\"",
-    "status": "unread"
-  },
-  {
-    "url": "\"https://www.youtube.com/watch?v=mDFX9iKdIto\"",
+    "url": "https://www.youtube.com/watch?v=mDFX9iKdIto",
     "status": "unread"
   },
   {
@@ -28,19 +28,19 @@
     "status": "reading"
   },
   {
-    "url": "\"https://sspai.com/post/81230\"",
+    "url": "https://sspai.com/post/81230",
     "status": "unread"
   },
   {
-    "url": "\"https://sspai.com/post/97055\"",
+    "url": "https://sspai.com/post/68492",
     "status": "unread"
   },
   {
-    "url": "\"https://sspai.com/post/68492\"",
+    "url": "https://sspai.com/post/97055",
     "status": "unread"
   },
   {
-    "url": "\"https://zhuanlan.zhihu.com/p/144226329\"",
+    "url": "https://zhuanlan.zhihu.com/p/144226329",
     "status": "unread"
   },
   {
@@ -52,47 +52,47 @@
     "status": "unread"
   },
   {
-    "url": "\"https://sspai.com/post/94637\"",
+    "url": "https://sspai.com/post/94637",
     "status": "unread"
   },
   {
-    "url": "\"https://zhuanlan.zhihu.com/p/31038496\"",
+    "url": "https://zhuanlan.zhihu.com/p/31038496",
     "status": "unread"
   },
   {
-    "url": "\"https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/longform/\"",
+    "url": "https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/longform/",
     "status": "unread"
   },
   {
-    "url": "\"https://www.nebulapkm.cn/crs/?cid=43\"",
+    "url": "https://www.nebulapkm.cn/crs/?cid=43",
     "status": "unread"
   },
   {
-    "url": "\"https://zhuanlan.zhihu.com/p/9423492969\"",
+    "url": "https://zhuanlan.zhihu.com/p/9423492969",
     "status": "unread"
   },
   {
-    "url": "\"https://www.zhihu.com/question/662623813/answer/5718450382\"",
+    "url": "https://www.zhihu.com/question/662623813/answer/5718450382",
     "status": "unread"
   },
   {
-    "url": "\"https://www.zhihu.com/question/11174395633/answer/115635613584\"",
+    "url": "https://www.zhihu.com/question/11174395633/answer/115635613584",
     "status": "unread"
   },
   {
-    "url": "\"https://www.zhihu.com/question/52782284/answer/3613698493\"",
+    "url": "https://www.zhihu.com/question/52782284/answer/3613698493",
     "status": "unread"
   },
   {
-    "url": "\"https://www.zhihu.com/question/610904836/answer/3229501300\"",
+    "url": "https://www.zhihu.com/question/610904836/answer/3229501300",
+    "status": "unread"
+  },
+  {
+    "url": "https://www.zhihu.com/question/385019055/answer/2736979406",
     "status": "unread"
   },
   {
     "url": "https://www.zhihu.com/question/29816700/answer/2307586513",
     "status": "read"
-  },
-  {
-    "url": "\"https://www.zhihu.com/question/385019055/answer/2736979406\"",
-    "status": "unread"
   }
 ]

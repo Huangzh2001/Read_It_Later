@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -139,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/这个人类最难的问题，如今有答案了吗？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/拉片实验室：硬核解读诺兰，站着把钱挣了的时空管理大师_哔哩哔哩_bilibili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "这个人类最难的问题，如今有答案了吗？_哔哩哔哩_bilibili 的大纲"
+              "title": "拉片实验室：硬核解读诺兰，站着把钱挣了的时空管理大师_哔哩哔哩_bilibili 的大纲"
             }
           },
           {
@@ -173,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0a444074abcd29e1",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
     "utils/obsidian-urls/urls-with-status.json",
     "Watch It Later/小说写作技巧：展示而不是叙述（show，not tell）_哔哩哔哩_bilibili.md",

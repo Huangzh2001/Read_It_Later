@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何搭建一个稍后阅读系统.md",
+                "file": "Read It Later/Omnivore/双链笔记是伪概念？聊聊双链的核心优势——知识管理 - 知乎/双链笔记是伪概念？聊聊双链的核心优势——知识管理 - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何搭建一个稍后阅读系统"
+              "title": "双链笔记是伪概念？聊聊双链的核心优势——知识管理 - 知乎"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,16 +206,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0a444074abcd29e1",
+  "active": "76b6175270f4fc2f",
   "lastOpenFiles": [
+    "正在读&正在看.md",
+    "Watch It Later/《达芬奇密码》作者-丹.布朗 教写作大师课（中英字幕）_哔哩哔哩_bilibili.md",
+    "已读&已看.md",
+    "Read It Later/Omnivore/(99+ 封私信/18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎/(99+ 封私信 - 18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
+    "如何搭建一个稍后阅读系统.md",
+    "Templates/exportUrls.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-07-29_18-02-03.md",
-    "如何搭建一个稍后阅读系统.md",
-    "Read It Later/Omnivore/(99+ 封私信/18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎/(99+ 封私信 - 18 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
-    "Templates/exportUrls.md",
-    "正在读&正在看.md",
     "Watch It Later/纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili.md",
-    "已读&已看.md",
     "Read It Later/Omnivore/📇 卡片笔记实践 - flomo 101/📇 卡片笔记实践 - flomo 101.md",
     "Read It Later/Omnivore/QQ20周年像素复古头像，105个像素风格QQ头像——第三期 - 哔哩哔哩/QQ20周年像素复古头像，105个像素风格QQ头像——第三期 - 哔哩哔哩.md",
     "Read It Later/Omnivore/(99+ 封私信/90 条消息) 为什么几乎没有人使用双拼输入法- - 知乎/(99+ 封私信 - 90 条消息) 为什么几乎没有人使用双拼输入法- - 知乎.md",
@@ -231,7 +233,6 @@
     "utils/obsidian-urls/logs/2025-07-29_16-54-27.md",
     "Watch It Later/3. 灵感来源_哔哩哔哩_bilibili.md",
     "Watch It Later/【写作大师课】尼尔·盖曼：故事是一切叙事艺术的第一要素，内容行业必修《讲故事的艺术》_哔哩哔哩_bilibili.md",
-    "Watch It Later/《达芬奇密码》作者-丹.布朗 教写作大师课（中英字幕）_哔哩哔哩_bilibili.md",
     "Watch It Later/【导演视角】《星际穿越》到底牛X在哪解析诺兰的多线叙事与情绪操控_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-07-29_14-31-45.md",
     "Clippings/sync.ffs_lock",

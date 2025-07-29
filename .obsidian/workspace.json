@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "如何搭建一个稍后阅读系统"
             }
+          },
+          {
+            "id": "76b6175270f4fc2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/【中英】为何有些事物会让人觉得很好看？揭秘审美的原理_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【中英】为何有些事物会让人觉得很好看？揭秘审美的原理_哔哩哔哩_bilibili"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何搭建一个稍后阅读系统.md",
+                "file": "Watch It Later/【中英】为何有些事物会让人觉得很好看？揭秘审美的原理_哔哩哔哩_bilibili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何搭建一个稍后阅读系统 的大纲"
+              "title": "【中英】为何有些事物会让人觉得很好看？揭秘审美的原理_哔哩哔哩_bilibili 的大纲"
             }
           },
           {
@@ -191,10 +206,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0a444074abcd29e1",
+  "active": "76b6175270f4fc2f",
   "lastOpenFiles": [
-    "Read It Later/Omnivore/(99+ 封私信/3 条消息) 求一个稍后阅读神器推荐？ - 知乎/(99+ 封私信 - 3 条消息) 求一个稍后阅读神器推荐？ - 知乎.md",
     "已读&已看.md",
+    "Read It Later/Omnivore/(99+ 封私信/18 条消息) 卡片笔记写作法是否被过誉了？ - 知乎/(99+ 封私信 - 18 条消息) 卡片笔记写作法是否被过誉了？ - 知乎.md",
+    "如何搭建一个稍后阅读系统.md",
+    "Read It Later/Omnivore/(99+ 封私信/3 条消息) 求一个稍后阅读神器推荐？ - 知乎/(99+ 封私信 - 3 条消息) 求一个稍后阅读神器推荐？ - 知乎.md",
     "Watch It Later/纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-29_17-08-25.md",
@@ -221,8 +238,6 @@
     "Watch It Later/解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-07-27_17-40-10.md",
     "utils/obsidian-urls/logs/2025-07-27_17-39-49.md",
-    "utils/obsidian-urls/logs/2025-07-27_17-12-55.md",
-    "utils/obsidian-urls/logs/2025-07-27_17-12-32.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",

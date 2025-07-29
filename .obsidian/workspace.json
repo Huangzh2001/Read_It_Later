@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何搭建一个稍后阅读系统.md",
+                "file": "Templates/exportUrls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何搭建一个稍后阅读系统"
+              "title": "exportUrls"
             }
           }
         ],
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何搭建一个稍后阅读系统.md",
+                "file": "Templates/exportUrls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何搭建一个稍后阅读系统 的大纲"
+              "title": "exportUrls 的大纲"
             }
           },
           {
@@ -208,10 +208,13 @@
   },
   "active": "76b6175270f4fc2f",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-07-29_17-40-55.md",
+    "utils/obsidian-urls/logs/2025-07-29_17-39-55.md",
+    "如何搭建一个稍后阅读系统.md",
     "Watch It Later/【中英】为何有些事物会让人觉得很好看？揭秘审美的原理_哔哩哔哩_bilibili.md",
     "已读&已看.md",
     "Read It Later/Omnivore/(99+ 封私信/18 条消息) 卡片笔记写作法是否被过誉了？ - 知乎/(99+ 封私信 - 18 条消息) 卡片笔记写作法是否被过誉了？ - 知乎.md",
-    "如何搭建一个稍后阅读系统.md",
     "Read It Later/Omnivore/(99+ 封私信/3 条消息) 求一个稍后阅读神器推荐？ - 知乎/(99+ 封私信 - 3 条消息) 求一个稍后阅读神器推荐？ - 知乎.md",
     "Watch It Later/纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/urls-with-status.json",
@@ -235,9 +238,6 @@
     "obsidian-urls/urls.json",
     "obsidian-urls",
     "utils/obsidian-urls/logs/2025-07-27_19-51-20.md",
-    "Watch It Later/解答关于写作的诸多困惑，从这四本书开始_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-07-27_17-40-10.md",
-    "utils/obsidian-urls/logs/2025-07-27_17-39-49.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",
@@ -252,7 +252,6 @@
     "utils/obsidian-urls/urls.json",
     "utils/obsidian-urls/logs/attachments",
     "utils/obsidian-urls/logs",
-    "attachments",
-    "obsidian-urls/logs/attachments"
+    "attachments"
   ]
 }

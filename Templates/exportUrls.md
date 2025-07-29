@@ -58,19 +58,24 @@ try {
     if (!urlMatch) continue;
     const url = urlMatch[1].replace(/^"+|"+$/g, '').trim();
 
+    // 找 status
+    const statusMatch = content.match(/^status:\s*(.+)$/m);
+    const statusRaw = statusMatch ? statusMatch[1].trim().toLowerCase() : 'unread';
+
+    let status = 'unread';
+    if (statusRaw === 'readed' || statusRaw === 'read') status = 'read';
+    else if (statusRaw === 'reading') status = 'reading';
+
     // 笔记名
     const noteTitle = file.basename;
 
-    // 摘要：去掉 YAML 头和 url 等字段，取正文前三段或 100 字以内
-    // 先去掉 YAML frontmatter
+    // 摘要：去掉 YAML 头和 url/status 等字段，取正文前三段或 1000 字以内
     let body = content.replace(/^---[\s\S]*?---/, '').trim();
-
-    // 去除 url、status 等元信息行
     body = body.split('\n').filter(line => !line.match(/^(url|status|date|tags):\s*/i)).join('\n').trim();
 
     const excerpt = extractExcerpt(body, maxChars);
 
-    noteEntries.push({ noteTitle, url, excerpt });
+    noteEntries.push({ noteTitle, url, excerpt, status });
   }
 
   await appendLog(`- 笔记条目数: ${noteEntries.length}`);

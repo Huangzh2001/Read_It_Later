@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/拉片实验室：硬核解读诺兰，站着把钱挣了的时空管理大师_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉片实验室：硬核解读诺兰，站着把钱挣了的时空管理大师_哔哩哔哩_bilibili 的大纲"
+              "title": "纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili 的大纲"
             }
           },
           {
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +190,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "0a444074abcd29e1",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
+    "utils/obsidian-urls/urls-with-status.json",
+    "utils/obsidian-urls/logs/2025-07-29_17-08-25.md",
     "Watch It Later/7. 短篇小说_哔哩哔哩_bilibili.md",
     "Watch It Later/纯主观写作感受：过分沉迷女性主义叙事，会写不出好故事_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/urls-with-status.json",
     "utils/obsidian-urls/logs/2025-07-29_16-54-27.md",
     "Watch It Later/3. 灵感来源_哔哩哔哩_bilibili.md",
     "Watch It Later/【写作大师课】尼尔·盖曼：故事是一切叙事艺术的第一要素，内容行业必修《讲故事的艺术》_哔哩哔哩_bilibili.md",
@@ -221,8 +221,6 @@
     "utils/obsidian-urls/logs/2025-07-27_17-12-55.md",
     "utils/obsidian-urls/logs/2025-07-27_17-12-32.md",
     "已读&已看.md",
-    "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
-    "正在读&正在看.md",
     "Clippings/未命名",
     "Watch It Later/attachments/Pasted image 20250727144546.png",
     "attachments/Pasted image 20250727115850.png",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/Field Theory Fundamentals in 20 Minutes.md",
+                "file": "Read It Later/Evaluating the Path Integral A Concrete Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Field Theory Fundamentals in 20 Minutes"
+              "title": "Evaluating the Path Integral A Concrete Example"
             }
           }
         ],
@@ -208,10 +208,12 @@
   },
   "active": "76b6175270f4fc2f",
   "lastOpenFiles": [
+    "Read It Later/Symmetries and Conservation Laws in Field Theory.md",
+    "Read It Later/Evaluating the Path Integral A Concrete Example.md",
+    "Read It Later/Field Theory Fundamentals in 20 Minutes.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-08-10_21-59-53.md",
     "Watch It Later/经典名著《飘》（乱世佳人）的爱情为何好看又真实深刻，技巧分析_哔哩哔哩_bilibili.md",
-    "Read It Later/Field Theory Fundamentals in 20 Minutes.md",
     "Watch It Later/【深度】创作角度分析神剧烂尾合理性，《绝命毒师》不烂尾奥秘，冲突设计，写作技巧_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-08-01_16-28-16.md",
     "Watch It Later/【干货】《绝命毒师》编剧如何写出爆款，神剧的标准，写作技巧分析_哔哩哔哩_bilibili.md",
@@ -233,7 +235,6 @@
     "utils/obsidian-urls/logs/2025-07-29_18-02-03.md",
     "Read It Later/Omnivore/📇 卡片笔记实践 - flomo 101/📇 卡片笔记实践 - flomo 101.md",
     "Read It Later/Omnivore/QQ20周年像素复古头像，105个像素风格QQ头像——第三期 - 哔哩哔哩/QQ20周年像素复古头像，105个像素风格QQ头像——第三期 - 哔哩哔哩.md",
-    "Read It Later/Omnivore/(99+ 封私信/90 条消息) 为什么几乎没有人使用双拼输入法- - 知乎/(99+ 封私信 - 90 条消息) 为什么几乎没有人使用双拼输入法- - 知乎.md",
     "utils/obsidian-urls/urls-with-status.json",
     "Clippings/sync.ffs_lock",
     "obsidian-urls/urls.json",

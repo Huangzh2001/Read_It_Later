@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,10 +191,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "76b6175270f4fc2f",
+  "active": "54d1819fda844f1a",
   "lastOpenFiles": [
-    "Watch It Later/这道简单的数学题彻底改变了物理学_哔哩哔哩_bilibili.md",
+    "Watch It Later/NCCR SwissMAP – Quantum Mechanics for mathematicians.md",
     "Watch It Later/场论基础20分钟入门! - Physics with Elliot_哔哩哔哩_bilibili.md",
+    "Watch It Later/这道简单的数学题彻底改变了物理学_哔哩哔哩_bilibili.md",
     "Watch It Later/《三体》之后，刘慈欣新作到底会写啥？_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
@@ -221,7 +221,6 @@
     "Read It Later/Blocks on Ramps, and All That.md",
     "Read It Later/The Trick That Makes Understanding Physics as Simple as Drawing a Picture.md",
     "Read It Later/Buoyant force.md",
-    "Read It Later/Why Newton's Third Law is Conservation of Momentum in Disguise.md",
     "utils/obsidian-urls/urls-with-status.json",
     "obsidian-urls/urls.json",
     "obsidian-urls",

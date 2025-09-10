@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/Obsidian Excalidraw A Guide to Marker Frames (Print Layouts, Presentations, Image References).md",
+                "file": "如何搭建一个稍后阅读系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Excalidraw A Guide to Marker Frames (Print Layouts, Presentations, Image References)"
+              "title": "如何搭建一个稍后阅读系统"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -195,10 +194,10 @@
   },
   "active": "76b6175270f4fc2f",
   "lastOpenFiles": [
+    "Watch It Later/Obsidian Excalidraw A Guide to Marker Frames (Print Layouts, Presentations, Image References).md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-10_22-57-09.md",
     "Read It Later/(99+ 封私信  93 条消息) 你们的笔记、标签、分类是怎样的？ - 知乎.md",
-    "Watch It Later/Obsidian Excalidraw A Guide to Marker Frames (Print Layouts, Presentations, Image References).md",
     "utils/obsidian-urls/logs/2025-09-10_08-23-53.md",
     "utils/obsidian-urls/logs/2025-09-09_21-59-50.md",
     "Clippings/sync.ffs_lock",

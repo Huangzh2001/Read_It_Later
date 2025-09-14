@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=bHIhgxav9LY
 tags:
   - video
-status: readed
+status: Unsorted
 ---
 ![The Big Misconception About Electricity](https://www.youtube.com/watch?v=bHIhgxav9LY)
 This video was sponsored

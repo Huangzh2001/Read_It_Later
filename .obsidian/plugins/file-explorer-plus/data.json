@@ -38,6 +38,13 @@
         "type": "FILES",
         "pattern": "已读&已看.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "待整理.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

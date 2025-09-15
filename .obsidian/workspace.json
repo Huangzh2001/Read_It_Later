@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76b6175270f4fc2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未读&未看.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未读&未看"
-            }
-          },
-          {
             "id": "39bacddaf5c461e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待整理.md",
+                "file": "Read It Later/(99+ 封私信  93 条消息) 如何看待 2025 年硕博大量扩招？ - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "待整理"
+              "title": "(99+ 封私信  93 条消息) 如何看待 2025 年硕博大量扩招？ - 知乎"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +194,13 @@
   },
   "active": "39bacddaf5c461e0",
   "lastOpenFiles": [
+    "待整理.md",
+    "Read It Later/(99+ 封私信  93 条消息) 如何看待 2025 年硕博大量扩招？ - 知乎.md",
+    "未读&未看.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-15_13-43-55.md",
     "utils/obsidian-urls/logs/2025-09-15_07-48-07.md",
     "正在读&正在看.md",
-    "待整理.md",
-    "未读&未看.md",
     "已读&已看.md",
     "Watch It Later/The Big Misconception About Electricity.md",
     "Watch It Later/Dave Gray's Visual Frameworks A Companion to Sketch Your Mind.md",
@@ -235,7 +222,6 @@
     "utils/obsidian-urls/logs/2025-08-17_09-47-09.md",
     "Watch It Later/What is the Schrödinger Equation A basic introduction to Quantum Mechanics - YouTube.md",
     "utils/obsidian-urls/logs/2025-08-16_21-34-48.md",
-    "Watch It Later/1.2 Path Integral Formulation of Quantum Physics_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",
     "obsidian-urls/urls.json",

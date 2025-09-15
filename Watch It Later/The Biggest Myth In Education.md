@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=rhgwIhB58PA
 tags:
   - video
-status: reading
+status: readed
 ---
 ![The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA)
 - This video is about learning styles.

@@ -1,8 +1,8 @@
 ---
-url: "https://www.youtube.com/watch?v=z63s15c2-qQ&t=62s"
+url: https://www.youtube.com/watch?v=z63s15c2-qQ&t=62s
 tags:
-  - "video"
-status:
+  - video
+status: readed
 ---
 ![3am Dopamine based Morning Routine as a Doctor in Rural UK](https://www.youtube.com/watch?v=z63s15c2-qQ&t=62s)
 to preserve my dopamine levels in my

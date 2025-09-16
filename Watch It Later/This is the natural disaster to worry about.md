@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=AFXLZ7FEJc4
 tags:
   - video
-status: reading
+status: readed
 ---
 ![This is the natural disaster to worry about](https://www.youtube.com/watch?v=AFXLZ7FEJc4)
 - [Derek] What happens if I heat up

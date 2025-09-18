@@ -11,7 +11,7 @@ Year after year, in intro physics classrooms all around the world, students lear
 
 Usually, we assume that the ramp itself is fixed in place—maybe it's nailed down into the top of a table. But what if the ramp is free to slide? Say if the ramp were a perfectly frictionless chunk of ice sitting on top of a table. That makes for a much more challenging and interesting problem, and that's what I'm going to talk about here.
 
-![](https://www.physicswithelliot.com/s/ramp-block-setup.png)
+![[Read It Later/attachments/5e3496dce7eaf2341db1cbd05af09458_MD5.png]]
 
 So, let's say we have a ramp of mass $M$ that's inclined at an angle $θ$ . There is no friction between the ramp and whatever surface it's sitting on. We release a block of mass $m$ from the top of the ramp at $t=0$ . The question is: when will the block hit the ground? Let the length of the ramp be $l$ , and let's also suppose that there's no friction between the block and the ramp either, because things are already going to get complicated enough here.
 
@@ -19,11 +19,11 @@ We're actually going to answer this question in three different ways. First, we'
 
 Let's start with a lightning-fast review of the simpler problem where the ramp is nailed down. Again, you can head [over here](https://www.physicswithelliot.com/block-ramp-help-room-notes) if you want to see a more detailed refresher on that problem. We start with the free-body diagram for the block:
 
-![](https://www.physicswithelliot.com/s/block-fbd.png)
+![[Read It Later/attachments/b1e843f50ad00dd6a427582d7be0effb_MD5.png]]
 
 There are only two forces on the block: gravity $mg$ pulling down, and the normal force $N$ from the ramp pointing perpendicular to the surface. Now we add up the forces and write down $∑F→=ma→.$ This is a vector equation, but the block is only moving in one direction—along the length of the ramp. So let's define a coordinate $q$ that measures the position of the block with respect to the top of the ramp:
 
-![](https://www.physicswithelliot.com/s/inclined-ramp.png)
+![[Read It Later/attachments/2c46eabf1f5fb40ea1549830b7b8fd51_MD5.png]]
 
 The only force in the $q$ direction is the component of gravity that points parallel to the ramp, which with a bit of geometry you can see is $mgsin⁡θ$ . Then the $F=ma$ equation for $q$ is
 
@@ -55,13 +55,13 @@ Alright, that was our warm up. Now we want to figure out what happens when the r
 
 Here are the free-body diagrams for the ramp and for the block:
 
-![](https://www.physicswithelliot.com/s/ramp-block-fbds.png)
+![[Read It Later/attachments/4082b01494eb60236a803313c125848f_MD5.png]]
 
 Once again, the block has got gravity $mg$ pulling down, and the normal force $N$ from the ramp pointing perpendicular to the surface. This time I've broken things up into the vertical and horizontal components of the force. The forces on the ramp are gravity $Mg$ , the opposite normal force $N$ , and lastly the normal force $Ngd$ from the ground pushing up on the ramp.
 
 Since both the ramp and the block are moving now, we're going to need some more coordinates. Let's set the origin off to the left somewhere, at the height of the top of the ramp. Let $X$ denote the position of the top corner of the ramp, and let $(x,y)$ be the coordinates of the block:
 
-![](https://www.physicswithelliot.com/s/ramp-block-coordinates.png)
+![[Read It Later/attachments/54d29bc8f38ea90a9a9b30d92382e3b8_MD5.png]]
 
 Now let's write down the $∑F→=ma→$ equations. Starting with the block, the only horizontal force is the $x$ component of the normal force, $Nsin⁡θ$ , so we get
 
@@ -119,7 +119,7 @@ $$
 
 But we've got a problem because there are three unknowns here ( $x¨$ , $y¨$ , and $X¨$ ), but only two equations. What's missing? The thing we haven't accounted for yet is the fact that the block is stuck on the surface of the ramp, which means that $x$ and $y$ aren't independent.
 
-![](https://www.physicswithelliot.com/s/parallel-ramp-coordinate.png)
+![[Read It Later/attachments/41c171e9c5c64851bb6832268394a774_MD5.png]]
 
 We can take care of this by going back to our coordinate $q$ that's measured parallel to the ramp, which is related to $x$ and $y$ by
 

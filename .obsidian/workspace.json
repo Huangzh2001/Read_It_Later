@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37267d0864911bd7",
+        "id": "3b4ac1c5973ec475",
         "type": "tabs",
         "children": [
           {
-            "id": "39bacddaf5c461e0",
+            "id": "42fd9ced3d1cc47f",
             "type": "leaf",
             "state": {
-              "type": "mx-welcome",
-              "state": {},
-              "icon": "home",
-              "title": "Media Extended onboarding"
+              "type": "markdown",
+              "state": {
+                "file": "正在读&正在看.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "正在读&正在看"
             }
           }
         ]
@@ -185,12 +189,29 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "media-extended:Open media": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "39bacddaf5c461e0",
+  "active": "42fd9ced3d1cc47f",
   "lastOpenFiles": [
     "Read It Later/卢曼：与卡片盒交流.md",
+    "Read It Later/attachments/ca33e2b38a56155e9b7039d579cf0469_MD5.png",
+    "Read It Later/attachments/e543983787b481856a78064e75165ed1_MD5.png",
+    "Read It Later/attachments/0b9f44e2edb0e20e196f636432b84999_MD5.png",
+    "Read It Later/attachments/8418f56d3095aeb7eaabae4679824bfc_MD5.png",
+    "Read It Later/attachments/1bfd7dbc87ae1243aaa5a4b67b50ad87_MD5.png",
+    "Read It Later/attachments/c52a71f827b595546969d08df6e61ee6_MD5.png",
+    "Read It Later/attachments/5a67736ca13fd49525002c5470876088_MD5.png",
+    "Read It Later/attachments/6b450f282c5de1104098dea6fa29d276_MD5.png",
+    "Read It Later/attachments/743e876bb92fb20a3780e6c8ca390b48_MD5.png",
+    "Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png",
+    "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
+    "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
+    "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
+    "Read It Later/Communicating with Slip Boxes by Niklas Luhmann.md",
+    "未读&未看.md",
+    "正在读&正在看.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
     "Watch It Later/How To Become So Genius It Feels Illegal!.md",
@@ -208,30 +229,14 @@
     "utils/obsidian-urls/logs/2025-09-15_15-04-01.md",
     "Read It Later/(99+ 封私信  93 条消息) 如何看待 2025 年硕博大量扩招？ - 知乎.md",
     "待整理.md",
-    "未读&未看.md",
     "utils/obsidian-urls/logs/2025-09-15_13-43-55.md",
     "utils/obsidian-urls/logs/2025-09-15_07-48-07.md",
-    "正在读&正在看.md",
     "已读&已看.md",
-    "Watch It Later/The Big Misconception About Electricity.md",
-    "Watch It Later/Dave Gray's Visual Frameworks A Companion to Sketch Your Mind.md",
-    "Watch It Later/Too Many Interests Here's how to choose.md",
-    "utils/obsidian-urls/logs/2025-09-14_11-22-43.md",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",
     "obsidian-urls/urls.json",
     "obsidian-urls",
     "Clippings/未命名",
-    "Watch It Later/attachments/Pasted image 20250727144546.png",
-    "attachments/Pasted image 20250727115850.png",
-    "attachments/b44ff0b00dde514d9942981d2745e49c_MD5.jpeg",
-    "attachments/Pasted image 20250727110425.png",
-    "attachments/5cac9963696098daa69ba3d504c827da_MD5.jpeg",
-    "attachments/Pasted image 20250727110352.png",
-    "attachments/553675b6b530aed93a83a602995144f9_MD5.jpeg",
-    "attachments/Pasted image 20250727105327.png",
-    "attachments/f47663c072aad00fc8537c37936976dc_MD5.jpeg",
-    "attachments/Pasted image 20250727105255.png",
     "utils/obsidian-urls/urls.json",
     "utils/obsidian-urls/logs/attachments",
     "utils/obsidian-urls/logs"

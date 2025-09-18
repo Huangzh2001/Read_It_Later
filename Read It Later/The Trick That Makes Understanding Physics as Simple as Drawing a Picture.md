@@ -41,7 +41,7 @@ But $a=−g$ , and so $a+g=0$ ! So the total energy is indeed a constant.
 
 The potential energy $U=mgy$ is just a straight line with slope $mg$ :
 
-![](https://www.physicswithelliot.com/s/mg-hill.png)
+![[Read It Later/attachments/f0bf8e623578628064c0bfa7da2b42ad_MD5.png]]
 
 Imagine that this line were a frictionless hill, and you set a particle down on top of it. What would happen? The particle would of course just slide right down. Likewise, if you held a ball up in the air at some height and then let it go, it would obviously fall down to the ground. In other words, the behavior of the actual projectile is very similar to the behavior of an imaginary particle that we release from the same $y$ coordinate on the "potential hill."
 
@@ -63,7 +63,7 @@ The fact that the motion of the falling projectile mirrors the motion of a parti
 
 I'll show you two progressively more complicated examples. The first is just a simple pendulum, which from the name you might think is simple enough, but its $F=ma$ equation is actually pretty complicated. And the second example is the shape of the orbit of the Earth around the Sun.
 
-![](https://www.physicswithelliot.com/s/pendulum-coordinates.png)
+![[Read It Later/attachments/8f28feb3b7f962fa6285db15b082e5c5_MD5.png]]
 
 So here's a simple pendulum. It's just a particle of mass $m$ attached to a massless rod of length $l$ , which is pivoted at the other end. I made a [video all about pendulums](https://www.physicswithelliot.com/pendulum-help-room-notes) if you want to learn more of the details about them. There I explain how to show that the $F=ma$ equation for the angle $θ$ that the pendulum makes with the vertical is
 
@@ -89,7 +89,7 @@ You can drag the sliders here to set the initial angle and angular speed of the 
 
 Can we explain this behavior if we don't know the solution for $θ(t)$ , and we don't have a computer simulation handy?
 
-![](https://www.physicswithelliot.com/s/pendulum-height.png)
+![[Read It Later/attachments/d1249bb45548884482144379945d7a7c_MD5.png]]
 
 Let's write down the potential energy again. Set the origin at the pivot point. Then the $y$ coordinate of the particle is $y=−lcos⁡θ$ , and so the potential energy is
 
@@ -107,7 +107,7 @@ You can again check that $E$ is a constant by taking its time derivative and app
 
 Here's what the potential looks like:
 
-![](https://www.physicswithelliot.com/s/pendulum-potential.png)
+![[Read It Later/attachments/66c7b92e163db37c9824bca31e3141ed_MD5.png]]
 
 Once again, the trick is to forget about the pendulum for a moment, and pretend that this is a literal hill, and that we've got a particle sliding along it. Say we set the particle down at some initial position $θ0$ and then let it go. What will the motion look like?
 

@@ -17,7 +17,7 @@ But I want to focus on the third law here, which is also often quoted as "for ev
 
 I'm going to explain what Newton's third law means, and how it secretly encodes momentum conservation. In fact, we'll see that the conservation of momentum is itself the deeper principle of the universe, whereas Newton's third law isn't always true!
 
-![](https://www.physicswithelliot.com/s/equal-but-opposite.png)
+![[Read It Later/attachments/ee24e99ca00313c191bb4640488c17c0_MD5.png]]
 
 So let's say that we have two particles hanging out in otherwise empty space. What forces are acting on them? Well, again according to Newton, there'll be a gravitational force between them that goes like one over the distance squared that separates them:
 
@@ -81,7 +81,7 @@ For a planet orbiting a star, for example, we have an isolated system as long as
 
 Of course, if we're thinking of our own Earth and Sun, then there *are* other masses around—other planets, moons, and so on—and they exert *external* forces on the Earth+Sun system. Then the momentum of the Earth and Sun will no longer be constant. It's only *internal* forces—that is, forces between two components of the system—that cancel in pairs when we add them all up. On the other hand, we can always *enlarge* our definition of our system to include these additional masses, and then the total momentum of the larger system will be conserved.
 
-![](https://www.physicswithelliot.com/s/magnetic-forces.png)
+![[Read It Later/attachments/3a9c0382dc474a7142af15a8f9aa1828_MD5.png]]
 
 We believe that conservation of momentum is a deep property of the universe. Newton's third law, on the other hand, isn't always true! The classic example where it fails is in electromagnetism. Say we have two positively charged particles moving toward each other at a right angle—one could be heading leftward along the $x$ axis and the other downward along the $y$ axis, say. What are the forces on each particle?
 

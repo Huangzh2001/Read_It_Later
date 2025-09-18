@@ -7,7 +7,7 @@ status:
 
 Of all the systems you’re likely to meet in your first physics class, far and away the most important is the **simple harmonic oscillator** —in other words, the basic setup of a block attached to a spring. No other system so thoroughly permeates virtually every corner of physics, from classical mechanics to quantum mechanics to quantum field theory. It’s a setup that you are guaranteed to meet again and again throughout your physics education, and so it’s a good idea to learn it well from the get-go. But why is this seemingly innocuous problem so ubiquitous in so many areas of physics?
 
-![](https://www.physicswithelliot.com/s/spring-block.png)
+![[Read It Later/attachments/99d2cac50da973e4b1a9e68766bcf3c5_MD5.png]]
 
 We’ll start by reviewing the basic setup, and after that we’ll get into why it is that it’s so important. We’ve got a block of mass $m$ sitting on a flat table, which we’ll take to be frictionless for simplicity. It’s hooked up to a spring, which is itself anchored to a wall on the other end. If you give the block a little kick, or if you pull it out a ways and then let it go, it will oscillate back and forth from side to side like a sine or cosine function. We call these sinusoidal oscillations **simple harmonic motion**.
 

@@ -4,15 +4,15 @@ url: "https://zhuanlan.zhihu.com/p/144226329"
 Readed: false
 status:
 ---
-![意识科学初步：David Chalmers的简单问题与困难问题](https://picx.zhimg.com/70/v2-f7c3cb42039f9fc86768f25546f5dc0e_1440w.image?source=172ae18b&biz_tag=Post)
+![[Read It Later/attachments/220f91d9f39195c1fb141d524c6971b2_MD5.jpg]]
 
 # 意识科学初步：David Chalmers的简单问题与困难问题
 
-[![Ataraxia](https://picx.zhimg.com/v2-5281ba37e6df43721967b4685bfd1108_l.jpg?source=172ae18b)](https://www.zhihu.com/people/jiang-hu-chuan-ke-zhuang-41)
+[![[Read It Later/attachments/d014f436082c939378cea302ecdfea45_MD5.jpg]]](https://www.zhihu.com/people/jiang-hu-chuan-ke-zhuang-41)
 
 [Ataraxia](https://www.zhihu.com/people/jiang-hu-chuan-ke-zhuang-41)
 
-[​](https://www.zhihu.com/question/48510028)[​![知乎知识会员](https://picx.zhimg.com/v2-57fe7feb4813331d5eca02ef731e12c9.jpg?source=88ceefae)](https://www.zhihu.com/kvip/purchase)
+[​](https://www.zhihu.com/question/48510028)[​![[Read It Later/attachments/9a8d5338d48cbee0b266188b8dd6b8e5_MD5.png]]](https://www.zhihu.com/kvip/purchase)
 
 清华大学 控制科学与工程硕士
 
@@ -28,7 +28,7 @@ David John Chalmers (born 20 April 1966) is an Australian philosopher and cognit
 
 个人主页：[David Chalmers](https://link.zhihu.com/?target=http%3A//consc.net/)
 
-![](https://pic1.zhimg.com/v2-195e6a161d159e5d4b0afe440dc41d18_1440w.jpg)
+![[Read It Later/attachments/d5bdd28fc05c8e8b7feda7962dc0c08a_MD5.png]]
 
 意识作为一个和人类生存息息相关的问题古已有之，但是一直只是哲学讨论的对象。而近代以来，随着[神经科学](https://zhida.zhihu.com/search?content_id=120182527&content_type=Article&match_order=1&q=%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6&zhida_source=entity)和[脑科学](https://zhida.zhihu.com/search?content_id=120182527&content_type=Article&match_order=1&q=%E8%84%91%E7%A7%91%E5%AD%A6&zhida_source=entity)，包括心理学和[认知科学](https://zhida.zhihu.com/search?content_id=120182527&content_type=Article&match_order=1&q=%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6&zhida_source=entity)等领域的发展，人们开始逐渐将意识的机理的研究纳入到科学的范畴之中来。但是，Chalmers认为，现在的认知科学与神经科学所研究的问题，和我们真正关心的意识问题其实并没有太大的联系。Chalmers在这些文章中的的主要任务是，先为意识科学的研究者们划清研究的界限，即哪些问题是意识科学本身应该重点关注的，而哪些研究对于最根本的意识问题没有太大助益。下面简单介绍一下Chalmers的一些基本论点。
 
@@ -52,7 +52,7 @@ David John Chalmers (born 20 April 1966) is an Australian philosopher and cognit
 
 **[玛丽黑白屋问题](https://zhida.zhihu.com/search?content_id=120182527&content_type=Article&match_order=1&q=%E7%8E%9B%E4%B8%BD%E9%BB%91%E7%99%BD%E5%B1%8B%E9%97%AE%E9%A2%98&zhida_source=entity)（isolated neuroscientist in a black-and-white room）**
 
-![](https://pic4.zhimg.com/v2-8e59f4568e204be73058bea6af9fc105_1440w.jpg)
+![[Read It Later/attachments/1f7a7cecc915bf18100d964bb4850b62_MD5.png]]
 
 这个问题是由澳大利亚的哲学家 Frank Jackson 提出来的，实际上是一个思想实验。imagine 在23世纪又一个神经科学家Mary， 玛丽是世界上一流的脑科学专家，她非常了解大脑对于颜色视觉的处理机制。但是，玛丽一生都生活在一个黑白屋里，在这里她从来没有看到过任何除了黑白以外的颜色。那么我们可以说，玛丽知道很多关于颜色视觉的知识，比方说，我们的视觉系统如何接收刺激，如何传递信息，整合信息，大脑如何处理，如何做出反应，以及不同颜色在频谱中各自占据哪些范围等等。但是我们说，玛丽的知识中仍然有一个重要的缺陷，也就是，她不知道什么是红色的体验（experience of red）。她可以说，红色是多少纳米的波长范围，红色被视觉系统中的视锥细胞的哪些物理过程所捕获，然后通过哪些神经传到大脑进行处理，最终让我们判断它是红色，等等。但是她没有对于红色的体验。打个比方，这一点就像我们现在的正常人对于红外光的感受，我们知道它是怎么一回事，但是我们仍然无法体验到红外光，或者另一个例子，我们可以讨论高维空间为何物，里面的距离如何计算，里面的几何体有什么性质，物理现象遵从什么规律，等等。但是我们无法想象出高维空间，就像这个没见过红色的神经科学家没法体验到红色一样。
 
@@ -74,7 +74,7 @@ systems with the same organization will embody the same information。
 
 上面这个是一个假设，这个假设可以通过一个思想实验来证明，也就是所谓的dancing qualia。 qualia指的是感受质。这个思想实验如图所示：
 
-![](https://pic3.zhimg.com/v2-6131f3152a139bc5daf8d8cd7d747e9a_1440w.jpg)
+![[Read It Later/attachments/e04be39c7feb0a6e1de22a60fbd7e5ca_MD5.png]]
 
 对上面的解释简单介绍一下。作者是如何证明相同的结构的系统会有相同的意识体验呢？这里作者采用反证法（归谬法），先假设如果不成立，也就是说，相同结构的不同系统具有不同的意识体验。那么，我们设想一个硅基系统，里面的芯片都是按照大脑中神经元的组织结构和功能做成的，那么，我们将大脑中的某个区域的神经元换成硅基系统中的一些同等结构的芯片，也就是说，比如我们用芯片替代了我们的视觉皮层（visual cortex），那么我们仍然能够视觉，但是，按照假设，我们的原先的体验和改变后的意识体验应当是不同的，比如对于红色，本来我们的体验是红色，现在变成了紫色的体验。那么，如果我们有一个开关，这个开关可以控制我们用芯片的大脑还是原本的大脑，那么，由于我们的意识体验不同，那么我们的qualia就会dancing between两种不同的意识体验。然而，又因为我们的脑组织结构没有改变，那么我们的判断是不变的，也就是说，即使两种颜色在眼前dancing，我们仍然会认为无事发生，没有任何改变。这个是不合理的。这也就说明我们的假设不合理，通过反证法得到结论。
 
@@ -120,7 +120,7 @@ Chalmers D J . The puzzle of conscious experience.\[J\]. Scientific American, 19
 
 ](https://www.zhihu.com/topic/19612637)
 
-![](https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=32738c0c&needBackground=1)
+![[Read It Later/attachments/26725aa9602db156eaafd2cb68a4a816_MD5.jpg]]
 
 理性发言，友善互动
 
@@ -132,7 +132,7 @@ Chalmers D J . The puzzle of conscious experience.\[J\]. Scientific American, 19
 
 最新
 
-[![一木](https://pic1.zhimg.com/6273e0551ffc3288ccb190822c5885e0_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/12177686282ba7001412b75d3d3b1b32)
+[![[Read It Later/attachments/3a67119684dda57fc8f9ab8d1f7191b4_MD5.jpg]]](https://www.zhihu.com/people/12177686282ba7001412b75d3d3b1b32)
 
 [一木](https://www.zhihu.com/people/12177686282ba7001412b75d3d3b1b32)
 
@@ -140,7 +140,7 @@ Chalmers D J . The puzzle of conscious experience.\[J\]. Scientific American, 19
 
 2022-03-01
 
-[![生命粒子运动论](https://picx.zhimg.com/v2-00b20cc9b45ffaa98aeb138f89205f80_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
+[![[Read It Later/attachments/7cc294ebc6b982f006d6238135f26533_MD5.jpg]]](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
 
 [生命粒子运动论](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
 
@@ -149,7 +149,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 03-27
 
-[![不想做猫头鹰](https://pic1.zhimg.com/v2-ad197176efc1a4265410cbb8a652ff75_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/1e4bd60030e4dcdb8c08090af76cd6e4)
+[![[Read It Later/attachments/c10cfeec9b603b3692cd5aac2db8e13c_MD5.jpg]]](https://www.zhihu.com/people/1e4bd60030e4dcdb8c08090af76cd6e4)
 
 [不想做猫头鹰](https://www.zhihu.com/people/1e4bd60030e4dcdb8c08090af76cd6e4)
 
@@ -157,17 +157,17 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 03-22
 
-[![贝蒂心理天文](https://picx.zhimg.com/v2-43d18f0584f069be8ab76f7285d6cd0a_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/d7bc65da6c0e22da2cf6c59507896b63)
+[![[Read It Later/attachments/7613fb8fefe0b6be4be0f5b3b97b11d4_MD5.jpg]]](https://www.zhihu.com/people/d7bc65da6c0e22da2cf6c59507896b63)
 
 [贝蒂心理天文](https://www.zhihu.com/people/d7bc65da6c0e22da2cf6c59507896b63)
 
-![](https://picx.zhimg.com/v2-4812630bc27d642f7cafcd6cdeca3d7a.jpg?source=88ceefae)
+![[Read It Later/attachments/5745a448859ae36ec06cc04d38e7b515_MD5.png]]
 
 这个实验似乎并不能说明体验区分。无论是实验室中的颜色知识，还是非实验室中的颜色知识，都不能阻止玛丽产生独特的体验，只是体验对象不同而已![[思考]](https://pic4.zhimg.com/v2-bffb2bf11422c5ef7d8949788114c2ab.png)
 
 2024-11-29
 
-[![生命粒子运动论](https://picx.zhimg.com/v2-00b20cc9b45ffaa98aeb138f89205f80_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
+[![[Read It Later/attachments/7cc294ebc6b982f006d6238135f26533_MD5.jpg]]](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
 
 [生命粒子运动论](https://www.zhihu.com/people/18d9f120fa0025beefd9e2c8afce1080)
 
@@ -176,7 +176,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 2024-06-02
 
-[![Don juan](https://pic1.zhimg.com/v2-f60bbd7e7bb3d2cece648d91f2a78fdc_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/43ca16b87e71eb2e661d42c1e3f803da)
+[![[Read It Later/attachments/2c1e8fb380bbc42e22dabbfc50f93017_MD5.jpg]]](https://www.zhihu.com/people/43ca16b87e71eb2e661d42c1e3f803da)
 
 [Don juan](https://www.zhihu.com/people/43ca16b87e71eb2e661d42c1e3f803da)
 
@@ -184,7 +184,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 2023-03-23
 
-[![满洲里的大象](https://pica.zhimg.com/0aebb033c6d739079f1dc25f37f9097e_l.jpg?source=06d4cd63)](https://www.zhihu.com/people/7a330052ab9a2451b6a5513b70c52340)
+[![[Read It Later/attachments/9026c3f6306936951b887e2dbcdc2caf_MD5.png]]](https://www.zhihu.com/people/7a330052ab9a2451b6a5513b70c52340)
 
 [满洲里的大象](https://www.zhihu.com/people/7a330052ab9a2451b6a5513b70c52340)
 
@@ -192,7 +192,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 2021-05-01
 
-![](https://pic1.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_l.jpg?source=32738c0c&needBackground=1)
+![[Read It Later/attachments/26725aa9602db156eaafd2cb68a4a816_MD5.jpg]]
 
 理性发言，友善互动
 
@@ -202,7 +202,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 [
 
-![Nat Rev Neurosci 最新综述：意识理论](https://pic1.zhimg.com/v2-3ed84feabb92a9cfc716739715fb40e4_250x0.jpg?source=172ae18b)
+![[Read It Later/attachments/739af5570a4f666b8dac3a9d6f3fa48b_MD5.jpg]]
 
 # Nat Rev Neurosci 最新综述：意识理论
 
@@ -218,7 +218,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 ](https://zhuanlan.zhihu.com/p/51458950)[
 
-![怎样科学地研究“意识”？这里为你梳理了一条探索路径](https://picx.zhimg.com/v2-2499ffd1ce43cc5921e0aac3751f3edc_250x0.jpg?source=172ae18b)
+![[Read It Later/attachments/4fb176187c4bc4a594d39b8c9110754a_MD5.jpg]]
 
 # 怎样科学地研究“意识”？这里为你梳理了一条探索路径
 
@@ -226,7 +226,7 @@ AI都没有办法解决的问题，更何况普通人？科学界已经毫无指
 
 ](https://zhuanlan.zhihu.com/p/115443566)[
 
-![六大意识理论有望实现大一统](https://picx.zhimg.com/v2-4043769c91777fb6ecb1451793fe13ea_250x0.jpg?source=172ae18b)
+![[Read It Later/attachments/664f1eb1b1e761fc1f6fdb816679a04a_MD5.jpg]]
 
 # 六大意识理论有望实现大一统
 

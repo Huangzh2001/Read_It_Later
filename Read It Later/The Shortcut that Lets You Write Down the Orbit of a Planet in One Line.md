@@ -9,7 +9,7 @@ status:
 
 In my [last video](https://www.physicswithelliot.com/orbits-mini-notes), I showed you how you can derive the orbit of a planet around a star by solving the differential equations that came from the conservation of energy and conservation of angular momentum. It wasn't *too* complicated, but it certainly took a fair bit of work to solve those equations and figure out the orbit. Now I'm going to show you a shortcut that makes it possible to write down the orbit equation in one line. The trick comes from a special symmetry of Newton's gravitational force law, which leads to an additional conserved quantity called the Runge-Lenz vector.
 
-![](https://www.physicswithelliot.com/s/earth-sun.png)
+![[Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png]]
 
 The setup just like last time is that we have a star of mass $M$ fixed at the origin, and a planet of mass $m$ a distance $r$ away. We set up our coordinates so that the planet is in the $xy$ plane. Then last time we saw that the energy and the angular momentum of the planet are both constant. The energy was
 
@@ -149,7 +149,7 @@ $$
 
 where again $θ^$ stands for the unit vector pointing counterclockwise along the direction of increasing $θ$ .
 
-![](https://www.physicswithelliot.com/s/rhat-derivative.png)
+![[Read It Later/attachments/743e876bb92fb20a3780e6c8ca390b48_MD5.png]]
 
 To see why, suppose the unit vector $r^(t)$ moves to $r^(t+dt)$ after a time $dt$ has passed. Both vectors lie on the unit circle, so the displacement between them is just given by $dr^=dθθ^$ . Now divide both sides by $dt$ .
 

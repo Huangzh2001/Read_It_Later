@@ -17,7 +17,7 @@ As a matter of fact, we'll see that the action for a relativistic particle in a 
 
 Where things get really interesting is in *general* relativity—Einstein's theory of gravity. According to Einstein, a massive object like a star warps the spacetime around it, deforming it from the flat spacetime of special relativity into a curved geometry. Then we have to ask ourselves what it even means for a particle's path to be "straight" in a curved space. I'll tell you a little bit more about that in a future lesson, where we'll see that the principle of least action for a particle in general relativity demands that it travels along a very special kind of curve called a geodesic.
 
-![](https://www.physicswithelliot.com/s/paths.png)
+![[Read It Later/attachments/f5b89820b9f7ad3b408a7411dbabcf71_MD5.png]]
 
 Let's start with a very quick review of what we covered [last time](https://www.physicswithelliot.com/least-action-mini-notes). We had a particle of mass $m$ traveling from $x(t1)=x1$ to $x(t2)=x2$ , and we wanted to find the trajectory $x(t)$ that it follows in between. From Newton's second law, the trajectory will be given by the solution of the equation of motion,
 
@@ -45,7 +45,7 @@ Now, that discussion was limited to *Newtonian* mechanics. In other words, we as
 
 I want to explain the fundamental idea here, without things getting overly complicated, so I'm going to focus on a *free* particle—meaning a particle with no forces acting on it. Essentially that means setting the potential $U$ to zero. A free particle travels along a straight line, because there aren't any forces pushing or pulling it in one direction or another. In space, a straight line between two given points is of course the route that minimizes the distance between them. In spacetime, a straight trajectory between two events *maximizes* what's called the **proper time**. Let me break down what this means.
 
-![](https://www.physicswithelliot.com/s/pythagorean.png)
+![[Read It Later/attachments/5704d2c9ad69f23dd86a33d9e92d586b_MD5.png]]
 
 Let's first review some basic geometry; it might seem like I'm being a little pedantic here, but things are going to get weird in a moment when we start talking relativity, and so it's a good idea to refresh our memories about some fundamentals. Think about the $xy$ plane. Say we have two points on the plane that are separated by a distance $Δx$ in the $x$ direction and $Δy$ in the $y$ direction. Then Pythagoras taught us how to find the distance $Δs$ between the two points: it's given by
 
@@ -61,7 +61,7 @@ $$
 
 This expression defines what's called the **metric** of the $xy$ plane, which is just a fancy way of saying that it tells us how to measure distances.
 
-![](https://www.physicswithelliot.com/s/curve-length.png)
+![[Read It Later/attachments/662adaf0b9535394a332e9c7395cc900_MD5.png]]
 
 If we have some curve $y(x)$ , we can measure it's length by splitting it up into lots of tiny line segments of length $ds=dx2+dy2$ , and then adding them all up to get the total:
 

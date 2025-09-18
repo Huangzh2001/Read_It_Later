@@ -11,7 +11,7 @@ When a rope is hung up with its two ends pinned down at some pair of points, it 
 
 Whenever we have a continuous object like this rope, we can imagine slicing it up into many little pieces. Since the rope is at rest, the total force on each little piece must be zero. Imposing this condition will tell us the shape that the whole rope must take.
 
-![](https://www.physicswithelliot.com/s/string-fbd.png)
+![[Read It Later/attachments/abbaf5ee3ea77507dd46289783a8eb7b_MD5.png]]
 
 The forces on a bit of rope are gravity pulling straight down and two tension forces: one pointing forward along the rope and the other pointing backward. These three forces must add up to zero in order for the bit of rope to be in equilibrium. Note first of all that this means the horizontal component of the tension must be constant, so that the tension pointing to the right at one end cancels the tension pointing to the left at the other end:
 

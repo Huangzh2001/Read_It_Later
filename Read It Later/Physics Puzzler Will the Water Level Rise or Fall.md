@@ -7,11 +7,13 @@ status:
 
 Say you have a glass of ice water, and you wait around until the ice melts. Will the water level in the glass have gone up, gone down, or stayed the same?
 
-![](https://www.physicswithelliot.com/s/ice-drink.png)
+[[Read It Later/attachments/060155e3a0bd5167e5716efe11cb3d6c_MD5.png|Open: 060155e3a0bd5167e5716efe11cb3d6c_MD5.png]]
+![[Read It Later/attachments/060155e3a0bd5167e5716efe11cb3d6c_MD5.png]]
 
 As I showed you in my [last video](https://www.physicswithelliot.com/buoyant-help-room-notes), ice floats on top of liquid water because the density of ice is smaller than the density of water. That's because water expands as it freezes, and so the same mass of liquid turns into a larger volume of solid ice. Then the buoyant force from the water pushing up on the ice is able to support its weight, and the ice floats. We saw that about 90% of the volume of the ice lies below the surface though, and only 10% rises above.
 
-![](https://www.physicswithelliot.com/s/ice-options.png)
+[[Read It Later/attachments/a0ac4f3e1ed037ad7bb9f3bed9b4102e_MD5.png|Open: a0ac4f3e1ed037ad7bb9f3bed9b4102e_MD5.png]]
+![[Read It Later/attachments/a0ac4f3e1ed037ad7bb9f3bed9b4102e_MD5.png]]
 
 So when the ice that's floating in your drink melts, what's going to happen to the water level? You might think that since the ice will shrink into a smaller volume as it melts, that it will only fill in some fraction of the "hole" that it made when it was sitting under the surface of the water, like in option A, and so the height of the water level would drop. Or maybe it doesn't shrink enough, and since the ice rose above the original water level, when it melts is it still higher than where the water started, and so the level goes up, as in option B? Or maybe the level doesn't change at all, like in option C?
 

@@ -31,7 +31,8 @@ And third, we’ll look at how Taylor’s formula leads directly to the definiti
 
 So let’s start with the math, and understand what this formula is all about. And after that we’ll see how it applies to these three physics examples.
 
-![](https://www.physicswithelliot.com/s/function.png)
+[[Read It Later/attachments/f5e9bfd1affb5b47cbeb5fe943c28f6c_MD5.png|Open: f5e9bfd1affb5b47cbeb5fe943c28f6c_MD5.png]]
+![[Read It Later/attachments/f5e9bfd1affb5b47cbeb5fe943c28f6c_MD5.png]]
 
 Say we have some function, $f(x)$ . Here’s a random example. It looks really complicated. But instead of trying to understand the whole complicated function at once, let’s zoom in and look at it in a smaller region where it’s a lot simpler. Take this red point, for example. I've chosen the origin so that this is the point $x=0$ , so the height of the function is $f(0)$ there.
 
@@ -139,7 +140,8 @@ $$
 
 And here’s the kicker: when we include *all* the terms by summing up the infinite series over all powers of $x$ , we reproduce the *exact* function that we started with, as long as the function was sufficiently well-behaved. This is truly remarkable. It says that if we know all the derivatives of a function at a single point, we can reconstruct the rest of the function everywhere else.
 
-![](https://www.physicswithelliot.com/s/sin.png)
+[[Read It Later/attachments/c7d3cc17677014b0ee2c2a35894b0ea1_MD5.png|Open: c7d3cc17677014b0ee2c2a35894b0ea1_MD5.png]]
+![[Read It Later/attachments/c7d3cc17677014b0ee2c2a35894b0ea1_MD5.png]]
 
 Let’s do some examples. How about $f(x)=sin⁡x$ ? Let’s write down its Taylor series around $x=0.$ All we need to know are the derivatives evaluated there. So let’s make a little table:
 
@@ -171,7 +173,8 @@ But oftentimes in physics we’re not interested in the whole series; what we re
 
 The key point here is that when $x$ is small, like, say, $x=0.1$ , when we take larger powers of $x$ in the successive terms in the Taylor series, they get even *smaller*: $x3=0.001,$  $x5=0.00001$ , and so on, not to mention the huge factorials in the denominators. That’s why we can ignore the higher order terms for small $x$ , and get a good approximation to our function by keeping only the leading term.
 
-![](https://www.physicswithelliot.com/s/exp.png)
+[[Read It Later/attachments/51bc42c70fe8aae6c4cfb0c2647e84de_MD5.png|Open: 51bc42c70fe8aae6c4cfb0c2647e84de_MD5.png]]
+![[Read It Later/attachments/51bc42c70fe8aae6c4cfb0c2647e84de_MD5.png]]
 
 Let’s do another quick example: $f(x)=ex$ . This one’s easy because the derivative of $ex$ is just $ex$ again. Then all the derivatives that we need to calculate the Taylor series are the same:
 
@@ -345,7 +348,8 @@ Starting with number one. The basic procedure to solve a problem in classical me
 
 That’s easier said than done, though. Especially the last step—solving $F=ma$ —because for all but the simplest systems, this equation quickly becomes too hard to solve exactly. $F=ma$ is a **differential equation**, which just means that it contains derivatives of the function that you’re trying to solve for. And differential equations are much harder to solve than the algebraic equations that we all first learn in middle school and high school.
 
-![](https://www.physicswithelliot.com/s/pendulum-fbd.png)
+[[Read It Later/attachments/76c0fa56e70165e5426d6da9537b5a82_MD5.png|Open: 76c0fa56e70165e5426d6da9537b5a82_MD5.png]]
+![[Read It Later/attachments/76c0fa56e70165e5426d6da9537b5a82_MD5.png]]
 
 A simple example that [I’ve told you about](https://www.physicswithelliot.com/pendulum-help-room-notes) in a few past lessons is the pendulum. When solving for the motion of a pendulum, the main force we’re interested in is the component of gravity that points along the tangent direction to the circle where the particle is constrained to move. That’s $mgsin⁡θ$ , where $θ$ is the angle that the pendulum makes with the vertical axis. Then the $F=ma$ equation for $θ$ reads
 

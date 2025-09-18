@@ -7,11 +7,13 @@ status:
 
 ![](https://www.youtube.com/watch?v=rqckorUt2ck)
 
-![](https://www.physicswithelliot.com/s/resistor-ladder.png)
+[[Read It Later/attachments/ebf994c52fe07dcb793184dcca82f629_MD5.png|Open: ebf994c52fe07dcb793184dcca82f629_MD5.png]]
+![[Read It Later/attachments/ebf994c52fe07dcb793184dcca82f629_MD5.png]]
 
 You may have learned about combining resistors in series and in parallel when you covered circuits in your intro physics classes. But what if put together an *infinite* number of resistors? A classic physics puzzle is to consider an infinitely long chain of resistors, strung together to form a ladder shape like above. The question is to find the total, effective resistance of the whole ladder. In other words, if we hooked up a battery of voltage $V$ between the two left ends of the ladder and measured the current $I$ coming out of it, we want to figure out the resistance $Reff$ that would show up in Ohm's law for the circuit, $V=IReff.$
 
-![](https://www.physicswithelliot.com/s/resistors.png)
+[[Read It Later/attachments/dff4d6bbbc9fc1cd6895f622bd60a638_MD5.png|Open: dff4d6bbbc9fc1cd6895f622bd60a638_MD5.png]]
+![[Read It Later/attachments/dff4d6bbbc9fc1cd6895f622bd60a638_MD5.png]]
 
 To understand this problem we really just need to know the rules for adding resistors in series and in parallel. If we have two resistors $R1$ and $R2$ arranged back-to-back in a circuit, then they behave the same as if we had a single resistor with the "effective resistance" $Reff=R1+R2$ . We say that the resistors are "in series" with each other. The reason is that the same current $I$ is flowing through both resistors, and so the total voltage drop across the pair of them is
 
@@ -35,13 +37,15 @@ In our problem, we have a bunch of resistors combined up in series and in parall
 
 First of all, what do we roughly expect to get for the total resistance? For one thing, it will of course be proportional to $R$ , because that's the only thing with units of resistance in the problem. Second, the two resistors at the far left of the ladder are in series with the rest of the circuit to the right. So the total resistance will be equal to the contribution $2R$ from those two resistors, plus the contribution from the rest. The "rest" is an infinite number of resistors in parallel with the remaining leftmost resistor $R$ , and so that will contribute something less than $R$ to the total. So, the effective resistance should be somewhere between $2R$ and $3R$ .
 
-![](https://www.physicswithelliot.com/s/resistor-block-one.png)
+[[Read It Later/attachments/ec33b54ca4823653f7c2caf30f6ca5b1_MD5.png|Open: ec33b54ca4823653f7c2caf30f6ca5b1_MD5.png]]
+![[Read It Later/attachments/ec33b54ca4823653f7c2caf30f6ca5b1_MD5.png]]
 
 When I look at this problem, my first inclination is to think iteratively: break up the ladder into three-resistor "blocks," and ask what happens when we have one block, or two blocks, or three blocks strung together. The whole ladder is built up out of an infinite number of these blocks.
 
 Well, one block is of course very simple: we just have three identical resistors $R$ connected in series, and so the total resistance is $R+R+R=3R.$
 
-![](https://www.physicswithelliot.com/s/resistor-block-two.png)
+[[Read It Later/attachments/32a40f3d45470b17f40fb47b8a5cb1b5_MD5.png|Open: 32a40f3d45470b17f40fb47b8a5cb1b5_MD5.png]]
+![[Read It Later/attachments/32a40f3d45470b17f40fb47b8a5cb1b5_MD5.png]]
 
 Now what about two blocks? This looks a little more complicated. Can we really understand it just using the series and parallel combinations we talked about before? We can! To make it more obvious though, it helps to bend the wires around to make the circuit look like a more straightforward arrangement of series and parallel resistors. The three rightmost resistors are in series, so they combine up into $3R$ . Then that $3R$ resistance is in parallel with a single resistor $R$ , and so they combine into
 
@@ -57,7 +61,8 @@ $$
 
 Let's let $RN$ denote the effective resistance of $N$ blocks connected together. So what we've found so far is that $R1=3R$ and $R2=114R.$
 
-![](https://www.physicswithelliot.com/s/resistor-block-three.png)
+[[Read It Later/attachments/a780cfd70fc435d95b87b05fc2b8cf45_MD5.png|Open: a780cfd70fc435d95b87b05fc2b8cf45_MD5.png]]
+![[Read It Later/attachments/a780cfd70fc435d95b87b05fc2b8cf45_MD5.png]]
 
 Now what if we go up to three blocks? Think about adding on this third block to the left of our previous two-block circuit. It puts the two-block circuit in parallel with a single resistor $R$ , and then adds on two more resistors in series with that. So instead of calculating the whole three-block resistance from scratch, we can use what we already learned by writing
 

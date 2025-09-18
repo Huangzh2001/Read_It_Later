@@ -11,7 +11,7 @@ status:
 
 When you start out studying physics, you learn about the motion of things like baseballs and pendulums and even planets. All that falls into the category of classical mechanics. And our basic job in classical mechanics is to figure out the position of a particle as a function of time, or in other words its trajectory $x(t)$ .
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/393174bb-53a7-41da-9978-01be73c2fe0d/parabola.png?content-type=image%2Fpng)
+![[Read It Later/attachments/0b9f44e2edb0e20e196f636432b84999_MD5.png]]
 
 About a hundred years ago, though, people discovered that the physics of tiny objects—like atoms and protons and electrons—is very different. They’re instead described by *quantum* mechanics. And quantum mechanical particles hardly behave at all the same as classical objects like baseballs.
 
@@ -19,7 +19,7 @@ For example, we’ll discover shortly that a particle like an electron doesn’t
 
 We’ll see in this lesson how that language of wavefunctions comes about by investigating a very simple setup called the double-slit experiment.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/28026bb8-eb1b-4379-accd-a4245d1662a0/double_slit.png?content-type=image%2Fpng)
+![[Read It Later/attachments/1bfd7dbc87ae1243aaa5a4b67b50ad87_MD5.png]]
 
 The idea is basically to throw different things at a wall with two little holes cut into it and see what comes out on the other side. What we find will depend on whether we were throwing classical particles, classical waves, or quantum particles.
 
@@ -29,7 +29,7 @@ You might wonder, though, if there’s a different way of approaching quantum me
 
 In fact, there is. It’s called the **path integral formulation** of quantum mechanics, and it was invented by Richard Feynman a couple of decades after Schrödinger and friends first worked out the wavefunction approach. The catch is, instead of following a single trajectory like in classical mechanics, a quantum particle does a kind of statistical average of every trajectory it could conceivably take between two points.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e897f9a2-2c51-4d10-bcb5-a0ef2f0742ed/paths.png?content-type=image%2Fpng)
+![[Read It Later/attachments/ca33e2b38a56155e9b7039d579cf0469_MD5.png]]
 
 But [more on that later](https://www.physicswithelliot.com/path-integral-mini-notes). This is the first of a [series of lessons](https://www.physicswithelliot.com/qm-sequence) explaining Feynman’s way of looking at quantum mechanics, which provides an incredibly powerful intuition for understanding the way physics works at microscopic scales.
 
@@ -47,13 +47,15 @@ A lot of the pellets will hit the wall and bounce backwards, but some of them wi
 
 If we only have the left hole open and the right one is closed up, and we make a histogram recording where each of the pellets hits the backstop, we’d expect to get a distribution that looks something like this, with most of the pellets hitting in the region behind the left hole:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/c3a3becf-24c5-4d93-8db7-aa68202c4ab5/left_histogram.png?content-type=image%2Fpng)
+[[Read It Later/attachments/a7ad4a3e54ec8c799e4583a8b19e2d1e_MD5.png|Open: a7ad4a3e54ec8c799e4583a8b19e2d1e_MD5.png]]
+![[Read It Later/attachments/a7ad4a3e54ec8c799e4583a8b19e2d1e_MD5.png]]
 
 Likewise, if we close up the left hole and only open up the right one, we’d see a similar distribution behind the right hole.
 
 And of course when we open up both holes, the total distribution will look like the sum of those two individual distributions, because each pellet either goes through one hole or the other:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/c3b0a120-3b44-4f62-a131-0f8ea45c768d/total_histogram.png?content-type=image%2Fpng)
+[[Read It Later/attachments/73af0f7858919de7f7a880346eee527a_MD5.png|Open: 73af0f7858919de7f7a880346eee527a_MD5.png]]
+![[Read It Later/attachments/73af0f7858919de7f7a880346eee527a_MD5.png]]
 
 There’s nothing mysterious going on here so far; we’re just talking about the regular old classical motion of these little pellets.
 
@@ -61,13 +63,15 @@ There’s nothing mysterious going on here so far; we’re just talking about th
 
 But now let’s suppose that instead of firing BBs at the wall, we send in waves instead. For example, say we shine a laser beam at the barrier. (With the holes resized appropriately, of course.)
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/bdd7fd9f-d0a9-4c26-a3d0-953aa12ca82c/double_slit_waves.png?content-type=image%2Fpng)
+[[Read It Later/attachments/e6ddfd5db49b40c5f3b6d755e91fad58_MD5.png|Open: e6ddfd5db49b40c5f3b6d755e91fad58_MD5.png]]
+![[Read It Later/attachments/e6ddfd5db49b40c5f3b6d755e91fad58_MD5.png]]
 
 We’re still in the realm of classical physics here, but this is a more interesting problem now because the waves coming out of the two holes will *interfere* with one another and produce what’s called an **interference pattern** (or **diffraction pattern**) on the back screen.
 
 If we close up the right hole again and look at the intensity of the outgoing light on the observation screen, the shape will look fairly similar to what we drew a second ago for the BB pellets. And correspondingly, when you look at the screen you’ll see a band of light with that profile. Let’s call that $I1$ , the intensity of the light with only hole 1 open.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/23fc91f4-18aa-4ed8-a547-aeae85e6c8f0/left_intensity.png?content-type=image%2Fpng)
+[[Read It Later/attachments/40920a4bf9dcf51c026979c5ae0fc9cb_MD5.png|Open: 40920a4bf9dcf51c026979c5ae0fc9cb_MD5.png]]
+![[Read It Later/attachments/40920a4bf9dcf51c026979c5ae0fc9cb_MD5.png]]
 
 Likewise if we close up that hole and open the other one, we’ll get a similar pattern $I2$ that’s shifted over slightly behind hole 2.
 
@@ -75,18 +79,21 @@ There are two key differences here compared to the BB pellets, though. First, th
 
 The second key difference comes when we open both holes. If light behaved like the BB pellets, we could just add together the two curves to find the total intensity we should get with both holes open, $I12=?I1+I2$ . And if that were true, the image on the back wall would be a wide band of light:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/076e81a2-5cca-4eb7-985f-82c024bb4ebd/total_intensity_no_interference.png?content-type=image%2Fpng)
+[[Read It Later/attachments/99ca587580fa888c1b99f5c4e17b76a1_MD5.png|Open: 99ca587580fa888c1b99f5c4e17b76a1_MD5.png]]
+![[Read It Later/attachments/99ca587580fa888c1b99f5c4e17b76a1_MD5.png]]
 
 But that’s not what you’ll see when you shine a laser beam on a pair of narrow slits. Instead, you’ll see an image with many little fringes of light separated by intervals of near total darkness:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/83918c81-9e5f-4547-8c87-b27bae2c1160/diffraction_pattern.jpg?content-type=image%2Fjpeg)  
+[[Read It Later/attachments/193dcc42e3cd5571008559252cdaf6ac_MD5.jpg|Open: 193dcc42e3cd5571008559252cdaf6ac_MD5.jpg]]
+![[Read It Later/attachments/193dcc42e3cd5571008559252cdaf6ac_MD5.jpg]] 
 Source: \[Wikipedia\](https://en.wikipedia.org/wiki/Double-slit\_experiment#/media/File:Single\_slit\_and\_double\_slit2.jpg)
 
 And that’s what we call an interference pattern.
 
 The corresponding intensity curve with both holes open would have many alternating peaks and valleys corresponding to the bright and dark spots on the screen:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/4abac9e0-29aa-4164-b05c-e1217ad8471c/total_interference.png?content-type=image%2Fpng)
+[[Read It Later/attachments/c49f7216980de5da9903eab2918f8cd6_MD5.png|Open: c49f7216980de5da9903eab2918f8cd6_MD5.png]]
+![[Read It Later/attachments/c49f7216980de5da9903eab2918f8cd6_MD5.png]]
 
 Clearly, it’s *not* simply the sum of the intensities $I1$ and $I2$ that we had when the individual holes were open, $I12≠I1+I2$ .
 
@@ -98,7 +105,7 @@ Indeed, the reason we’re talking about all this right now is that we’re abou
 
 To keep things simple, we’ll suppose that the gaps in the barrier are very narrow. That way, after the incoming plane wave $ψinc$ strikes the barrier, it breaks up into two *spherical* waves $ψ1$ and $ψ2$ . Then those spherical waves travel along until we intercept them far away on the observation screen.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/3cf0ab1e-0a21-4e23-849f-1872c355efa4/wave_geometry.png?content-type=image%2Fpng)
+![[Read It Later/attachments/5a67736ca13fd49525002c5470876088_MD5.png]]
 
 The total outgoing wave is the sum of those two spherical waves. But because the holes in the barrier are separated a little bit apart, the two waves have to travel slightly different distances to arrive at the observation screen—call them $r1$ and $r2$ .
 
@@ -122,7 +129,8 @@ $$
 
 This is the standard sort of form for a wave of wavelength $λ$ that’s traveling along in the $y$ direction at speed $v$ . If we draw it at a fixed instant in time, $λ$ is telling us how far apart the successive peaks are, and $A$ tells us how tall they are:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/afed937b-38ac-46d4-85fb-a823335c0c7a/cosine_wave.png?content-type=image%2Fpng)
+[[Read It Later/attachments/c4d2a3fbf9965d4bbd88d7e98ebf78fa_MD5.png|Open: c4d2a3fbf9965d4bbd88d7e98ebf78fa_MD5.png]]
+![[Read It Later/attachments/c4d2a3fbf9965d4bbd88d7e98ebf78fa_MD5.png]]
 
 In the case of light, $λ$ and $A$ would correspond to the color and brightness of the laser. Of course, a light wave is actually built up of electric and magnetic fields, which are vectors, but it’s enough to think about a simple scalar wave like this to illustrate the origin of the interference pattern.
 
@@ -200,7 +208,8 @@ $$
 I12=4A2cos2⁡(πλ(r1−r2)).
 $$
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/bf2a6f2c-f9b4-4486-9249-593ccfb0a0fb/double_slit_geometry.png?content-type=image%2Fpng)
+[[Read It Later/attachments/b313008112feadc01c01b47850dd2201_MD5.png|Open: b313008112feadc01c01b47850dd2201_MD5.png]]
+![[Read It Later/attachments/b313008112feadc01c01b47850dd2201_MD5.png]]
 
 Let's write $s$ for the separation between the holes and $d$ for the distance between the barrier and the observation screen. And let's label the points on the screen by a coordinate $x$ , measured from the center of the screen. Then with a little geometry you can show, approximately, that
 
@@ -218,13 +227,15 @@ $$
 
 which is indeed an oscillating pattern of bright and dark fringes along the screen:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e12831f7-78b6-42d0-8419-9d426cfe09b1/cosine_squared_interference.png?content-type=image%2Fpng)
+[[Read It Later/attachments/632b1998080dee3b19959c8ed36af64b_MD5.png|Open: 632b1998080dee3b19959c8ed36af64b_MD5.png]]
+![[Read It Later/attachments/632b1998080dee3b19959c8ed36af64b_MD5.png]]
 
 This is the interference pattern for two point-like holes in the barrier. The more intricate pattern I showed you earlier arises when you account for the fact that in reality the holes will have some finite width to them.
 
 But we can also understand the interference pattern for finite-width holes—or for *any* shaped gap in the barrier—using the same basic strategy. Because whatever shape you want to punch out of the wall—like a wide slit, say—we can build it up by starting with a solid barrier and drilling out lots of little holes:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/312b32cd-2d00-4309-9256-7a01f4bea66e/huygens.png?content-type=image%2Fpng)
+[[Read It Later/attachments/5af3e1a90c9d8025fc0c3375f70c1c57_MD5.png|Open: 5af3e1a90c9d8025fc0c3375f70c1c57_MD5.png]]
+![[Read It Later/attachments/5af3e1a90c9d8025fc0c3375f70c1c57_MD5.png]]
 
 Then each little hole acts as a source for a spherical wave that propagates outward toward the detector, and to construct the interference pattern all we need to do is add up the complex phases from all those individual waves (and square it):
 
@@ -246,13 +257,15 @@ Where things start to get weird is when we open both holes at once. If our every
 
 But that’s not what happens. When we fire electrons at the barrier with both holes open, the spots where they hit the backstop look like this:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/2b02cea5-d72b-42ed-ac4c-9afd3450875e/hitachi.jpg?content-type=image%2Fjpeg)  
+[[Read It Later/attachments/b58aa68ab283ebe122522cc77b390dcf_MD5.jpg|Open: b58aa68ab283ebe122522cc77b390dcf_MD5.jpg]]
+![[Read It Later/attachments/b58aa68ab283ebe122522cc77b390dcf_MD5.jpg]] 
 
 Source: [Hitachi](https://www.hitachi.com/rd/research/materials/quantum/doubleslit/index.html)
 
 There are dense fringes where many electrons hit, separated by gaps where relatively few hit. It’s another interference pattern! And the corresponding distribution is the same sort of oscillating curve we drew earlier.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/964fd606-6e47-4f21-b70a-f734d33781a2/electron_interference.png?content-type=image%2Fpng)
+[[Read It Later/attachments/ac7c1d31c107b1695efa412106953d4d_MD5.png|Open: ac7c1d31c107b1695efa412106953d4d_MD5.png]]
+![[Read It Later/attachments/ac7c1d31c107b1695efa412106953d4d_MD5.png]]
 
 This behavior is utterly baffling! Look at the region of the observation screen indicated by the arrow. With just one hole open in the barrier, plenty of electrons will make it through and hit right around there.
 
@@ -325,7 +338,7 @@ Like I mentioned at the beginning, though, there’s another way of looking at a
 
 But now, if we push that further by drilling more holes in the barrier—and, for that matter, adding even more barriers in between— we’re lead to the idea that we actually need to consider *every* possible path that the particle could follow on its way across the gap.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/2a84f582-0604-4f44-a1ce-590ebac15d27/many_barriers.png?content-type=image%2Fpng)
+![[Read It Later/attachments/c52a71f827b595546969d08df6e61ee6_MD5.png]]
 
 That’s our first inkling of Feynman’s path integral formulation of quantum mechanics, which is also the most direct way of understanding how all this quantum weirdness connects back to what we observe day to day up here in the classical world. But we’ll take that topic up in [the next lesson](https://www.physicswithelliot.com/path-integral-mini-notes).
 

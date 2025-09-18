@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4ac1c5973ec475",
+        "id": "61212408161d1cca",
         "type": "tabs",
         "children": [
           {
-            "id": "42fd9ced3d1cc47f",
+            "id": "cf49773cc6832ba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正在读&正在看.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "正在读&正在看"
+              "title": "新标签页"
             }
           }
         ]
@@ -193,25 +189,32 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "42fd9ced3d1cc47f",
+  "active": "cf49773cc6832ba1",
   "lastOpenFiles": [
+    "Read It Later/attachments/7d1941532f227bdb3b3ae748e3e8c2a3_MD5.png",
+    "Read It Later/attachments/b3fedd0ce76ca955f6dc0a7b33c7505b_MD5.png",
+    "Read It Later/attachments/c3a3fe23fa769aabdc9ed9574f7af7f7_MD5.png",
+    "Read It Later/attachments/c25ce61a2e98cc158de5be2769eb1280_MD5.png",
+    "Read It Later/attachments/05a2af5a272616dc41d2ac8801e668e3_MD5.png",
+    "Read It Later/attachments/d0419f5effabaa05168187bbf33950aa_MD5.png",
+    "Read It Later/attachments/7d210fc934019dafd1b9ff1b1dee5ca9_MD5.png",
+    "Read It Later/attachments/66ce7c5ce44548f32e2dec99d918b2ab_MD5.png",
+    "Read It Later/attachments/4cbfd598039755a9889fe70ebfdb2569_MD5.png",
+    "Read It Later/attachments/559a284c5006352f2508bc381e6d857c_MD5.png",
+    "Read It Later/attachments/6bbe28689ab3af2fde702f5da855844c_MD5.png",
+    "Read It Later/修改并写了新的知乎剪藏模版obsidian web clipper - 经验分享.md",
+    "正在读&正在看.md",
+    "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
+    "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
+    "Read It Later/Omnivore/【Manifolds 】simplicial 流形可视化_哔哩哔哩_bilibili/attachments",
+    "Read It Later/Omnivore/在Word中插入代码 -- 绝对高效，一劳永逸 - 知乎/attachments",
+    "Read It Later/Omnivore/👋 首页 - 飞书云文档/attachments",
     "Read It Later/卢曼：与卡片盒交流.md",
-    "Read It Later/attachments/ca33e2b38a56155e9b7039d579cf0469_MD5.png",
-    "Read It Later/attachments/e543983787b481856a78064e75165ed1_MD5.png",
-    "Read It Later/attachments/0b9f44e2edb0e20e196f636432b84999_MD5.png",
-    "Read It Later/attachments/8418f56d3095aeb7eaabae4679824bfc_MD5.png",
-    "Read It Later/attachments/1bfd7dbc87ae1243aaa5a4b67b50ad87_MD5.png",
-    "Read It Later/attachments/c52a71f827b595546969d08df6e61ee6_MD5.png",
-    "Read It Later/attachments/5a67736ca13fd49525002c5470876088_MD5.png",
-    "Read It Later/attachments/6b450f282c5de1104098dea6fa29d276_MD5.png",
-    "Read It Later/attachments/743e876bb92fb20a3780e6c8ca390b48_MD5.png",
-    "Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png",
     "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
     "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
     "Read It Later/Communicating with Slip Boxes by Niklas Luhmann.md",
     "未读&未看.md",
-    "正在读&正在看.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
     "Watch It Later/How To Become So Genius It Feels Illegal!.md",
@@ -231,14 +234,8 @@
     "待整理.md",
     "utils/obsidian-urls/logs/2025-09-15_13-43-55.md",
     "utils/obsidian-urls/logs/2025-09-15_07-48-07.md",
-    "已读&已看.md",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",
-    "obsidian-urls/urls.json",
-    "obsidian-urls",
-    "Clippings/未命名",
-    "utils/obsidian-urls/urls.json",
-    "utils/obsidian-urls/logs/attachments",
-    "utils/obsidian-urls/logs"
+    "obsidian-urls/urls.json"
   ]
 }

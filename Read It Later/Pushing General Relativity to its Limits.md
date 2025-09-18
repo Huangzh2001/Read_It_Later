@@ -7,7 +7,8 @@ status:
 
 In the course of your physics education, you’ve likely heard about two radically different pictures of gravity due to the two greatest titans in history of physics: Isaac Newton and Albert Einstein. In the first case, Newton proposed a fairly straightforward universal law of gravitation: every pair of masses in the universe experience an attractive force between them that falls off as one over their separation squared. Einstein, on the other hand, saw gravity very differently. According to his general theory of relativity, massive objects warp the very geometry of spacetime, causing other particles nearby to deviate from the straight paths they would otherwise follow traveling through the empty void of outer space.
 
-![](https://www.physicswithelliot.com/s/Warp.png)
+[[Read It Later/attachments/2361b1c4d60690678a8d0a17c6ad94d1_MD5.png|Open: 2361b1c4d60690678a8d0a17c6ad94d1_MD5.png]]
+![[Read It Later/attachments/2361b1c4d60690678a8d0a17c6ad94d1_MD5.png]]
 
 But here’s a question you may have wondered about: how do these two completely different descriptions lead to nearly the same predictions for, say, the orbit of our home planet around the Sun?
 
@@ -17,7 +18,7 @@ Einstein’s general relativity, meanwhile, launched gravity into the 20th centu
 
 So the question is, how does Einstein’s geometric theory of spacetime reduce to Newton’s comparatively simple theory in the limit where they’re both supposed to describe the same physics, like a planet circling a star? And in the opposite limit when gravity is taken to the extreme, how does Einstein's theory stretch beyond Newton's and predict the most powerful gravitational objects in the universe: black holes?
 
-![](https://www.physicswithelliot.com/s/earth-sun.png)
+![[Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png]]
 
 You’re hopefully familiar with the basics of Newton’s law of gravity. Given two particles of masses $M$ and $m$ , and separated by a distance $r$ , Newton says that there’s an attractive force between them given by
 
@@ -57,7 +58,7 @@ What we’re going to uncover in the rest of this lesson is how the geodesic equ
 
 Let's dig into the details now. Since general relativity is at its core a geometric theory, we should start by learning a little bit of the necessary geometry. We covered a lot of this in the earlier lessons on the principle of least action in [special](https://www.physicswithelliot.com/special-relativity-action-mini-notes) and [general](https://www.physicswithelliot.com/gr-action-mini-notes) relativity, which you may want to look at as well.
 
-![](https://www.physicswithelliot.com/s/pythagorean.png)
+![[Read It Later/attachments/5704d2c9ad69f23dd86a33d9e92d586b_MD5.png]]
 
 Let’s begin by thinking about the regular old $xy$ plane. Say we have two points on the plane, and we want to find the distance between them. You’ve probably known since middle school that to find the answer we can just draw a triangle with the horizontal separation $Δx$ along the bottom leg and the vertical separation $Δy$ along the side leg. Then the length $Δs$ of the hypotenuse is given by the Pythagorean theorem,
 

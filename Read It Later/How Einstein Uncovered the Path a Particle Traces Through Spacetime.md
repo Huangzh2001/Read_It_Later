@@ -7,7 +7,7 @@ status:
 
 In this physics mini lesson, we're going to continue our discussion of the principle of least action, following up on the lessons about the action in [Newtonian mechanics](https://www.physicswithelliot.com/least-action-mini-notes) and in [special relativity](https://www.physicswithelliot.com/special-relativity-action-mini-notes). This time, we'll talk about the action for a particle in *general* relativity, Einstein's theory of gravity. We'll write down the action for a particle traveling through spacetime, and see how the particle is forced to traverse a very special kind of curve called a geodesic.
 
-![](https://www.physicswithelliot.com/s/Warp.png)
+![[Read It Later/attachments/2361b1c4d60690678a8d0a17c6ad94d1_MD5.png]]
 
 The basic idea of Einstein's theory is that a massive object like a star warps the geometry of spacetime around it. Then according to Einstein, something like a planet traveling along nearby doesn't really experience a gravitational force at all, it just keeps moving along the straightest and shortest path that it can through this curved geometry. And that's what a geodesic is: the straightest and shortest possible path through a curved space.
 
@@ -213,7 +213,7 @@ The geodesic equation describes the motion of a free particle in the presence of
 
 The last thing I want to do is give you an intuitive idea of what geodesics are all about by describing what's probably the simplest example of a curved space that we can all picture: the surface of a sphere. These aren't directly relevant to the geodesics in spacetime that we encounter in general relativity, but they'll at least give you an idea that you can picture in your head to understand what a geodesic is.
 
-![](https://www.physicswithelliot.com/s/sphere-geodesic.png)
+![[Read It Later/attachments/290fce135b3358d4fa3fe4c84f971653_MD5.png]]
 
 So picture a sphere, and pick any two points on it. To find the geodesic between them, just draw an equator of the sphere that goes between the two endpoints. In other words, think of the sphere as an onion, and chop the onion in half so that your knife goes through both of the given points. Call one half the "northern" hemisphere and the other the "southern" hemisphere. The cut you made is along the "equator", and it defines a geodesic between the two points (two, actually, one going the short way around and the other the long way).
 

@@ -9,7 +9,7 @@ status:
 
 In the three hundred and some years since the scientific revolution, the two deepest theories of nature that human beings have written down are the standard model of particle physics and Albert Einstein’s theory of gravity, general relativity. Both are examples of **field theories** —quantum in the first case and classical in the second—which describe the laws of nature in terms of fluctuating fields that permeate space and time. In this lesson, I'm going to give you an introduction to the fundamentals of classical field theory.
 
-![](https://www.physicswithelliot.com/s/earth-sun.png)
+![[Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png]]
 
 First of all, what is field theory, and why do need it? We all start out in physics by looking at a bunch of particles, writing down the total force on each one, and then setting it equal to $ma$ . Think about the Sun and Earth, for example. According to Newton’s law of gravity, the Sun exerts a force on the Earth that pulls it toward it. The force is proportional to the mass of each, and goes as one over the distance squared between them:
 
@@ -43,7 +43,7 @@ $$
 S=∫titfdt L.
 $$
 
-![](https://www.physicswithelliot.com/s/paths.png)
+![[Read It Later/attachments/f5b89820b9f7ad3b408a7411dbabcf71_MD5.png]]
 
 Suppose the particle is traveling from starting point $xi$ at time $ti$ to another point $xf$ at time $tf$ . Then the question is: what trajectory $x(t)$ will it follow to get there? For any path connecting the two points, the action is a number that you get by integrating the Lagrangian over it. The principle of least action says that the particle is going to follow the path for which $S$ is smallest—or at least stationary.
 
@@ -55,7 +55,7 @@ $$
 
 That’s just because the tangent to $f$ at an extremum is a horizontal line, and when you take a step along a horizontal line the height of the function doesn’t change.
 
-![](https://www.physicswithelliot.com/s/wiggles.png)
+![[Read It Later/attachments/422efe965ba9075cb66b12d82ccd521b_MD5.png]]
 
 It’s the same with the action, except that now we want to find the *curve* $x(t)$ for which $S$ is minimized. So what we do is make a small variation of the curve by shifting $x(t)→x(t)+ε(t)$ , where $ε(t)$ is an infinitesimal function that adds little wiggles on top of our original curve, deforming it just a bit. If we indeed started at a minimum, then the action shouldn’t change under this shift.
 

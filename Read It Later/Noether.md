@@ -33,7 +33,7 @@ and the action is the integral of the Lagrangian over time.
 
 According to the principle of least action, the particle is going to choose the path $x(t)$ for which $S$ is minimized, or at least extremized. Let's quickly review how that works, since we're going to follow the same line of reasoning in a second to derive Noether's theorem.
 
-![](https://www.physicswithelliot.com/s/wiggles.png)
+![[Read It Later/attachments/422efe965ba9075cb66b12d82ccd521b_MD5.png]]
 
 If we take our path $x(t)$ and make a tiny deformation of it by adding some wiggles, $x(t)→x(t)+ε(t)$ , then if we're sitting at a minimum of $S$ it shouldn't change at all at leading order in $ε$ . That's the defining property of an extremal point—when you take a little step away your function is constant because you were sitting at a point where the rate of change of the function vanished.
 
@@ -107,17 +107,19 @@ and so we only have a symmetry if $U′(x)=0$ —i.e. if the potential is a hori
 
 But that's exactly what we should expect! If we turn on a potential $U(x)$ , then our particle will be subject to a force $F=−dUdx$ , and Newton's second law says that the force on the particle equals the rate of change of its momentum. So the momentum isn't constant anymore because there's a force acting on the particle.
 
-![](https://www.physicswithelliot.com/s/mass-spring.png)
+[[Read It Later/attachments/05ad4219cd386aef4221bf34a66b435d_MD5.png|Open: 05ad4219cd386aef4221bf34a66b435d_MD5.png]]
+![[Read It Later/attachments/05ad4219cd386aef4221bf34a66b435d_MD5.png]]
 
 For example, say that $U(x)=12k(x−l)2$ was the harmonic oscillator potential energy. Then the Lagrangian $12mx˙2−U(x)$ describes a particle attached to a spring. But of course this system is not translation invariant! If you pick up the mass and slide it around, you'll stretch or compress the spring and therefore change the system! So there's no translation symmetry, there's a force on the mass, and momentum is not conserved.
 
-![](https://www.physicswithelliot.com/s/two-mass-spring.png)
+[[Read It Later/attachments/bb9e6001d6e34fd343275f083502991f_MD5.png|Open: bb9e6001d6e34fd343275f083502991f_MD5.png]]
+![[Read It Later/attachments/bb9e6001d6e34fd343275f083502991f_MD5.png]]
 
 On the other hand, say we had *two* masses connected by a spring. Now if we pick up the whole system—both masses, the spring, everything—and slide them around without changing their *relative* positions then nothing's really different. So the *system* is translation invariant. Then Noether's theorem says that the *total* momentum of the system is conserved, as you should show for yourself by a similar kind of reasoning like we went through above.
 
 And again that's what we expect from Newton's law. Remember that Newton's second law for a system says that the total *external* force equals the rate of change of the total momentum. A system with no external force on it is called *isolated*, and therefore the total momentum of an isolated system is a constant. And indeed our two masses connected by a spring is an isolated system—the spring force is internal because it acts between two components of the system.
 
-![](https://www.physicswithelliot.com/s/2d-mass-spring.png)
+![[Read It Later/attachments/570f52f58572023e551d9dbc2848ed0c_MD5.png]]
 
 Let's go back to our one particle mass-on-a-spring example, but this time let's graduate to two dimensions. So now we have something like a hockey puck on a frictionless ice rink, attached to a spring that's fixed in the center of the rink.
 

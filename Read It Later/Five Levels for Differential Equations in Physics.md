@@ -44,7 +44,7 @@ There’s a good chance you’ve run into this equation before, and maybe you’
 
 ### The Equation
 
-![](https://www.physicswithelliot.com/s/spring-block.png)
+![[Read It Later/attachments/99d2cac50da973e4b1a9e68766bcf3c5_MD5.png]]
 
 First of all, let me quickly remind you where the simple harmonic oscillator differential equation comes from. Our setup is a block of mass $m$ , sitting on a frictionless table, and hooked up to a spring of stiffness $k$ .
 
@@ -294,7 +294,7 @@ just like we found with method number one! So conservation of energy also lets u
 
 And in fact this strategy can often be successful for harder problems, even when our first method doesn’t work. A great example is the simple pendulum, which is *supposed* to be so simple that it’s in the name, but actually it’s surprisingly tricky:
 
-![](https://www.physicswithelliot.com/s/pendulum-coordinates.png)
+![[Read It Later/attachments/8f28feb3b7f962fa6285db15b082e5c5_MD5.png]]
 
 The $F=ma$ equation for its coordinate $θ$ , which measures the angle of the pendulum, looks like this:
 
@@ -486,11 +486,11 @@ But the way you should think about it, is that we have two “spaces” here: $t
 
 To give a couple of examples, if $x(t)$ were a constant, like $x(t)=1$ , then it’s just a horizontal line in $t$ -space. And you can show pretty easily that its Laplace transform in $s$ -space, obtained by doing the above integral, is $x^(s)=1s$ :
 
-![](https://www.physicswithelliot.com/s/Laplace-constant.png)
+![[Read It Later/attachments/75194c3623570315bb2d5db9f0fb3e99_MD5.png]]
 
 Or, for our block on a spring, we’ve found—and we’re about to find again—that $x(t)=x0cos⁡Ωt$ oscillates in $t$ -space. And in $s$ -space, the result of the integral is a rational function, $x^(s)=x0ss2+Ω2$ :
 
-![](https://www.physicswithelliot.com/s/Laplace-cosine.png)
+![[Read It Later/attachments/d00fc68d7f6e901d6f273242fea670bd_MD5.png]]
 
 Alright, so we can do this integral to go from $t$ -space to $s$ -space. But why the heck would we want to do such a thing? How does it help us solve a differential equation like our harmonic oscillator,
 
@@ -628,7 +628,7 @@ $$
 
 But working with the first-order equations has a couple of big advantages. To see why it’s helpful, let’s draw a picture with $x$ on the horizontal axis and $p$ on the vertical axis:
 
-![](https://www.physicswithelliot.com/s/phase-space-coords.png)
+![[Read It Later/attachments/9b6b451f361df71f93ff5db56137935c_MD5.png]]
 
 This picture is called the **phase space**, and each point in this plane tells us where the block is and what its momentum—or equivalently its velocity—is at any given instant.
 
@@ -648,7 +648,7 @@ Again, $x$ and $p$ are the coordinates of the ping-pong ball on the surface of t
 
 Likewise, we can go to each point $(x,p)$ in this plane and draw the velocity vector $(p/m,−kx)$ at that location. Those arrows are what tell us the “current” that’s swirling around this plane, and what dictates how the ping-pong ball will move:
 
-![](https://www.physicswithelliot.com/s/sho-flow.png)
+![[Read It Later/attachments/2d7cd22d405759dbef662d2283754641_MD5.png]]
 
 You can see that they’re swirling around the origin—that’s the equilibrium point. And I’m using the colors to indicate how strong the current is: it’s smallest for the yellow arrows near the middle, and gets bigger for the red arrows farther out.
 

@@ -29,7 +29,8 @@ $$
 
 where $ρ$ is the charge density and $J$ is the current density. And we’ll identify the associated symmetry, known as “ $U(1)$ ”, in a theory like electromagnetism that’s tied to the conservation of electric charge by Noether’s theorem. This is the simplest component of the standard model of particle physics, although I should clarify that the $U(1)EM$ of electromagnetism is not literally the $U(1)$ in the $SU(3)×SU(2)×U(1)Y$ symmetry that labels the standard model. Instead, $U(1)EM⊂SU(2)×U(1)Y$ is a component sitting inside the standard model, that falls out after the Higgs mechanism and its famous Higgs particle do their business. That part of the story will have to wait for another day, though.
 
-![](https://www.physicswithelliot.com/s/cube.png)
+[[Read It Later/attachments/013ac7a6969f15e8b28713f3bbc4d41d_MD5.png|Open: 013ac7a6969f15e8b28713f3bbc4d41d_MD5.png]]
+![[Read It Later/attachments/013ac7a6969f15e8b28713f3bbc4d41d_MD5.png]]
 
 Let’s start off by understanding what it means for electric charge to be locally conserved, which you may or may not have learned about before in a class on E&M, and after that we’ll see how conservation laws like these arise naturally from Noether’s theorem for any field theory. Say we have some volume of space $R$ , and we count up the amount of charge $Q$ inside of it. $R$ might be the inside of a cubical box, for example, or it could be some complicated shape. To measure the amount of charge inside the box, we start from the charge density $ρ(t,r)$ , which represents the amount of charge per unit volume at any point $r=(x,y,z)$ in space at any time $t$ . In other words, if we look at an infinitesimally tiny box at a point $r$ , the amount of charge inside it is the charge per volume, $ρ$ , times the volume of the little box, $dxdydz$ , which I’ll write as $d3r$ for short. To find the total charge inside our actual box $R$ , we just dice it up into lots of little pieces like this, each with charge $ρd3r$ , and then add them all up by integrating over the region:
 
@@ -91,7 +92,8 @@ $$
 
 the reason being that $∂ρ∂t$ is essentially constant over this infinitesimally small region.
 
-![](https://www.physicswithelliot.com/s/current-flux.png)
+[[Read It Later/attachments/65693b6fdcec8993e0db24ff36c8fc75_MD5.png|Open: 65693b6fdcec8993e0db24ff36c8fc75_MD5.png]]
+![[Read It Later/attachments/65693b6fdcec8993e0db24ff36c8fc75_MD5.png]]
 
 The RHS is slightly more interesting. Take the top surface again, for example. The outward pointing perpendicular direction is going up, so we get $J⋅n^=Jz$ evaluated at the top of the box, and the area is $ΔxΔy$ . So the top surface contributes
 
@@ -181,7 +183,8 @@ I also showed you last time how to write all this much more compactly using rela
 
 When we talked about [Noether’s theorem](https://www.physicswithelliot.com/noether-mini-notes) for regular old particle mechanics, what we discovered was that whenever we had a symmetry of the Lagrangian—meaning an infinitesimal transformation that left it invariant—there would be a corresponding conserved quantity that’s constant in time as the particle moves around.
 
-![](https://www.physicswithelliot.com/s/2d-mass-spring.png)
+[[Read It Later/attachments/570f52f58572023e551d9dbc2848ed0c_MD5.png|Open: 570f52f58572023e551d9dbc2848ed0c_MD5.png]]
+![[Read It Later/attachments/570f52f58572023e551d9dbc2848ed0c_MD5.png]]
 
 For example, we looked at one problem with a block sitting on a frictionless table attached to a spring that’s pinned down at the other end. This setup does *not* have translation symmetry: if you pick up the block and slide it over to the right, say, the spring gets stretched and so you’ve changed the system! Then the $x$ and $y$ momenta of the block aren’t conserved, as expected since the spring will pull on the block and accelerate it if you move it away from equilibrium.
 
@@ -217,7 +220,8 @@ $$
 
 Now, what symmetries does this theory have? Like I mentioned, the one I want to focus on is closely analogous to our block-on-a-spring example from a minute ago. The real and imaginary parts of $ϕ=a+ib$ give us a point $(a,b)$ in a 2d plane. In other words, we can think of the complex number $ϕ$ like an arrow that goes over to the right by $a$ in the “real direction”, and up in the “imaginary direction” by $b$ .
 
-![](https://www.physicswithelliot.com/s/complex-number.png)
+[[Read It Later/attachments/8f16d70844fe931e88e213a27855f702_MD5.png|Open: 8f16d70844fe931e88e213a27855f702_MD5.png]]
+![[Read It Later/attachments/8f16d70844fe931e88e213a27855f702_MD5.png]]
 
 The length of the arrow is $|ϕ|=a2+b2$ , and it makes an angle $θ$ with the horizontal axis, so that the lengths of the two sides of the triangle are $a=|ϕ|cos⁡θ$ and $b=|ϕ|sin⁡θ.$ But just like the block-on-a-spring, our complex Klein-Gordon Lagrangian only depends on the length $|ϕ|$ of the arrow, not on the angle $θ$ that it makes in this plane.
 

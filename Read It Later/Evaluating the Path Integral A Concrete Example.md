@@ -25,7 +25,7 @@ Despite the appearance of the familiar $∫$ symbol, a path integral is not like
 
 With an ordinary integral, we look at a function $f(t)$ that assigns a number to each point $t$ along a line.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/1728b2a5-5b88-40c2-a5ff-5bd33e712de2/integral.png?content-type=image%2Fpng)
+![[Read It Later/attachments/c29611fec50549d165f5e260daa2b990_MD5.png]]
 
 Then the integral of the function over some range computes the area under the curve in that region:
 
@@ -38,7 +38,7 @@ To say it another way, all we're doing is looking at a range of points $[ti,tf]$
 
 But that's for an ordinary integral. A path integral is a different, and much more complicated beast. Instead of summing over a range of points on a line, we do a sum over every possible *path* connecting a given starting point and ending point:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e897f9a2-2c51-4d10-bcb5-a0ef2f0742ed/paths.png?content-type=image%2Fpng)
+![[Read It Later/attachments/ca33e2b38a56155e9b7039d579cf0469_MD5.png]]
 
 To each path $x(t)$ we assign a corresponding complex number $Φ[x].$ By summing up those numbers for every possible path, again multiplied by a corresponding "measure" factor $Dx,$ we obtain the path integral of $Φ$ :
 
@@ -52,7 +52,7 @@ I should say at the outset that defining the path integral in a mathematically r
 
 And to begin to understand why it's so important for physics, imagine we have a quantum particle like an electron that starts out at position $xi$ at an initial time $ti.$ Then after waiting a little while, at a final time $tf$ we look for it at some other point $xf.$
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/0e21b45e-4311-4b4b-bf9d-d9a8d3214b22/number_line.png?content-type=image%2Fpng)
+![[Read It Later/attachments/0ef931d93058655b5fd090b5c2401102_MD5.png]]
 
 Feynman showed that instead of moving along a single, classical trajectory that something like a baseball would have followed, for an electron we need to consider every possible trajectory that the particle could conceivably follow.
 
@@ -84,7 +84,7 @@ Like I just mentioned, quantum particles don't move along the well-defined traje
 
 A baseball, if you throw it up in the air, will travel along a simple trajectory $x(t)$ —a parabola—that connects whatever initial height $xi$ where the ball started at the initial time $ti$ to the final height $xf$ where we find it at any later time $tf.$
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/393174bb-53a7-41da-9978-01be73c2fe0d/parabola.png?content-type=image%2Fpng)
+![[Read It Later/attachments/0b9f44e2edb0e20e196f636432b84999_MD5.png]]
 
 (Of course, we'd more often use the letter $y$ to denote the height of the ball above the ground. But I'll use $x$ to match up with the notation in what follows.)
 
@@ -96,15 +96,15 @@ And that means that in between, the particle doesn't follow a unique trajectory 
 
 And we saw how all that comes about by exploring the famous double-slit experiment, where we chuck quantum particles at a wall with two tiny holes cut into it, and see what comes out on the other side.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/28026bb8-eb1b-4379-accd-a4245d1662a0/double_slit.png?content-type=image%2Fpng)
+![[Read It Later/attachments/1bfd7dbc87ae1243aaa5a4b67b50ad87_MD5.png]]
 
 If a quantum particle moved along a single trajectory like a baseball, we could say for certain whether the particle passes through the left slit or the right one. And then, we'd expect to find that most of the particles that make it through wind up somewhere in the middle—distributed with a broad bump around the center of the backstop.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/c3b0a120-3b44-4f62-a131-0f8ea45c768d/total_histogram.png?content-type=image%2Fpng)
+![[Read It Later/attachments/73af0f7858919de7f7a880346eee527a_MD5.png]]
 
 But that's not what we observe in practice. Instead, we wind up with a distribution called an interference pattern:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/964fd606-6e47-4f21-b70a-f734d33781a2/electron_interference.png?content-type=image%2Fpng)
+![[Read It Later/attachments/ac7c1d31c107b1695efa412106953d4d_MD5.png]]
 
 There are peaks where we find lots of particles clustered together, separated by valleys where next to none arrive at all.
 
@@ -114,7 +114,7 @@ And as mind-bending as that fact may be, this simple experiment already leads to
 
 Taking this idea to the extreme, Feynman imagined filling the entire region with barriers, and drilling lots of tiny holes through each of them. Then we'd need to consider every possible route the particle could follow, bouncing from one hole to the next on its way across the gap.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/2a84f582-0604-4f44-a1ce-590ebac15d27/many_barriers.png?content-type=image%2Fpng)
+![[Read It Later/attachments/c52a71f827b595546969d08df6e61ee6_MD5.png]]
 
 And eventually, we can imagine drilling *so* many holes that the barriers themselves effectively disappear, and we're led to the conclusion that the particle probes *every* possible path in getting from the initial point to whatever final point where we observe it at the detector, and we need to sum over all of them.
 
@@ -152,7 +152,7 @@ We have a quantum particle which is starting out at position $xi$ at the initial
 
 And here again is the answer, according to Feynman.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/615eaf7d-5995-4d64-bbcf-82fec000c74e/example_curve.png?content-type=image%2Fpng)
+![[Read It Later/attachments/cf4142c5b34ae93203c2efab12b586c4_MD5.png]]
 
 As before, we consider every possible trajectory $x(t)$ that connects the initial and final points. For each path, we evaluate its action $S[x],$ and from there we write down the corresponding complex phase $eiS[x]/ℏ$ that it contributes.
 
@@ -172,7 +172,7 @@ $$
 
 Finally, what we're really looking for here is the probability that we'll find the particle within a little window of width $dxf$ around the given point.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e9dc1b00-c2da-401d-a5cd-357d60de3bbd/number_line.png?content-type=image%2Fpng)
+![[Read It Later/attachments/95b87192280d7275277a5912939b01a7_MD5.png]]
 
 And so the last thing we need to do is to multiply by that tiny width:
 
@@ -198,7 +198,7 @@ $$
 
 But instead of jumping straight to summing over the continuum of points between $ti$ and $tf,$ we start by breaking it up into a series of discrete steps.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/c1516145-8d19-4221-a04a-ac62a5e50012/rectangles.png?content-type=image%2Fpng)
+![[Read It Later/attachments/4a36ff93ecbe53a89300c7ba626c47ba_MD5.png]]
 
 So let's say we divide it up into $N$ steps: from $ti$ to $t1,$ from $t1$ to $t2,$ and on and on, all the way up to $tN−1,$ and finally our last point $tf.$ In fact, I'll rename the initial point to $t0$ and the final point to $tN$ to really make that pattern clear.
 
@@ -244,7 +244,7 @@ It's common to write functionals using square brackets, and the whole path integ
 
 But once again, instead of jumping straight to trying to sum over the continuum of all possible paths, we can start by turning this into a discrete problem.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/b2c352ec-dc0c-4d89-8999-7c06bfb92073/zig-zag.png?content-type=image%2Fpng)
+![[Read It Later/attachments/9aa79729094448dbae8f95848d833d65_MD5.png]]
 
 Consider some trajectory $x(t).$ Just like before, we can take the time interval from $ti$ to $tf$ and break it up into $N$ discrete steps, from $ti$ to $t1,$ from $t1$ to $t2,$ and so on, ending with $tN−1$ and the final time $tf.$
 
@@ -294,7 +294,7 @@ $$
 
 To keep things as simple as possible in this example, let's suppose that we're dealing with a free particle—meaning that it doesn't have any forces like gravity or electromagnetism acting on it.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/ab8df1b6-dc7d-46bd-9001-f1daac3ed3c1/straight_line.png?content-type=image%2Fpng)
+![[Read It Later/attachments/6b450f282c5de1104098dea6fa29d276_MD5.png]]
 
 If it were a *classical* particle, then the solution to $F=ma$ with the force equal to zero would just be a straight line connecting the two endpoints,
 
@@ -318,7 +318,7 @@ $$
 
 And so, what we need to do is to write down the value of this action $S$ for each possible trajectory, raise it to $eiS/ℏ,$ and finally sum over all the paths.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/a5d3077c-3984-4feb-b44e-dacd84700601/displacement.png?content-type=image%2Fpng)
+![[Read It Later/attachments/2d4ad5e2d59c7c2b10bff51de97c604f_MD5.png]]
 
 Consider again some arbitrary path. Like we just discussed, the way we're going to handle it is by breaking it up into $N$ discrete steps, and approximating the curve as a zig-zag. Each piece of the trajectory is then just a straight line, and so it's actually not hard at all to write down the action for each segment, and then add it all up to get the total.
 
@@ -480,7 +480,7 @@ This at last is the probability density for finding the particle at position $xf
 
 There's something really surprising about it, though: the answer doesn't actually depend on the position at all!
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/9a905f58-aa12-45e2-8704-b380ac90cd31/probability.png?content-type=image%2Fpng)
+![[Read It Later/attachments/a0270578710a4a377841ffcdffd49d81_MD5.png]]
 
 In other words, if we plot the probability as a function of the final position, we just get a constant, horizontal line. And that means that the particle apparently has an equal chance of being found *anywhere* in space. But how can that be?
 
@@ -490,7 +490,7 @@ And since we assumed here that the particle starts off at exactly position $xi,$
 
 Of course, in reality we can’t know the initial position of the particle *exactly*, and so a more realistic initial setup with a finite window for the starting location would give us a smaller range of possible final positions and a normalizable probability distribution.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/bee75a2c-230a-463f-b9d3-f9a316501520/gaussian.png?content-type=image%2Fpng)
+![[Read It Later/attachments/8eebae95c0598bf565926728112235ce_MD5.png]]
 
 ## Mathematical Subtleties
 
@@ -664,7 +664,7 @@ And so this wavefunction does in fact satisfy the Schrödinger equation, as prom
 
 To fully understand Feynman’s path integral formulation of quantum mechanics, you need to start with a strong foundation in the Lagrangian formulation of *classical* mechanics. I’ve created [an entire course](https://courses.physicswithelliot.com/lagrangian-fundamentals-page) covering the key ideas of Lagrangian mechanics—complete with lesson videos, practice problems, and detailed solutions.
 
-[![](https://images.squarespace-cdn.com/content/v1/611b0e99ffc7aa45df0df283/d23833a8-8da4-4b09-89ac-eecb8da33f1d/Course.png)](https://courses.physicswithelliot.com/lagrangian-fundamentals-page)
+[![[Read It Later/attachments/c335cea3752e0cf514b0516dff4cfc06_MD5.png]]](https://courses.physicswithelliot.com/lagrangian-fundamentals-page)
 
 Enroll in [Fundamentals of Lagrangian Mechanics](https://courses.physicswithelliot.com/lagrangian-fundamentals-page) right now to start mastering a whole new way of thinking about physics!
 

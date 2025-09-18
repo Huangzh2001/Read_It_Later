@@ -11,7 +11,7 @@ But there's a whole lot more to mechanics than just $F=ma$ , and in the years af
 
 I'll illustrate each approach here using the simple pendulum as an example, which consists of a particle of mass $m$ hanging from a lightweight rod of length $l$ (that we'll treat as massless) attached to a pivot at the other end.
 
-![](https://www.physicswithelliot.com/s/pendulum-coordinates.png)
+![[Read It Later/attachments/8f28feb3b7f962fa6285db15b082e5c5_MD5.png]]
 
 We can specify the position of the mass either by the coordinate $s$ that measures the arc length traced out by the particle or by the angle $θ$ that it makes with the vertical. They’re related by $θ=s/l$ .
 
@@ -19,7 +19,7 @@ We can specify the position of the mass either by the coordinate $s$ that measur
 
 Let's first briefly review how to understand the pendulum using Newtonian mechanics (for additional details click [here](https://www.physicswithelliot.com/pendulum-help-room-notes)). We start by drawing a free-body diagram to keep track of all the forces acting on the particle:
 
-![](https://www.physicswithelliot.com/s/pendulum-fbd.png)
+![[Read It Later/attachments/76c0fa56e70165e5426d6da9537b5a82_MD5.png]]
 
 There are only two forces: gravity $mg$ pulling straight down and tension $T$ pulling inward along the rod toward the center of the circle.
 

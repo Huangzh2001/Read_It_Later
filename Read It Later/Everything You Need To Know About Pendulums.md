@@ -9,7 +9,7 @@ status:
 
 Pendulums are really fascinating systems for learning about a lot of physical principles. They can come in all kinds of shapes and sizes, but I'm going to focus on the *simple* pendulum, which means that we have a ball of mass $m$ attached to a rod of length $l$ , which is pivoted at its other end so that the pendulum is free to rotate around. We'll treat the ball as a point particle, and we'll assume that the rod is much lighter than the ball, so that we can effectively treat it as being massless.
 
-![](https://www.physicswithelliot.com/s/pendulum-coordinates.png)
+![[Read It Later/attachments/8f28feb3b7f962fa6285db15b082e5c5_MD5.png]]
 
 We want to learn how to predict the motion of the pendulum. So say if you were to pull it up to some initial angle and then let it go, or if you were to give the ball a kick to set it moving, what's the resulting motion going to look like?
 
@@ -29,7 +29,7 @@ The basic procedure for predicting motion that we learn about in our first physi
 
 That's what we'll do step-by-step for the pendulum. First, the free-body-diagram:
 
-![](https://www.physicswithelliot.com/s/pendulum-fbd-plain.png)
+![[Read It Later/attachments/695a3c4d6e3f146ff3289a4d3cfccde8_MD5.png]]
 
 There are only two forces acting on the particle. We've got gravity 
 $$
@@ -39,13 +39,13 @@ $$
 
 Step two is to add up all the forces and write $∑F→=ma→$ . This is a vector equation, but because the particle is stuck moving around on a circle, we really only care about the component of the force and acceleration that point along the circle:
 
-![](https://www.physicswithelliot.com/s/pendulum-circle.png)
+![[Read It Later/attachments/61e6104ac0dd9ba2216b8ce2ac21c1a2_MD5.png]]
 
 The tension points radially inward toward the center of the circle, which is perpendicular to the tangent direction that we're actually interested in. So the tension doesn't contribute anything to the tangent direction. The only thing that actually contributes is the component of gravity that points along the circle.
 
 We need to do a tiny bit of geometry to figure out what this force is:
 
-![](https://www.physicswithelliot.com/s/pendulum-geometry.png)
+![[Read It Later/attachments/23316bb8236a12d275e562695d366318_MD5.png]]
 
 First of all, we can see from the pair of opposite angles that the angle that the tension arrow makes with the vertical is also 
 $$
@@ -97,7 +97,7 @@ $$
 
 The easiest way to see this is just to plot $sin⁡θ$ and $θ$ on the same graph:
 
-![](https://www.physicswithelliot.com/s/small-angle.png)
+![[Read It Later/attachments/64ada5ce4fa51f32e331fad2acf59fd0_MD5.png]]
 
 In general the two curves look nothing like each other. But near the origin, where 
 $$

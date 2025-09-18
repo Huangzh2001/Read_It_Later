@@ -148,15 +148,20 @@ Critique 意味着这一章已经过评论，TTS 表示我使用 Text to Speech 
 
 ### 与 dataview 联动
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--与 dataview 联动](https://cdn.pkmer.cn/images/20230602005411.png!pkmer)
+[[Read It Later/attachments/00df3976b21f92bfce1d8023b58e6d60_MD5.png|Open: 00df3976b21f92bfce1d8023b58e6d60_MD5.png]]
+![[Read It Later/attachments/00df3976b21f92bfce1d8023b58e6d60_MD5.png]]
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--与 dataview 联动](https://cdn.pkmer.cn/images/20230602005425.png!pkmer)
+[[Read It Later/attachments/3783635c6351092889e1dac7625ac9d1_MD5.png|Open: 3783635c6351092889e1dac7625ac9d1_MD5.png]]
+![[Read It Later/attachments/3783635c6351092889e1dac7625ac9d1_MD5.png]]
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--与 dataview 联动](https://cdn.pkmer.cn/images/20230602005429.png!pkmer)
+[[Read It Later/attachments/f4e06619c7d76e5d2f33cba5977c5535_MD5.png|Open: f4e06619c7d76e5d2f33cba5977c5535_MD5.png]]
+![[Read It Later/attachments/f4e06619c7d76e5d2f33cba5977c5535_MD5.png]]
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--与 dataview 联动](https://cdn.pkmer.cn/images/20230602005436.png!pkmer)
+[[Read It Later/attachments/b9fd3c7e77d10bf4542c202de8c02497_MD5.png|Open: b9fd3c7e77d10bf4542c202de8c02497_MD5.png]]
+![[Read It Later/attachments/b9fd3c7e77d10bf4542c202de8c02497_MD5.png]]
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--与 dataview 联动](https://cdn.pkmer.cn/images/20230602005441.png!pkmer)
+[[Read It Later/attachments/3ce60a6fbd520b1e94c4de1336a173bb_MD5.png|Open: 3ce60a6fbd520b1e94c4de1336a173bb_MD5.png]]
+![[Read It Later/attachments/3ce60a6fbd520b1e94c4de1336a173bb_MD5.png]]
 
 ### 其他特殊格式方面的注意事项
 
@@ -182,7 +187,8 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 我可能并排几个窗格/标签组，还有一个单独的窗口，展示这本书的思维导图或看板。
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--工作区布局](https://cdn.pkmer.cn/images/20230602103953.png!pkmer)
+[[Read It Later/attachments/46c5a52d1cece12bea21dc3024831533_MD5.png|Open: 46c5a52d1cece12bea21dc3024831533_MD5.png]]
+![[Read It Later/attachments/46c5a52d1cece12bea21dc3024831533_MD5.png]]
 
 顶部左侧 - Obsidian 文件浏览器，搜索和 Longform 插件面板。我根据需要在它们之间切换。通常设置为 Obsidian 文件浏览器。
 
@@ -200,11 +206,13 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 ### 编辑样式
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--编辑样式](https://cdn.pkmer.cn/images/20230602103849.png!pkmer)
+[[Read It Later/attachments/d58276ef480d59f6544f63adfc03498f_MD5.png|Open: d58276ef480d59f6544f63adfc03498f_MD5.png]]
+![[Read It Later/attachments/d58276ef480d59f6544f63adfc03498f_MD5.png]]
 
 ### 预览样式
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--预览样式](https://cdn.pkmer.cn/images/20230602103855.png!pkmer)
+[[Read It Later/attachments/5182fe83843f12a5e9c45579559c0712_MD5.png|Open: 5182fe83843f12a5e9c45579559c0712_MD5.png]]
+![[Read It Later/attachments/5182fe83843f12a5e9c45579559c0712_MD5.png]]
 
 ### 对应 Snippets
 
@@ -462,7 +470,8 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 对于每一份草稿，我都有一个 Todo 文档，类似于这样：
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--如何用任务驱动书写](https://cdn.pkmer.cn/images/20230602104654.png!pkmer)
+[[Read It Later/attachments/1fe5189c52228838bcdf09194973c5b4_MD5.png|Open: 1fe5189c52228838bcdf09194973c5b4_MD5.png]]
+![[Read It Later/attachments/1fe5189c52228838bcdf09194973c5b4_MD5.png]]
 
 任务也是划分区域的，顶部任务是适用于整本书的任务，他们总管全局，需要检查一致性或在完成当前草稿后进行更改的事情。在写第一稿时，我尽量让事情保持向前发展，不回头进行修正，直到该草稿完成。
 
@@ -474,21 +483,25 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 你一定听过 [obsidian-excalidraw-plugin](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/excalidraw/obsidian-excalidraw-plugin) 当然你也可以用 [白板](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E6%A0%B8%E5%BF%83%E6%8F%92%E4%BB%B6/%E7%99%BD%E6%9D%BF) 。这样的辅助文件，是为了让非线性叙事，多线并行，或者整理人物关系。
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--和 Excalidraw 联动](https://cdn.pkmer.cn/images/20230602105055.png!pkmer)
+[[Read It Later/attachments/00417941b70f682a53cff8dbf255f787_MD5.png|Open: 00417941b70f682a53cff8dbf255f787_MD5.png]]
+![[Read It Later/attachments/00417941b70f682a53cff8dbf255f787_MD5.png]]
 
 ## 和 Kanban 联动
 
 看板是另一种可视化、管理任务等的方式。比普通大纲更清晰，因为它非常容易拖放和重新排序列表和卡片。您可以将其视为看板或 markdown 文件（带有任务的标题）。
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--和 Kanban 联动](https://cdn.pkmer.cn/images/20230602105224.png!pkmer)
+[[Read It Later/attachments/3f18fc67da724e4e1e5242181e6457f5_MD5.png|Open: 3f18fc67da724e4e1e5242181e6457f5_MD5.png]]
+![[Read It Later/attachments/3f18fc67da724e4e1e5242181e6457f5_MD5.png]]
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--和 Kanban 联动](https://cdn.pkmer.cn/images/20230602105228.png!pkmer)
+[[Read It Later/attachments/24b239f49947419d985307e91fa08abd_MD5.png|Open: 24b239f49947419d985307e91fa08abd_MD5.png]]
+![[Read It Later/attachments/24b239f49947419d985307e91fa08abd_MD5.png]]
 
 ## 利用好 Hover editor
 
 有时候我们并不需要直接跳转到一个文章，而是需要临时产看或者修正细节，那么 [obsidian-hover-editor](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/obsidian-hover-editor) 是非常好的选择。
 
-![Obsidian 插件：Longform 如何使用 Obsidian 完成一本自己的小说创作--利用好 Hover editor](https://cdn.pkmer.cn/images/20230602105839.png!pkmer)
+[[Read It Later/attachments/6a0474da14cd9bff8dd453b6d3ac48c5_MD5.png|Open: 6a0474da14cd9bff8dd453b6d3ac48c5_MD5.png]]
+![[Read It Later/attachments/6a0474da14cd9bff8dd453b6d3ac48c5_MD5.png]]
 
 ## 参考
 
@@ -521,7 +534,8 @@ Notebooks 可以选择使文件的第一行成为 H1 标题（默认情况下同
 
 [QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-c45f0R3SJlnwgwG2pRyEgqB3bgcTZWK&authKey=UOb9Wo1o357BX1HtxX%2BAMtPo83L5h4wUDxzj7fk8baj84av5Ck9oJQVhLj1jvhEd&noverify=0&group_code=769306712)
 
-微信群 ![Pkmer微信群](https://cdn.pkmer.cn/images/wechatqrcode.png!nomark)
+微信群 [[Read It Later/attachments/5120fb724de1cc3136723bb022430088_MD5.jpg|Open: 5120fb724de1cc3136723bb022430088_MD5.jpg]]
+![[Read It Later/attachments/5120fb724de1cc3136723bb022430088_MD5.jpg]]
 
 ---
 

@@ -30,7 +30,8 @@ NebulaPKM
 
 <video id="vjs_video_3_html5_api" class="vjs-tech" src="https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-1080.mp4" data-dm-vid="9cbf7683-9934-472b-b12e-150b6fb63670"></video>
 
-![](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-cover.png)
+[[Read It Later/attachments/b93980848ac6bb82a5c9cc0092b13c6c_MD5.png|Open: b93980848ac6bb82a5c9cc0092b13c6c_MD5.png]]
+![[Read It Later/attachments/b93980848ac6bb82a5c9cc0092b13c6c_MD5.png|04]]
 
 Current Time 0:00
 
@@ -44,7 +45,8 @@ Remaining Time 9:19
 
 文件下载：[个人知识管理（PKM）方法论集锦的可视化笔记](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-note.rar)
 
-在视频[什么是个人知识管理（PKM）？](https://www.nebulapkm.cn/crs/?cid=1)中介绍了PKM的重要性和在AI时代的价值。这期内容将市面上比较火的几种PKM介方法进行汇总。其中有一种方法论叫*第二大脑*，随着媒体的宣传，现在很多人也称PKM为*第二大脑*，是个人知识管理（PKM）一种浪漫的隐喻。 ![01](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-01.JPG)
+在视频[什么是个人知识管理（PKM）？](https://www.nebulapkm.cn/crs/?cid=1)中介绍了PKM的重要性和在AI时代的价值。这期内容将市面上比较火的几种PKM介方法进行汇总。其中有一种方法论叫*第二大脑*，随着媒体的宣传，现在很多人也称PKM为*第二大脑*，是个人知识管理（PKM）一种浪漫的隐喻。 [[Read It Later/attachments/bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg|Open: bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg]]
+![[Read It Later/attachments/bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg|01]]
 
 ## PKM方法论集锦
 
@@ -64,7 +66,8 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 - Tanvi Agarwal的[Tiago Forte第二大脑的可视化笔记](https://www.sillystrokes.com/sketchnotes/second-brain)
 - Maggie的 [Tiago Forte第二大脑的可视化笔记](https://maggieappleton.com/basb)
 
-![02](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-03.JPG)
+[[Read It Later/attachments/cdb471e0e056746632e38eff9f38150a_MD5.jpg|Open: cdb471e0e056746632e38eff9f38150a_MD5.jpg]]
+![[Read It Later/attachments/cdb471e0e056746632e38eff9f38150a_MD5.jpg|02]]
 
 ### 卢曼的Zettelkasten（卡片盒笔记法）
 
@@ -103,7 +106,8 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 - [Getting Things Done (GTD)](https://www.todoist.com/zh-CN/productivity-methods/getting-things-done)
 - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 
-![03](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-02.JPG)
+[[Read It Later/attachments/ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg|Open: ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg]]
+![[Read It Later/attachments/ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg|03]]
 
 ## PKM方法论共性
 
@@ -121,7 +125,8 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 
 *卢曼的卡片盒笔记法*强调信息记录在一张卡片上，这张卡片的物理大小就限制了内容不会过多； *Tiago的第二大脑*提出渐进式总结，不断提炼信息，是强调原子化； *Andy的长青笔记*强调笔记信息是原子级的，可以通过链接让系统生长； *James Clear的Atomic Habits（原子习惯）* 强调记录原子级信息。
 
-![04](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-04.JPG)
+[[Read It Later/attachments/579d1913188f84a86c2f601137c46509_MD5.jpg|Open: 579d1913188f84a86c2f601137c46509_MD5.jpg]]
+![[Read It Later/attachments/579d1913188f84a86c2f601137c46509_MD5.jpg|04]]
 
 ## NebulaPKM知识星云
 

@@ -11,7 +11,8 @@ String theory has a reputation for being a very challenging subject—and when y
 
 We've been learning that the action for a particle in Einstein's theory has a very simple and geometric interpretation. As a particle travels around through spacetime, it traces out a curve that's called its worldline. Then the action is equal, up to some factors, to the length of the worldline, and the principle of least action says that the particle will choose the shortest path that it can in traveling between two events.
 
-![](https://www.physicswithelliot.com/s/worldsheet.png)
+[[Read It Later/attachments/d9f99578d864269af8c91df8dc0f9351_MD5.png|Open: d9f99578d864269af8c91df8dc0f9351_MD5.png]]
+![[Read It Later/attachments/d9f99578d864269af8c91df8dc0f9351_MD5.png]]
 
 *String* theory replaces the fundamental role of a particle with a tiny loop of string. Whereas a particle traces out a one-dimensional curve as it moves through spacetime, a string traces out a two-dimensional *surface*. The particle's curve we called the worldline; the string's surface we call the worldsheet.
 
@@ -23,11 +24,13 @@ So in this lesson, I'll show you how we can express the action for a string as t
 
 First of all, let's forget about string theory and Minkowski spacetime and all that, and just figure out the little bit of math that we need to compute the area of a surface. Picture that bubble wand again. As you wave it around through the air, the bubble that trails behind it is a 2D surface embedded in 3D space.
 
-![](https://www.physicswithelliot.com/s/particle-embedding.png)
+[[Read It Later/attachments/7a85ebf1d85277a5a905200b85e95e45_MD5.png|Open: 7a85ebf1d85277a5a905200b85e95e45_MD5.png]]
+![[Read It Later/attachments/7a85ebf1d85277a5a905200b85e95e45_MD5.png]]
 
 Let's write the coordinates of space as $X→=(x,y,z)$ . If we'd had a line in space instead of a surface, we would describe it by specifying a curve $X→(λ)$ , where $λ$ is some parameter along the curve. This function tells us how each point $λ$ in parameter space gets mapped to a point $X→(λ)$ in 3D space.
 
-![](https://www.physicswithelliot.com/s/string-embedding.png)
+[[Read It Later/attachments/085759f6f2dc4e28c4d3cb6d7b5d32cf_MD5.png|Open: 085759f6f2dc4e28c4d3cb6d7b5d32cf_MD5.png]]
+![[Read It Later/attachments/085759f6f2dc4e28c4d3cb6d7b5d32cf_MD5.png]]
 
 Now when we graduate to our 2D surface instead of a curve, we need another parameter, call it $σ$ , say. Then we specify the surface by a function $X→(σ,λ)$ that tells us how each point $(σ,λ)$ in the now 2D parameter space gets mapped to a point $X→(σ,λ)$ in 3D space.
 
@@ -35,7 +38,8 @@ Think of the $σ$ direction as a circle and the $λ$ direction as a line, so tha
 
 So the question we need to answer is, if someone hands us a surface by writing down its function $X→(σ,λ)$ , how do we compute its area? Think about a little rectangular area of the parameter space, of width $dσ$ and height $dλ$ . That little region will map to another little region of the surface in 3D space, of some tiny area $da$ . This region doesn't have to be a rectangle anymore, since the map by $X→$ can distort the shape, so in general it will be some parallelogram.
 
-![](https://www.physicswithelliot.com/s/area-mapping.png)
+[[Read It Later/attachments/a92ab9a705716e9bcb93aa0a4aa1a60a_MD5.png|Open: a92ab9a705716e9bcb93aa0a4aa1a60a_MD5.png]]
+![[Read It Later/attachments/a92ab9a705716e9bcb93aa0a4aa1a60a_MD5.png]]
 
 The length of the sides of this parallelogram should be fixed by the lengths $dσ$ and $dλ$ that we started with, along with the given map $X→$ . What are they? The bottom left corner of the rectangle was at $(σ,λ)$ , and gets mapped to $X→(σ,λ)$ . The bottom right corner was at $(σ+dσ,λ)$ , and gets mapped to $X→(σ+dσ,λ)$ . So we can draw a vector along the " $σ$ " side of the parallelogram from $X→(σ,λ)$ to $X→(σ+dσ,λ)$ :
 

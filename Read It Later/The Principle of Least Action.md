@@ -9,7 +9,7 @@ status:
 
 The **principle of least action** is one of the most profound and far-reaching ideas in physics. It's a different way of looking at things that underlies a huge amount of what we humans have learned about the world in the last few hundred years—from Newtonian mechanics, to relativity, to quantum mechanics, and quantum field theory.
 
-![](https://www.physicswithelliot.com/s/paths.png)
+![[Read It Later/attachments/f5b89820b9f7ad3b408a7411dbabcf71_MD5.png]]
 
 The basic idea goes like this: say you have a particle that travels from point 1 to point 2. What trajectory is it going to follow to get there? Newton gave us one approach to answering this question, but beginning in the 17 and 1800s Lagrange and Hamilton and others developed a different strategy. They assigned a number to each possible path called the **action**, and showed that the path the particle actually takes is the one that *minimizes* the action. Actually, in *quantum* mechanics, Feynman showed that the particle in a sense traverses *all* the possible paths, and the classical path that minimizes the action is the one that dominates.
 
@@ -65,7 +65,8 @@ $$
 
 where the $⋯$ stand for higher powers of $ε$ . But if $ε$ is tiny, so that we're near the minimum, then these corrections get tinier and tinier and are unimportant. But if $x$ is a minimum, then $f′(x)=0$ , and so the leading term in the displacement $ε$ vanishes. That means that when you take a little step $ε$ away from an extremum, to leading order the value of the function doesn't change at all! This can in fact be taken as the defining property of an extremal point.
 
-![](https://www.physicswithelliot.com/s/wiggles.png)
+[[Read It Later/attachments/422efe965ba9075cb66b12d82ccd521b_MD5.png|Open: 422efe965ba9075cb66b12d82ccd521b_MD5.png]]
+![[Read It Later/attachments/422efe965ba9075cb66b12d82ccd521b_MD5.png]]
 
 The same idea goes for our action $S$ and the critical *path* $x(t)$ . If we successfully find the trajectory $x(t)$ that minimizes the action, then for any nearby path $x(t)+ε(t)$ , the value of $S$ should be unchanged, where $ε(t)$ is a deformation that can add little "wiggles" to the original curve $x(t)$ . So, let's expand our Lagrangian in powers of $ε(t)$ :
 

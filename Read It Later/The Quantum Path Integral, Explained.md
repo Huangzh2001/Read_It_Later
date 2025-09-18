@@ -27,13 +27,13 @@ and then solve this equation for the position $x(t)$ as a function of the time $
 
 If it’s a free particle, meaning that there are no forces acting on it, then the solution to this equation is just a straight line:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/ab8df1b6-dc7d-46bd-9001-f1daac3ed3c1/straight_line.png?content-type=image%2Fpng)
+![[Read It Later/attachments/6b450f282c5de1104098dea6fa29d276_MD5.png]]
 
 Here, I’m plotting the position $x$ of the particle on the vertical axis, and the time $t$ on the horizontal axis.
 
 Or if it’s a baseball that we’re throwing up in the air with the force of gravity pulling it back down, the trajectory would be a parabola:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/393174bb-53a7-41da-9978-01be73c2fe0d/parabola.png?content-type=image%2Fpng)
+![[Read It Later/attachments/0b9f44e2edb0e20e196f636432b84999_MD5.png]]
 
 (And in that case we’d more often use the letter “ $y$ ” for the vertical coordinate.)
 
@@ -45,7 +45,7 @@ This probabilistic nature of quantum mechanics is one of the most counterintuiti
 
 And in fact, the incredible thing that Feynman discovered is that instead of following a single trajectory like in classical mechanics, a quantum particle weighs *all* the conceivable paths connecting the first point to the second, and it does a kind of sum over all those possibilities:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e897f9a2-2c51-4d10-bcb5-a0ef2f0742ed/paths.png?content-type=image%2Fpng)
+![[Read It Later/attachments/ca33e2b38a56155e9b7039d579cf0469_MD5.png]]
 
 That sum over all trajectories is what we call the path integral, and it’s pretty mind-boggling, to say the least. We’ll be seeing what it means in detail as we go along, but this basic fact that we have to consider every possible trajectory for a microscopic particle was Feynman’s key insight into the nature of quantum mechanics.
 
@@ -53,7 +53,8 @@ The original approach to quantum mechanics, as it was formulated by people like 
 
 For example, when the particle is initially located near position $xi$ , the wavefunction would look something like this, sharply peaked around that position:
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/8c93a7d3-dd01-41fd-a6dc-73fb59245a71/gaussian_wavefunction.png?content-type=image%2Fpng)
+[[Read It Later/attachments/47c83ece016d773f99a78a3c506cae92_MD5.png|Open: 47c83ece016d773f99a78a3c506cae92_MD5.png]]
+![[Read It Later/attachments/47c83ece016d773f99a78a3c506cae92_MD5.png]]
 
 And the rules of quantum mechanics say that *square* of the wavefunction tells us the probability of finding the particle at that position when we go to make a measurement:
 
@@ -109,21 +110,23 @@ But anyway, now we need to actually understand what the heck all this means. And
 
 In the [last lesson](https://www.physicswithelliot.com/wavefunction-mini-notes), we learned about the unexpected way that quantum particles behave by discussing a famous experiment called the double-slit experiment.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/28026bb8-eb1b-4379-accd-a4245d1662a0/double_slit.png?content-type=image%2Fpng)
+![[Read It Later/attachments/1bfd7dbc87ae1243aaa5a4b67b50ad87_MD5.png]]
 
 We took a solid wall, and punched out two holes or slits in it. Then we chucked different things at the wall and recorded what made it through to the other side, and where. The results varied depending on whether we sent in classical particles (like BB pellets), classical waves (like light waves), or quantum particles (like electrons).
 
 And the surprising thing we discovered is that a quantum particle doesn't move along a single, well-defined trajectory in the way we're used to for classical particles. A quantum particle fired at the double-slit apparatus somehow probes both holes at once, resulting in an interference pattern for the distribution of where we detect the particles that make it through to the opposite side.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/964fd606-6e47-4f21-b70a-f734d33781a2/electron_interference.png?content-type=image%2Fpng)
+[[Read It Later/attachments/ac7c1d31c107b1695efa412106953d4d_MD5.png|Open: ac7c1d31c107b1695efa412106953d4d_MD5.png]]
+![[Read It Later/attachments/ac7c1d31c107b1695efa412106953d4d_MD5.png]]
 
 Last time we saw how to describe what’s going on mathematically using Schrödinger’s idea of the wavefunction. For each particle, we wrote down a wavefunction $ψinc$ that described the incoming wave. After the wave strikes the barrier, two spherical waves $ψ1$ and $ψ2$ emerge from the holes on the other side. Those wavefunctions were of the form $eiϕ(r)$ , where the phase $ϕ(r)$ was proportional to the distance from the hole to the detector.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/3cf0ab1e-0a21-4e23-849f-1872c355efa4/wave_geometry.png?content-type=image%2Fpng)
+![[Read It Later/attachments/5a67736ca13fd49525002c5470876088_MD5.png]]
 
 But there’s another way of thinking about all this that lets us phrase things in terms of regular old particle trajectories $x(t)$ , instead of jumping straight to this new idea of a wavefunction $ψ$ . The catch is that a single trajectory passing through one hole won’t cut it anymore. We have to consider trajectories that pass through each hole in order to understand the interference pattern that we observe.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/e414ef4d-1ab3-47d7-b679-4cd9f9697f0d/two_trajectories.png?content-type=image%2Fpng)
+[[Read It Later/attachments/4d0c36dbefebaf258eebbeb8a123ddd8_MD5.png|Open: 4d0c36dbefebaf258eebbeb8a123ddd8_MD5.png]]
+![[Read It Later/attachments/4d0c36dbefebaf258eebbeb8a123ddd8_MD5.png]]
 
 But now let’s push that idea a little further. If we drill a third hole in the barrier, we’ll have to include trajectories that pass through that hole, as well. And the same goes if we drill a fourth hole, or a fifth and sixth, and so on.
 
@@ -131,7 +134,7 @@ While we're at it, let’s go ahead and add another solid barrier in between, an
 
 Now take this idea to the logical extreme. We completely fill the region with parallel barriers, and through each one we drill many, many little holes. Then we need to account for all the possible routes the particle could take, traveling from any one hole to any other on its way across.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/2a84f582-0604-4f44-a1ce-590ebac15d27/many_barriers.png?content-type=image%2Fpng)
+![[Read It Later/attachments/c52a71f827b595546969d08df6e61ee6_MD5.png]]
 
 In fact, we can imagine drilling *so* many holes that the barriers themselves effectively disappear. (We used a very similar argument when we talked about Huygen’s principle last time.) We drill through all the barriers until we’re effectively left with empty space again.
 
@@ -155,7 +158,8 @@ Strange as it sounds, this prescription is at least totally “democratic,” in
 
 You can picture $eiϕ$ as an arrow in the complex plane. In other words, we draw a picture with the real direction along the horizontal axis and the imaginary direction along the vertical axis. Then $eiϕ$ is an arrow of length one, that points at an angle $ϕ$ .
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/359cab95-3dca-47bf-8321-042e0ce28fc7/complex_phase.png?content-type=image%2Fpng)
+[[Read It Later/attachments/6da0aa337a4148259f91d922bb264668_MD5.png|Open: 6da0aa337a4148259f91d922bb264668_MD5.png]]
+![[Read It Later/attachments/6da0aa337a4148259f91d922bb264668_MD5.png]]
 
 That follows from Euler’s identity, $eiϕ=cos⁡ϕ+isin⁡ϕ$ . The real (i.e. horizontal) component is $cos⁡ϕ$ and the imaginary (i.e. vertical) component is $sin⁡ϕ$ . And those are the two legs of a right triangle whose hypotenuse has length 1 and is inclined at the angle $ϕ$ .
 
@@ -229,11 +233,12 @@ And so the angle $S/ℏ$ will be an *enormous* number for a typical path for a b
 
 But now let’s pick a slightly different trajectory and consider what that contributes to the sum. Suppose it’s a very similar path to the one we started with, so that its action will only be slightly different from the first one. Maybe the first path had an action of $1 ~~\\mathrm{J\\cdot s} $andthisnewonehas$ 1.01~~ \\mathrm{J\\cdot s} $,say,sothatthechangeinthevalueoftheactionbetweenthemis$ 0.01 ~\\mathrm{J\\cdot s} $.Itdoesn′tmatterwhattheprecisenumbersare,becausewhenwedividebytheincrediblytinyvalueof$ \\hbar$, even that small change in the action at the *classical* scale will produce a massive change in the angle—in this case something of order $1032$ radians.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/159cf991-17a7-4a5c-859e-fef7dd12d132/wiggly_curve.png?content-type=image%2Fpng)
+[[Read It Later/attachments/5d0c1ba0bad9a63aa28726be809e9e16_MD5.png|Open: 5d0c1ba0bad9a63aa28726be809e9e16_MD5.png]]
+![[Read It Later/attachments/5d0c1ba0bad9a63aa28726be809e9e16_MD5.png]]
 
 Then even though the two trajectories were only slightly different, their corresponding arrows point in random different directions in the complex plane. And as we include more and more curves, each of them will give us an arrow in some other random direction, too. We’ll get an incredibly dense array of arrows pointing in all directions around the unit circle.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/7ed71d50-220f-49c9-b23a-ab6c3dea9505/random_arrows.png?content-type=image%2Fpng)
+![[Read It Later/attachments/8418f56d3095aeb7eaabae4679824bfc_MD5.png]]
 
 According to Feynman’s formula, what we’re supposed to do is add up all these arrows for all the different paths, just like you’d add vectors together. But since they’re all pointing in random directions, when we add them all up, they simply cancel each other out, and seemingly give us nothing!
 
@@ -243,7 +248,7 @@ Thus, for a classical object where the actions involved are much bigger than $�
 
 But suppose that there is some special trajectory for which the action is approximately the same for it and for any nearby path. Then the arrows for *those* nearby trajectories would point in very nearly the same direction, and those wouldn’t cancel out. Trajectories near such a path would add up coherently and survive, whereas everything else in the sum cancels out.
 
-![](https://images.squarespace-cdn.com/content/611b0e99ffc7aa45df0df283/499bec19-fc99-4f71-83ba-e5e4e6bf3fc6/coherent_arrows.png?content-type=image%2Fpng)
+![[Read It Later/attachments/e543983787b481856a78064e75165ed1_MD5.png]]
 
 A special path like that, where the action is approximately constant for any nearby trajectory, is called a **stationary path**, and those are the only contributions that survive in the limit when $ℏ$ is very small compared to the action.
 
@@ -403,7 +408,8 @@ If you're interested in the history, you can find Feynman's PhD dissertation [pu
 
 To really understand all this, though, you need to start with a strong foundation in the Lagrangian formulation of classical mechanics and the principle of least action. And to master that, you can enroll in my online course, [Fundamentals of Lagrangian Mechanics](https://courses.physicswithelliot.com/lagrangian-fundamentals-page):
 
-[![](https://images.squarespace-cdn.com/content/v1/611b0e99ffc7aa45df0df283/d23833a8-8da4-4b09-89ac-eecb8da33f1d/Course.png)](https://courses.physicswithelliot.com/lagrangian-fundamentals-page)
+[[[Read It Later/attachments/c335cea3752e0cf514b0516dff4cfc06_MD5.png|Open: c335cea3752e0cf514b0516dff4cfc06_MD5.png]]
+![[Read It Later/attachments/c335cea3752e0cf514b0516dff4cfc06_MD5.png]]](https://courses.physicswithelliot.com/lagrangian-fundamentals-page)
 
 ---
 

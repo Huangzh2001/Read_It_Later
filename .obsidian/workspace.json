@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/Omnivore/(99+ 封私信/91 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎/(99+ 封私信 - 91 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎.md",
+                "file": "Watch It Later/The Illusion of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(99+ 封私信 - 91 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎"
+              "title": "The Illusion of Truth"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "道简单的数学题彻底改变了物理学_哔哩哔哩_bilibil",
+                "query": "问下，肌肉和脂肪同作为人体储备",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,34 +184,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "media-extended:Open media": false,
       "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "cf49773cc6832ba1",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-18_17-04-00.md",
+    "Read It Later/(99+ 封私信  93 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎.md",
+    "Watch It Later/The Illusion of Truth.md",
+    "Read It Later/attachments/35b96c39ce8c3edb995a43c513aa48be_MD5.png",
+    "Read It Later/attachments/67fea576a095e18e8133816ffb1fd69d_MD5.png",
+    "Read It Later/attachments/1373fa9a289280b5c8971cde53d90a29_MD5.png",
+    "Read It Later/attachments/b76bdb4ed2ef456400acca6ea00cbe8f_MD5.png",
+    "Read It Later/attachments/d353e0ab880f44f4f4c0d99bc924ada4_MD5.png",
+    "Read It Later/attachments/1a1ea7f8dd9f69e81340c1fbffaf073d_MD5.jpg",
+    "Read It Later/attachments/22646b569608ca7685276d8d7779d3df_MD5.png",
+    "Read It Later/attachments/e976d10b2a9246a735064adcbdc01dd2_MD5.png",
+    "Read It Later/attachments/4ca1cfef0d9c71366ea3ec23995bed91_MD5.jpg",
+    "Read It Later/attachments/fd40b2398fdcb95d26fab4e92f8d2221_MD5.png",
     "未读&未看.md",
+    "Read It Later/Omnivore/(99+ 封私信/91 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎/(99+ 封私信 - 91 条消息) 请问下，肌肉和脂肪同作为人体储备能量，节食或锻炼优先消耗肌肉还是脂肪？我怎么感觉一直是肌肉先消耗？ - 知乎.md",
+    "Read It Later/Omnivore/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎/(99+ 封私信) 长时间坚持健身能在一定程度上改变容貌吗？ - 知乎.md",
+    "Read It Later/(99+ 封私信  69 条消息) 大家是怎么系统整理自己的读书笔记的？能做到复用搜索吗？ - 知乎.md",
+    "Read It Later/卢曼：与卡片盒交流.md",
     "正在读&正在看.md",
     "Read It Later/Omnivore/(99+ 封私信/2 条消息) 为什么数学教材不能“多说几句”？ - 知乎/(99+ 封私信 - 2 条消息) 为什么数学教材不能“多说几句”？ - 知乎.md",
     "已读&已看.md",
     "Watch It Later/“货二轮”or“新魔人”？曼联这8500万到底花得值不值？起底红魔新援谢什科的真实水准！_哔哩哔哩_bilibili.md",
     "待整理.md",
-    "Read It Later/卢曼：与卡片盒交流.md",
-    "Read It Later/attachments/72cd6816e24efa488cd373bb4907aaee_MD5.webp",
-    "Read It Later/attachments/19f8e7125178190590999d21e8cf8c5c_MD5.webp",
-    "Read It Later/attachments/3319914d6ac5b0d8a483c2c33265161e_MD5.webp",
-    "Read It Later/attachments/f4ad7908dbd2c1ef73b88850c102e727_MD5.webp",
-    "Read It Later/attachments/dcee5443b9ec1ec21eed2bf4362841da_MD5.webp",
-    "Read It Later/attachments/a05f4f054ac4d378ec5e2dc2315e5544_MD5.webp",
-    "Read It Later/attachments/24ef5b4f8cd26d8d3a4b53beae02fc72_MD5.webp",
-    "Read It Later/attachments/cebe44e538e632fe361b07bc76058e49_MD5.webp",
-    "Read It Later/attachments/920b328434c0b718df3f7d58b6c406f9_MD5.webp",
-    "Read It Later/attachments/77b751495cf5f84412897e0408b81072_MD5.webp",
     "Read It Later/修改并写了新的知乎剪藏模版obsidian web clipper - 经验分享.md",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
@@ -222,7 +227,6 @@
     "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
     "Read It Later/Communicating with Slip Boxes by Niklas Luhmann.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
     "Watch It Later/How To Become So Genius It Feels Illegal!.md",
     "Watch It Later/What is the secret of a good life Lessons from the longest study on happiness.md",
@@ -230,14 +234,7 @@
     "Watch It Later/3am Dopamine based Morning Routine as a Doctor in Rural UK.md",
     "utils/obsidian-urls/logs/2025-09-16_15-30-48.md",
     "Watch It Later/This is the natural disaster to worry about.md",
-    "utils/obsidian-urls/logs/2025-09-16_11-40-21.md",
-    "Watch It Later/The Biggest Myth In Education.md",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/logs/2025-09-16_07-48-55.md",
-    "utils/obsidian-urls/logs/2025-09-15_21-36-56.md",
-    "utils/obsidian-urls/logs/2025-09-15_17-21-38.md",
-    "utils/obsidian-urls/logs/2025-09-15_15-04-01.md",
-    "Read It Later/(99+ 封私信  93 条消息) 如何看待 2025 年硕博大量扩招？ - 知乎.md",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",
     "obsidian-urls/urls.json"

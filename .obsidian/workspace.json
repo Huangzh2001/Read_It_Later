@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2375ebdb303775",
+        "id": "1a53b89dc0160141",
         "type": "tabs",
         "children": [
           {
-            "id": "7d81de4b9d07e204",
+            "id": "7d11b2a4d7a237cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,8 +187,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7d81de4b9d07e204",
+  "active": "7d11b2a4d7a237cd",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2025-09-18_20-41-32.md",
     "Watch It Later/Is it normal to talk to yourself.md",
     "Watch It Later/Link your sketches, a pen first knowledge mapping experience with Excalidraw - Obsidian 1.6.1.md",
     "Watch It Later/An old mans advice.md",
@@ -230,7 +231,6 @@
     "Read It Later/Communicating with Slip Boxes by Niklas Luhmann.md",
     "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
     "Watch It Later/How To Become So Genius It Feels Illegal!.md",
-    "Watch It Later/What is the secret of a good life Lessons from the longest study on happiness.md",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",

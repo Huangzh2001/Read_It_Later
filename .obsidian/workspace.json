@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61212408161d1cca",
+        "id": "ef2375ebdb303775",
         "type": "tabs",
         "children": [
           {
-            "id": "cf49773cc6832ba1",
+            "id": "7d81de4b9d07e204",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/Link your sketches, a pen first knowledge mapping experience with Excalidraw - Obsidian 1.6.1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Link your sketches, a pen first knowledge mapping experience with Excalidraw - Obsidian 1.6.1"
+              "title": "新标签页"
             }
           }
         ]
@@ -191,10 +187,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "cf49773cc6832ba1",
+  "active": "7d81de4b9d07e204",
   "lastOpenFiles": [
-    "Watch It Later/An old mans advice.md",
+    "Watch It Later/Is it normal to talk to yourself.md",
     "Watch It Later/Link your sketches, a pen first knowledge mapping experience with Excalidraw - Obsidian 1.6.1.md",
+    "Watch It Later/An old mans advice.md",
     "Watch It Later/How to Think Critically in a Divided World (4 Techniques).md",
     "Watch It Later/How to Think Critically in a Divided World (4 Techniques) 1.md",
     "Watch It Later/The Illusion of Truth.md",
@@ -234,7 +231,6 @@
     "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
     "Watch It Later/How To Become So Genius It Feels Illegal!.md",
     "Watch It Later/What is the secret of a good life Lessons from the longest study on happiness.md",
-    "utils/obsidian-urls/logs/2025-09-18_10-39-37.md",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",

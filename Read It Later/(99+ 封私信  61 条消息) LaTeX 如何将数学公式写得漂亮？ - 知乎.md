@@ -39,11 +39,13 @@ Hi 大家好，我是Realcat，今天给大家分享一个工具。
 
 [github.com/synercys/annotated\_latex\_equations​github.com/synercys/annotated\_latex\_equations](https://link.zhihu.com/?target=http%3A//github.com/synercys/annotated_latex_equations)
 
-![](https://pica.zhimg.com/80/v2-42f17cdeaf9f75ee85e1c40101700f73_1440w.webp?source=2c26e567)
+[[Read It Later/attachments/72cd6816e24efa488cd373bb4907aaee_MD5.webp|Open: 72cd6816e24efa488cd373bb4907aaee_MD5.webp]]
+![[Read It Later/attachments/72cd6816e24efa488cd373bb4907aaee_MD5.webp]]
 
 效果图如下：
 
-![](https://picx.zhimg.com/80/v2-8e1b3aa1c0a71f51ffc5d9030e7feb0c_1440w.webp?source=2c26e567)
+[[Read It Later/attachments/19f8e7125178190590999d21e8cf8c5c_MD5.webp|Open: 19f8e7125178190590999d21e8cf8c5c_MD5.webp]]
+![[Read It Later/attachments/19f8e7125178190590999d21e8cf8c5c_MD5.webp]]
 
 ![](https://www.zhihu.com/question/29816700/answer/www.w3.org/2000/svg'%20width='1080'%20height='547'%3E%3C/svg%3E)
 

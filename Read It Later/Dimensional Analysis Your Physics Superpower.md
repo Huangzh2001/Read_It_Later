@@ -25,7 +25,7 @@ The numbers that we measure in science typically have **dimensions** —for exam
 
 In a given physics problem, we have some list of parameters at our disposal—masses, lengths, charges, and so on, as well as fundamental constants like $c$ , $G$ , and $ℏ$ . And we're *looking* for an answer with some particular dimensions, like time or energy or whatever. The idea of dimensional analysis is just to figure how we can combine the given *input* parameters in order to get the correct units of the desired *output*. Just thinking about how we can assemble the parameters of a problem to get the units right often gets us 90% of the way to the answer to our question with next to no effort!
 
-![](https://www.physicswithelliot.com/s/pendulum-coordinates.png)
+![[Read It Later/attachments/8f28feb3b7f962fa6285db15b082e5c5_MD5.png]]
 
 Let's start off with the simple pendulum example. It's a particle of mass $m$ attached to a lightweight rod of length $l$ which is pivoted at its other end. If we pull the pendulum up to some initial angle $θ0$ and then let it go, it will oscillate back and forth. The question is, how long does it take to complete a full oscillation? This quantity is called the **period** $T$ of the pendulum.
 

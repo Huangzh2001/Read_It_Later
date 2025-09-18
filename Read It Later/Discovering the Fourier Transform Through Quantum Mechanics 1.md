@@ -43,7 +43,7 @@ We’ll better understand what these formulas mean as we go along. But for the m
 
 ### The Fourier Series
 
-![](https://www.physicswithelliot.com/s/particle-on-a-circle.png)
+![[Read It Later/attachments/559a284c5006352f2508bc381e6d857c_MD5.png]]
 
 To understand the role of the Fourier transform in quantum mechanics, we’re actually going to start off by thinking about a particle living on a *circle* of radius $R$ instead of an infinite line. Living on a circle will make the math a little bit easier to begin with, and then later on we’ll see what happens when we go back to infinite space.
 
@@ -75,19 +75,19 @@ This isn’t the Fourier transform yet—that’ll come soon. For now we’re ju
 
 For instance, here’s a simple example of a wavefunction for a particle that’s localized in a little window:
 
-![](https://www.physicswithelliot.com/s/localized-wavefunction.png)
+![[Read It Later/attachments/05a2af5a272616dc41d2ac8801e668e3_MD5.png]]
 
 Inside the window, $ψ(x)$ is just a constant, and so the particle has an equal chance of being found anywhere in that range. But outside, the wavefunction goes to zero, and so we’ll never find the particle there.
 
 We can make this wavefunction periodic simply by demanding that it repeats itself over and over again with period $2πR$ , and that way we can write down its Fourier series. After we add up just a few terms in the sum, it quickly begins to close in on the precise shape of the wavefunction:
 
-![](https://www.physicswithelliot.com/s/periodic-wavefunction.png)
+![[Read It Later/attachments/c3a3fe23fa769aabdc9ed9574f7af7f7_MD5.png]]
 
 This idea is really powerful, and it’s the foundation of everything we’re going to discuss in this lesson. Each term in the Fourier series is just a simple sinusoidal function—a wave that oscillates up and down forever. But when we add them together, the waves *interfere* with each other—constructively in some places and destructively in others—and the result quickly closes in on the wavefunction.
 
 Here are the first five waves in the Fourier series, whose sum equals the approximation to the wavefunction drawn in the previous picture:
 
-![](https://www.physicswithelliot.com/s/individual-fourier-waves.png)
+![[Read It Later/attachments/42adee57b946dec8293fffc522a7cf22_MD5.png]]
 
 Actually, cosines and sines can be a little bit awkward to work with, and so for our purposes here it will be more convenient to write the Fourier series in terms of exponentials. We can do that thanks to **Euler’s identity**, which says that
 
@@ -165,7 +165,7 @@ I’ll explain how to actually compute the coefficients in just a minute, but fi
 
 The reason comes back to the fact that we’ve put our particle on a circular space, where as we discussed the wavefunction has got to be periodic. Meanwhile, our Fourier waves are of course *also* periodic, but the periodicity of the waves has to be compatible with the periodicity of the circular space.
 
-![](https://www.physicswithelliot.com/s/standing-wave.png)
+![[Read It Later/attachments/7d210fc934019dafd1b9ff1b1dee5ca9_MD5.png]]
 
 In other words, we need to be able to fit a whole number of wavelengths into the circumference of our circle. They’re a little like the standing waves you may have learned about in high school physics when you pin down the two ends of a rope (except that these waves aren’t going to sit still, in general, as time goes on.)
 
@@ -219,7 +219,7 @@ $$
 
 This looks a little complicated, but actually we get something very simple here. On the right-hand-side, we’re doing the integral of $ei(n−m)x/R$ over the circumference of the circle. But like we just discussed, we specifically chose these functions to ensure that a whole number of oscillations fit into this interval.
 
-![](https://www.physicswithelliot.com/s/integra-area.png)
+![[Read It Later/attachments/c25ce61a2e98cc158de5be2769eb1280_MD5.png]]
 
 Then when we do the integral of a periodic function like this over a whole number of periods, the positive parts where the wave is above the $x$ -axis precisely cancel the negative parts where it’s below, and we get zero!
 
@@ -253,7 +253,7 @@ where again, in a slight abuse of notation, $ψk$ and $ψn$ refer to the same th
 
 So for our example of a wavefunction from earlier, you can evaluate those integrals and you’ll get a distribution of Fourier coefficients like this, for the first handful of terms:
 
-![](https://www.physicswithelliot.com/s/discrete-coefficients.png)
+![[Read It Later/attachments/6bbe28689ab3af2fde702f5da855844c_MD5.png]]
 
 Each data point here is telling us how much the Fourier wave $eikx$ with that particular value of $k=n/R$ is contributing to the given wavefunction.
 
@@ -316,7 +316,7 @@ $$
 
 Now what is this sum telling us to do? It contains this function of $k$ : $12πψ^(k)eikx$ . Here’s a cartoon of what it might look like:
 
-![](https://www.physicswithelliot.com/s/discrete-integral.png)
+![[Read It Later/attachments/d0419f5effabaa05168187bbf33950aa_MD5.png]]
 
 It’s complex of course, so let’s say this picture is the real part, and you could draw a similar picture of whatever the imaginary part happens to look like.
 
@@ -410,7 +410,7 @@ Anyway, I think we’d better take a look at a concrete example at this point to
 
 Let’s go back to our earlier wavefunction that described a particle localized inside a region of space around the origin, let’s say from $−a$ to $a$ :
 
-![](https://www.physicswithelliot.com/s/infinite-space-wavefunction.png)
+![[Read It Later/attachments/66ce7c5ce44548f32e2dec99d918b2ab_MD5.png]]
 
 $$
 ψ(x)={12a|x|<a0|x|>a
@@ -448,7 +448,7 @@ $$
 
 That’s the Fourier transform of this particular wavefunction $ψ(x)$ :
 
-![](https://www.physicswithelliot.com/s/fourier-transform.png)
+![[Read It Later/attachments/4cbfd598039755a9889fe70ebfdb2569_MD5.png]]
 
 Earlier, when we considered the periodic version of this wavefunction on a circle, the Fourier coefficients were a discrete list of data points. But now that we’ve graduated to an infinite domain, we have to sum over all the continuous values of $k$ along this curve.
 
@@ -458,7 +458,7 @@ In particular, notice that whereas the position of the particle is guaranteed to
 
 That’s our first glimpse of the uncertainty principle. To understand it better, let’s consider the two extreme limits: when $a$ is really tiny and when it’s huge.
 
-![](https://www.physicswithelliot.com/s/small-a.png)
+![[Read It Later/attachments/7d1941532f227bdb3b3ae748e3e8c2a3_MD5.png]]
 
 When $a$ is very small, the window in position space where the particle hangs out becomes very narrow—and correspondingly very tall, because remember the total area under the square of the wavefunction is fixed to one.
 
@@ -480,7 +480,7 @@ In other words, by pinning down the location of the particle in space, we haven�
 
 You can guess what happens in the opposite limit, when $a$ is very large, meaning that the particle has room to spread out across a big region in position space. Now it’s the *momentum* space wavefunction that develops a very tall spike at $k=0$ , and quickly decays away on either side:
 
-![](https://www.physicswithelliot.com/s/large-a.png)
+![[Read It Later/attachments/b3fedd0ce76ca955f6dc0a7b33c7505b_MD5.png]]
 
 This time, we can predict the momentum very precisely. But we have no idea what position we’ll find the particle at when we go to measure it.
 

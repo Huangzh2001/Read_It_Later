@@ -1,8 +1,8 @@
 ---
-url: "https://www.bilibili.com/video/BV1VHbPzdEzz/?spm_id_from=333.1391.0.0&vd_source=06168f390bae49c4867767c52a20e87c"
+url: https://www.bilibili.com/video/BV1VHbPzdEzz/?spm_id_from=333.1391.0.0&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
-  - "video"
-status:
+  - video
+status: readed
 ---
 ![“货二轮”or“新魔人”？曼联这8500万到底花得值不值？起底红魔新援谢什科的真实水准！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1VHbPzdEzz/?spm_id_from=333.1391.0.0&vd_source=06168f390bae49c4867767c52a20e87c)
 “货二轮”or“新魔人”？曼联这8500万到底花得值不值？起底红魔新援谢什科的真实水准！

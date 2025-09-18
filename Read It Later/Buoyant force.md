@@ -9,13 +9,13 @@ status:
 
 I think just about every kid in a swimming pool has tried to tackle something like a floating beach ball and force it all the way under the water. But the harder you try to force the ball underwater, the harder the water seems to want to force the ball out! What determines how much of the ball actually wants to sink below the surface? Likewise, how much of an iceberg lies above the surface of the ocean, and how much is lurking below? These questions come down to understanding the buoyant force: the force that a fluid like water exerts on an object that's floating in it. There's a beautiful and simple argument for figuring out the buoyant force that goes all the way back to the great Greek mathematician Archimedes over 2000 years ago, and is often called Archimedes' principle.
 
-![](https://www.physicswithelliot.com/s/duck.png)
+![[Read It Later/attachments/03a2c3dfc3c60209ddd7ed71c2b829cf_MD5.png]]
 
 So let's say that we have a big pool of fluid. This could be something like a swimming pool, or the ocean, or a pot of cooking oil. And then suppose you rest an object on the surface of the fluid and it floats, like a rubber ducky on the surface of a bath. Say that the water is still, and the duck is floating at rest.
 
 The duck of course has some weight $mg$ pulling it down. But since it's sitting at rest, there must be an opposite force from the water pushing up on it. That's what we call the **buoyant force** $FB$ . In equilibrium, the buoyant force must equal the weight of the duck. But how do we figure out how much of the duck has sunk below the surface of the water? And we know from experience that if you go and try to push the duck deeper down under the water, the buoyant force pushing back up is going to get even bigger. We want to be able to compute the buoyant force as a function of how deep underwater the duck is.
 
-![](https://www.physicswithelliot.com/s/normal-force.png)
+![[Read It Later/attachments/b62b414536185be1c9c796509970511a_MD5.png]]
 
 The buoyant force is a lot like the normal force that a table exerts on a block that's resting on it. The actual microscopic origins of the normal force are very complicated—it comes from all the little atoms in the table bumping up against all the little atoms in the block. But when we zoom out the macroscopic effect is very simple: there's a net upward force on the block that counteracts its weight, and keeps it from falling through the table.
 
@@ -23,7 +23,7 @@ Likewise, there are some very complicated interactions between the little atoms 
 
 Since we know the buoyant force gets bigger when we try to force the duck deeper underwater, we expect that the force will depend on how much of the volume of the duck is below the surface. So let's say the volume that's underwater is $VF$ , and try to figure out the total buoyant force. There's a beautiful argument for this that's due to Archimedes.
 
-![](https://www.physicswithelliot.com/s/buoyant.png)
+![[Read It Later/attachments/1575dbee1c008fb2f603568f05b943c9_MD5.png]]
 
 We consider the pool of fluid again, but this time *without* the duck in it. I've highlighted in dark blue the region of fluid where the duck *had* been submerged—that's the volume $VF$ ( $F$ for fluid). If the density of the fluid, i.e the mass per unit volume, is a constant $ρF$ , then the mass of this highlighted volume is $ρFVF$ , and its weight is $ρFVFg$ .
 

@@ -25,7 +25,7 @@ In that video I didn't *prove* to you that the shape of the orbit is an ellipse,
 
 I think this is pretty incredible—with really just a few lines of math we're going to derive the orbit of our home planet around our star. So I hope you're excited to see this worked out, especially if you've never seen it before, and without further ado let's get into it.
 
-![](https://www.physicswithelliot.com/s/earth-sun.png)
+![[Read It Later/attachments/2c0df50072f5b9999f11d587ce331d7d_MD5.png]]
 
 Here's the setup. We've got a star like the Sun, which we'll say has mass $M$ , and a planet like the Earth of mass $m$ . And we'll treat them both as point particles for simplicity here. Let's put the star at the origin of our coordinate system, and say the planet is some distance $r$ away. Then according to Newton's law of gravitation, there's going to be a force on the planet given by
 
@@ -37,7 +37,7 @@ The force points back toward the star at the origin, which is why there's a minu
 
 Of course, there's also going to be an equal-but-opposite gravitational force on the star pulling *it* toward the planet. But assuming that the star is much more massive than the planet, the same force that causes a big acceleration of the planet doesn't have much effect at all on the star. For the Earth and Sun, for example, $Mm≈3×105$ , meaning that the Sun is around 300,000 times more massive than the Earth. So it's a good approximation to say that the star just remains at rest at the origin.
 
-![](https://www.physicswithelliot.com/s/sun-earth-3d.png)
+![[Read It Later/attachments/fff19693600a0a956921e65a5a812d64_MD5.png]]
 
 Say that at $t=0$ the planet is at position $r0→$ and has velocity $v0→$ . Then the question we want to answer is: what path will it follow for $t>0$ ? Let's set up our coordinates so that $r0→$ and $v0→$ lie in the $xy$ plane. Then the first thing to notice is that *the motion will be confined to the $xy$ plane*. In other words, if the $z$ coordinate of the planet was zero at $t=0$ , then it will remain zero forever!
 
@@ -51,7 +51,7 @@ $$
 
 The $×$ here stands for the **cross product** of the vectors $r→$ and $v→$ . It returns a new vector which points *perpendicular* to both $r→$ and $v→$ (i.e. along the $z$ direction in this case), and the magnitude is the length of $r→$ times the length of the *piece* of $v→$ which is perpendicular to $r→$ , call it $v⊥$ :
 
-![](https://www.physicswithelliot.com/s/cross-product.png)
+![[Read It Later/attachments/2d2029532dbe3de46b6e2d5a45dd211a_MD5.png]]
 
 Notice that if two vectors are parallel, then there *is* no perpendicular component of one along the other, and so the cross product is *zero*.
 

@@ -9,7 +9,7 @@ status:
 
 I know—it's not the most exciting system in the world. So why does seemingly every physics teacher in every intro physics class make their students study a block sliding down a ramp? The fact is that it's a great problem for learning to apply Newton's laws in a setup that's not too complicated, but also not totally trivial.
 
-![](https://www.physicswithelliot.com/s/block-ramp.png)
+![[Read It Later/attachments/8b47c1e795a2bdef23c2a6092ac61f90_MD5.png]]
 
 The setup is that we've got a block of mass $m$ , which we've set down on a ramp that's inclined at an angle $θ$ . Say we release the block from rest at the top of the ramp at $t=0$ , and it starts to slide down the ramp. If the length of the ramp is $l$ , then when will the block hit the ground?
 
@@ -21,7 +21,8 @@ In Newtonian mechanics, we follow a three step procedure to answer these kinds o
 
 So here's the free-body diagram:
 
-![](https://www.physicswithelliot.com/s/block-fbd-help-room.png)
+[[Read It Later/attachments/e5454f2878f921737823d498a7ee7861_MD5.png|Open: e5454f2878f921737823d498a7ee7861_MD5.png]]
+![[Read It Later/attachments/e5454f2878f921737823d498a7ee7861_MD5.png]]
 
 There are three forces acting on the block:
 
@@ -33,7 +34,7 @@ Okay great, we're already done with step one. Step two is to add up the forces a
 
 Actually, we can break up the vectors into whatever components that we like. And in this case, since the block is moving along the surface of the ramp, instead of using horizontal and vertical coordinates it makes more sense to use coordinates that run parallel and perpendicular to the the ramp. So let's define a coordinate $q$ that measures the position of the block along the ramp, measured from the top:
 
-![](https://www.physicswithelliot.com/s/inclined-ramp.png)
+![[Read It Later/attachments/2c46eabf1f5fb40ea1549830b7b8fd51_MD5.png]]
 
 We want to find $q(t)$ , because if we know that we can figure out when the block will hit the ground just by setting $q(t)=l$ and solving for $t$ .
 
@@ -41,7 +42,8 @@ So what are the forces in the $q$ direction? Well, we've got friction pointing b
 
 Just like we can break a vector up into $x$ and $y$ components, we can break the gravity vector up into parallel and perpendicular components with respect to the ramp:
 
-![](https://www.physicswithelliot.com/s/parallel-perp-components.png)
+[[Read It Later/attachments/72961837867e333c144c7a0e2d3eb7a6_MD5.png|Open: 72961837867e333c144c7a0e2d3eb7a6_MD5.png]]
+![[Read It Later/attachments/72961837867e333c144c7a0e2d3eb7a6_MD5.png]]
 
 Note first of all that the angle with the ramp on the right side of the gravity vector is $π2−θ$ , because we have a right triangle with $θ$ in the bottom right corner and therefore $π2−θ$ is in the top corner. Now draw the component of the gravity arrow that points perpendicular to the ramp. Since this arrow makes a 90 degree angle with the ramp, it has to make an angle $θ$ with the original gravity arrow, since $θ+(π2−θ)=π2$ .
 

@@ -11,14 +11,10 @@
             "id": "39bacddaf5c461e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/How To Become So Genius It Feels Illegal!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How To Become So Genius It Feels Illegal!"
+              "type": "mx-welcome",
+              "state": {},
+              "icon": "home",
+              "title": "Media Extended onboarding"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -189,14 +184,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "media-extended:Open external media": false
     }
   },
   "active": "39bacddaf5c461e0",
   "lastOpenFiles": [
-    "Watch It Later/What is the secret of a good life Lessons from the longest study on happiness.md",
-    "Watch It Later/How To Become So Genius It Feels Illegal!.md",
+    "Read It Later/卢曼：与卡片盒交流.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-18_11-30-56.md",
+    "Watch It Later/How To Become So Genius It Feels Illegal!.md",
+    "Watch It Later/What is the secret of a good life Lessons from the longest study on happiness.md",
     "utils/obsidian-urls/logs/2025-09-18_10-39-37.md",
     "Watch It Later/3am Dopamine based Morning Routine as a Doctor in Rural UK.md",
     "utils/obsidian-urls/logs/2025-09-16_15-30-48.md",
@@ -219,9 +217,6 @@
     "Watch It Later/Dave Gray's Visual Frameworks A Companion to Sketch Your Mind.md",
     "Watch It Later/Too Many Interests Here's how to choose.md",
     "utils/obsidian-urls/logs/2025-09-14_11-22-43.md",
-    "utils/obsidian-urls/logs/2025-09-14_11-20-42.md",
-    "如何搭建一个稍后阅读系统.md",
-    "utils/obsidian-urls/logs/2025-09-11_10-10-36.md",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",
     "obsidian-urls/urls.json",

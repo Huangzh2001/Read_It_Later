@@ -35,8 +35,7 @@
               "title": "The Big Misconception About Electricity"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +207,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a953eeeb5cb38314",
+  "active": "df9d20604a62127b",
   "lastOpenFiles": [
+    "Watch It Later/The Big Misconception About Electricity.md",
     "Watch It Later/Something Strange Happens When You Follow Einstein's Math.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-19_07-43-34.md",
@@ -251,7 +251,6 @@
     "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
     "Read It Later/(99+ 封私信  61 条消息) 「我突然留意到自己走神了」，这种「回过神」的注意转移，既非主动又非被动，它的驱动机制和神经机制是什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
-    "Read It Later/Communicating with Slip Boxes by Niklas Luhmann.md",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
     "utils/obsidian-urls/urls-with-status.json",

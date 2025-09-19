@@ -1,9 +1,9 @@
 ---
-date: "2025-09-19T09:27:58+08:00"
-url: "https://hub.baai.ac.cn/view/45339"
-status:
+date: 2025-09-19T09:27:58+08:00
+url: https://hub.baai.ac.cn/view/45339
+status: readed
 ---
-![](https://simg.baai.ac.cn/hub-detail/a219c1579052b4b1c46b7d0501c4d7fa1746010246717.webp)
+![[Read It Later/attachments/b501be024019d768b2b7550ecd08e5a6_MD5.png]]
 
   
 
@@ -23,7 +23,7 @@ status:
 
   
 
-![](https://simg.baai.ac.cn/hub-detail/c7b0758749c3e27d85e6fbe954fe73b71746010246717.webp)
+![[Read It Later/attachments/4417870ed1cd0fc6c7c7f1033418cf01_MD5.png]]
 
 论文链 接 ：https://arxiv.org/abs/2504.19838
 
@@ -67,7 +67,7 @@ LLM 的集成使新颖的商业应用成为可能， 苹果的 **Apple** **Intel
 
   
 
-![](https://simg.baai.ac.cn/hub-detail/6962bf2ab05f633fe6da66a4074b30f41746010246717.webp)
+![[Read It Later/attachments/95da4cbae6b31de0bbe2476ffa038709_MD5.png]]
 
 图｜由 LLM 驱动的手机 GUI agent 里程碑。
 
@@ -95,7 +95,7 @@ LLM 的集成使新颖的商业应用成为可能， 苹果的 **Apple** **Intel
 
   
 
-![](https://simg.baai.ac.cn/hub-detail/a23f3cc3690ee27ac6f9686ca975ebdc1746010246717.webp)
+![[Read It Later/attachments/c9fd30da637abad39df9687cb99500cc_MD5.png]]
 
 图｜由 MLLM 驱动的手机 GUIagent 框架概述。
 
@@ -113,7 +113,7 @@ LLM 的集成使新颖的商业应用成为可能， 苹果的 **Apple** **Intel
 
   
 
-![](https://simg.baai.ac.cn/hub-detail/d7d138bc330c37bfba2c1df3a7757cad1746010246717.webp)
+![[Read It Later/attachments/81359b00eee87fd78c0e2f4be96b4bb4_MD5.png]]
 
 图｜角色协调和基于情景的多 agent 框架比较。
 

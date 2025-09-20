@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a723984f63ba05",
+        "id": "70d12339051c2418",
         "type": "tabs",
         "children": [
           {
-            "id": "af7d0c3ace7173c5",
+            "id": "8a4617660118a5bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -142,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -172,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +192,10 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "af7d0c3ace7173c5",
+  "active": "791fd4167575c9cc",
   "lastOpenFiles": [
-    "Watch It Later/A new way to visualize General Relativity.md",
     "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
+    "Watch It Later/A new way to visualize General Relativity.md",
     "正在读&正在看.md",
     "Watch It Later/Gravity Visualized.md",
     "Watch It Later/My Simple Productivity System.md",

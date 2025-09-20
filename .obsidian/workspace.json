@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70d12339051c2418",
+        "id": "5e363b0a9f9f540c",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4617660118a5bc",
+            "id": "4e8543561631a874",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "已读&已看.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "已读&已看"
+              "title": "新标签页"
             }
           }
         ]
@@ -143,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "已读&已看.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "已读&已看 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -198,8 +193,11 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "8a4617660118a5bc",
+  "active": "4e8543561631a874",
   "lastOpenFiles": [
+    "Watch It Later/老外学中文，越学越服气_哔哩哔哩_bilibili.md",
+    "Watch It Later/外国大哥被中文魅力征服，会三千个汉字就能走天下！_哔哩哔哩_bilibili.md",
+    "已读&已看.md",
     "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
     "Watch It Later/A new way to visualize General Relativity.md",
     "正在读&正在看.md",
@@ -236,9 +234,6 @@
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/logs/2025-09-19_21-14-27.md",
     "Read It Later/AI agent 玩手机，还有哪些坑？一文读懂 - 智源社区.md",
-    "utils/obsidian-urls/logs/2025-09-19_09-28-04.md",
-    "Watch It Later/Something Strange Happens When You Follow Einstein's Math.md",
-    "Watch It Later/The Big Misconception About Electricity.md",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
     "Read It Later/Omnivore/【Manifolds 】simplicial 流形可视化_哔哩哔哩_bilibili/attachments",

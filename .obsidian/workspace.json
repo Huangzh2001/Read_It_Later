@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
+                "file": "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大师们的写作秘诀，竟是平平无奇的卡片"
-            }
-          },
-          {
-            "id": "a953eeeb5cb38314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/The Big Misconception About Electricity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Big Misconception About Electricity"
+              "title": "Could a human brain be placed somewhere outside of the body while still remaining alive"
             }
           }
         ]
@@ -55,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
+                "file": "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的反向链接列表"
+              "title": "Could a human brain be placed somewhere outside of the body while still remaining alive 的反向链接列表"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
+                "file": "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的出链列表"
+              "title": "Could a human brain be placed somewhere outside of the body while still remaining alive 的出链列表"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
+                "file": "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的大纲"
+              "title": "Could a human brain be placed somewhere outside of the body while still remaining alive 的大纲"
             }
           },
           {
@@ -211,8 +196,16 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "08169aa61664d389",
+  "active": "df9d20604a62127b",
   "lastOpenFiles": [
+    "Read It Later/How does the Chinese Q&A website Zhihu compare to Quora.md",
+    "Read It Later/attachments/ce9fd2f5d79b8523210a6f3c6164d3fa_MD5.webp",
+    "Read It Later/attachments/198089702404dddcd89770c8e5376281_MD5.jpg",
+    "Read It Later/attachments/5ba5be086cd1b54b3ec60639383a544e_MD5.webp",
+    "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
+    "Read It Later/attachments/78d21befb95acf7950f00036512ee3d6_MD5.webp",
+    "Read It Later/attachments/48d2d677672f8fb57bc2c90260aea1a4_MD5.jpg",
+    "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
@@ -222,13 +215,7 @@
     "Read It Later/attachments/bf597cb2994db6bb0b2abb07ca72df20_MD5.webp",
     "Read It Later/attachments/11afa76e48f23088e14afadb12157ef4_MD5.jpg",
     "Read It Later/attachments/bd3f7cf0831ff425f39b3fda55d74cfb_MD5.webp",
-    "Read It Later/attachments/2b14c9ffced3cd5a803b30fb048a2d7d_MD5.webp",
-    "Read It Later/attachments/70772d2ce72ad6947fec4bf8560419a5_MD5.webp",
-    "Read It Later/attachments/b2e7794fc18ad870a4c1445a3a8d3d72_MD5.webp",
-    "Read It Later/attachments/6f6338e99f3f55746ac574e2b0218b4d_MD5.webp",
-    "Read It Later/attachments/6e8ea336a106d1d0fe8ef333a79b4f03_MD5.webp",
     "Read It Later/AI agent 玩手机，还有哪些坑？一文读懂 - 智源社区.md",
-    "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
     "utils/obsidian-urls/logs/2025-09-19_09-28-04.md",
     "Watch It Later/Something Strange Happens When You Follow Einstein's Math.md",
     "Watch It Later/The Big Misconception About Electricity.md",
@@ -249,15 +236,12 @@
     "Read It Later/卢曼：与卡片盒交流.md",
     "正在读&正在看.md",
     "Read It Later/Omnivore/(99+ 封私信/2 条消息) 为什么数学教材不能“多说几句”？ - 知乎/(99+ 封私信 - 2 条消息) 为什么数学教材不能“多说几句”？ - 知乎.md",
-    "已读&已看.md",
-    "Watch It Later/“货二轮”or“新魔人”？曼联这8500万到底花得值不值？起底红魔新援谢什科的真实水准！_哔哩哔哩_bilibili.md",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
     "Read It Later/Omnivore/【Manifolds 】simplicial 流形可视化_哔哩哔哩_bilibili/attachments",
     "Read It Later/Omnivore/在Word中插入代码 -- 绝对高效，一劳永逸 - 知乎/attachments",
     "Read It Later/Omnivore/👋 首页 - 飞书云文档/attachments",
     "Clippings/sync.ffs_db.bc9a.ffs_tmp",
-    "utils/obsidian-urls/urls-with-status.json",
-    "obsidian-urls/urls.json"
+    "utils/obsidian-urls/urls-with-status.json"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "searchViewState": {
-    "collapseAll": false,
+    "collapseAll": true,
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "你好",
+    "query": " does the Chinese Q&A websit",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +197,10 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "c4645a2fc0ca5720",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-20_12-34-43.md",
     "Read It Later/attachments/dc3a64a1caff5cb6610a816c86508c99_MD5.jpg",
     "Read It Later/attachments/d4ddacfe8402ca2ddfb237daa35d9038_MD5.png",
     "Read It Later/attachments/21fc2adc366b2da70ea5095b0715fa1e_MD5.png",
@@ -212,7 +213,6 @@
     "Read It Later/If You Want to Be a Creator, Delete All (But Two) Social Media Platforms.md",
     "Read It Later/attachments/4c375e794bf93e01c11ef1b2636a9124_MD5.jpg",
     "Read It Later/attachments/274cef970b7e3662454b85a0b0a1b631_MD5.png",
-    "Read It Later/attachments/9f68a7631111ddc26428f119851f45cd_MD5.jpg",
     "Read It Later/5个超冷门却宝藏的Reddit板块，中文圈几乎没人逛.md",
     "Watch It Later/Reddit's Most Disturbing Communities.md",
     "Watch It Later/How to Use Reddit - Complete Beginner's Guide.md",
@@ -228,7 +228,6 @@
     "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-19_21-14-27.md",
     "Read It Later/AI agent 玩手机，还有哪些坑？一文读懂 - 智源社区.md",
     "utils/obsidian-urls/logs/2025-09-19_09-28-04.md",
@@ -238,7 +237,6 @@
     "utils/obsidian-urls/logs/2025-09-18_20-41-32.md",
     "Watch It Later/Is it normal to talk to yourself.md",
     "Watch It Later/Link your sketches, a pen first knowledge mapping experience with Excalidraw - Obsidian 1.6.1.md",
-    "Watch It Later/An old mans advice.md",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
     "Read It Later/Omnivore/【Manifolds 】simplicial 流形可视化_哔哩哔哩_bilibili/attachments",

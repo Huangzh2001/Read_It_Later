@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=wrwgIjBUYVc&t=38s
 tags:
   - video
-status: reading
+status: readed
 ---
 ![A new way to visualize General Relativity](https://www.youtube.com/watch?v=wrwgIjBUYVc&t=38s)
 0:02

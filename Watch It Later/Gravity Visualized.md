@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=MTY1Kje0yLg
 tags:
   - video
-status: reading
+status: readed
 ---
 ![Gravity Visualized](https://www.youtube.com/watch?v=MTY1Kje0yLg)
 tivity the explanation for gravity is that matter bends space and so you put mass in a place of space at warp space-time and objects are not feeling a force of gravity they're just following

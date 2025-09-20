@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=BtiQvhQF8IA
 tags:
   - video
-status: reading
+status: readed
 ---
 ![My Simple Productivity System](https://www.youtube.com/watch?v=BtiQvhQF8IA)
 0:00

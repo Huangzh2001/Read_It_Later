@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e363b0a9f9f540c",
+        "id": "bd230fbb5506ff3c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8543561631a874",
+            "id": "695fdbd2eab69be8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未读&未看.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未读&未看"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未读&未看.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未读&未看 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -197,11 +192,15 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "4e8543561631a874",
+  "active": "695fdbd2eab69be8",
   "lastOpenFiles": [
+    "Read It Later/(99+ 封私信  61 条消息) 如何建立自己的知识体系和观点？ - 知乎.md",
+    "未读&未看.md",
+    "待整理.md",
+    "已读&已看.md",
+    "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎.md",
     "Watch It Later/老外学中文，越学越服气_哔哩哔哩_bilibili.md",
     "Watch It Later/外国大哥被中文魅力征服，会三千个汉字就能走天下！_哔哩哔哩_bilibili.md",
-    "已读&已看.md",
     "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
     "Watch It Later/A new way to visualize General Relativity.md",
     "正在读&正在看.md",
@@ -232,12 +231,8 @@
     "Watch It Later/【MacBook】办公用免费iWork三件套？ 便宜入手office方法分享_哔哩哔哩_bilibili.md",
     "Watch It Later/【全网最细，榨干级教程】Mac苹果备忘录，免费的就是最强的，一集讲明白！_哔哩哔哩_bilibili.md",
     "Read It Later/How does the Chinese Q&A website Zhihu compare to Quora.md",
-    "Read It Later/Could a human brain be placed somewhere outside of the body while still remaining alive.md",
-    "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/logs/2025-09-19_21-14-27.md",
-    "Read It Later/AI agent 玩手机，还有哪些坑？一文读懂 - 智源社区.md",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",
     "Read It Later/Omnivore/【Manifolds 】simplicial 流形可视化_哔哩哔哩_bilibili/attachments",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd230fbb5506ff3c",
+        "id": "0fd24748ad928e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "695fdbd2eab69be8",
+            "id": "51c1aa625022e28a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,10 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "695fdbd2eab69be8",
+  "active": "51c1aa625022e28a",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-20_15-57-21.md",
     "Read It Later/(99+ 封私信  61 条消息) 如何建立自己的知识体系和观点？ - 知乎.md",
     "未读&未看.md",
     "待整理.md",
@@ -207,7 +209,6 @@
     "Watch It Later/Gravity Visualized.md",
     "Watch It Later/My Simple Productivity System.md",
     "Read It Later/If You Want to Be a Creator, Delete All (But Two) Social Media Platforms.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-20_12-34-43.md",
     "Read It Later/attachments/dc3a64a1caff5cb6610a816c86508c99_MD5.jpg",
     "Read It Later/attachments/d4ddacfe8402ca2ddfb237daa35d9038_MD5.png",
@@ -229,8 +230,6 @@
     "Read It Later/If China is full of the smartest people, why is the US so much more advanced.md",
     "Watch It Later/苹果电脑MacBook文稿Pages，Mac生产力指南pro_哔哩哔哩_bilibili.md",
     "Watch It Later/【MacBook】办公用免费iWork三件套？ 便宜入手office方法分享_哔哩哔哩_bilibili.md",
-    "Watch It Later/【全网最细，榨干级教程】Mac苹果备忘录，免费的就是最强的，一集讲明白！_哔哩哔哩_bilibili.md",
-    "Read It Later/How does the Chinese Q&A website Zhihu compare to Quora.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

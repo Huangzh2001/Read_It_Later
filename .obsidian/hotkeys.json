@@ -22,5 +22,13 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "float-search:search-obsidian-globally": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

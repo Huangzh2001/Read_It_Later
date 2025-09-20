@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的反向链接列表"
             }
           },
           {
@@ -126,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read It Later/稍后阅读开源神器 Omnivore 退场之后 - 少数派.md",
+                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "稍后阅读开源神器 Omnivore 退场之后 - 少数派 的出链列表"
+              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的出链列表"
             }
           },
           {
@@ -141,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -153,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/The Biggest Myth In Education.md",
+                "file": "Read It Later/大师们的写作秘诀，竟是平平无奇的卡片.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "The Biggest Myth In Education 的大纲"
+              "title": "大师们的写作秘诀，竟是平平无奇的卡片 的大纲"
             }
           },
           {
@@ -187,11 +191,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:打开设置": false,
       "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -203,10 +207,11 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "media-extended:Open external media": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "df9d20604a62127b",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",

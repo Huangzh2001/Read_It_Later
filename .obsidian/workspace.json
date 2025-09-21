@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49de62d8c9d92677",
+        "id": "e30cd3b837a9f904",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1fa9a1d7bad8f6",
+            "id": "a65f43b5d856c86f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,11 +192,12 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "9d1fa9a1d7bad8f6",
+  "active": "a65f43b5d856c86f",
   "lastOpenFiles": [
+    "Watch It Later/刘备的第一谋士，堪比郭嘉的鬼才军师法正_哔哩哔哩_bilibili.md",
+    "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
     "Read It Later/attachments/1efd2305a78f052ce02e9462a4fe523f_MD5.png",
     "未读&未看.md",
-    "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎/(99+ 封私信 - 2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎.md",
     "Read It Later/(99+ 封私信  93 条消息) 如何写出漂亮的物理笔记 - 知乎.md",
     "Read It Later/attachments/23e2ae9a0c0fde290638f6464c97de83_MD5.jpg",
@@ -212,7 +209,6 @@
     "Read It Later/attachments/9dab73149ec2c89b09efdfecaa62b72e_MD5.jpg",
     "Read It Later/attachments/a55c5cb0918f1586caebaabff36af6ba_MD5.jpg",
     "Read It Later/attachments/64c5a02106df42de261f573d700eb0af_MD5.jpg",
-    "Read It Later/attachments/e66883c87ee692018e6b606259f003d2_MD5.jpg",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 如何写出漂亮的物理笔记- - 知乎/(99+ 封私信 - 91 条消息) 如何写出漂亮的物理笔记- - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎-f9725bf0-fa46-4a35-9295-50a59eeac594.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎.md",

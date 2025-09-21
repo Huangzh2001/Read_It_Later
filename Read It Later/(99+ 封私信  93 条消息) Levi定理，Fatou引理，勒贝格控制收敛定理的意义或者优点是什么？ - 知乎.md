@@ -1,7 +1,7 @@
 ---
-date: "2025-09-21T20:33:34+08:00"
-url: "https://www.zhihu.com/question/573825135/answer/3291473352"
-status:
+date: 2025-09-21T20:33:34+08:00
+url: https://www.zhihu.com/question/573825135/answer/3291473352
+status: readed
 ---
 [收敛](https://www.zhihu.com/topic/19968600)[勒贝格积分](https://www.zhihu.com/topic/21265327)
 

@@ -11,10 +11,14 @@
             "id": "a65f43b5d856c86f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Read It Later/Omnivore/Zotero Integration插件说明 - 飞书云文档/Zotero Integration插件说明 - 飞书云文档.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Zotero Integration插件说明 - 飞书云文档"
             }
           }
         ]
@@ -194,10 +198,11 @@
   },
   "active": "a65f43b5d856c86f",
   "lastOpenFiles": [
-    "Watch It Later/刘备的第一谋士，堪比郭嘉的鬼才军师法正_哔哩哔哩_bilibili.md",
-    "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
-    "Read It Later/attachments/1efd2305a78f052ce02e9462a4fe523f_MD5.png",
     "未读&未看.md",
+    "Read It Later/Omnivore/装了啥 - 哲学与电脑维修的艺术 - 少数派/装了啥 - 哲学与电脑维修的艺术 - 少数派.md",
+    "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
+    "Watch It Later/刘备的第一谋士，堪比郭嘉的鬼才军师法正_哔哩哔哩_bilibili.md",
+    "Read It Later/attachments/1efd2305a78f052ce02e9462a4fe523f_MD5.png",
     "Read It Later/Omnivore/(99+ 封私信/2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎/(99+ 封私信 - 2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎.md",
     "Read It Later/(99+ 封私信  93 条消息) 如何写出漂亮的物理笔记 - 知乎.md",
     "Read It Later/attachments/23e2ae9a0c0fde290638f6464c97de83_MD5.jpg",
@@ -230,7 +235,6 @@
     "Watch It Later/老外学中文，越学越服气_哔哩哔哩_bilibili.md",
     "Watch It Later/外国大哥被中文魅力征服，会三千个汉字就能走天下！_哔哩哔哩_bilibili.md",
     "Watch It Later/居然会有人喜欢这么难用的手机系统：windowsphone_哔哩哔哩_bilibili.md",
-    "Watch It Later/A new way to visualize General Relativity.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

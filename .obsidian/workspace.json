@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "365516f854efd7f6",
+        "id": "09013a94d9d08f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "80f4feff28b3f4fc",
+            "id": "d74e292d17c80192",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,10 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "80f4feff28b3f4fc",
+  "active": "d74e292d17c80192",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-22_10-39-15.md",
     "Watch It Later/【何同学】最听劝的一代，但是... iPhone 17系列首发体验_哔哩哔哩_bilibili.md",
     "Read It Later/The Garden and the Stream A Technopastoral.md",
     "Read It Later/attachments/3286a7ee3d8272133357d49210653ae2_MD5.png",
@@ -209,7 +211,6 @@
     "Watch It Later/Mike Caulfield Keynote.md",
     "Read It Later/(99+ 封私信  93 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-22_07-48-19.md",
     "utils/obsidian-urls/logs/2025-09-21_23-18-46.md",
     "正在读&正在看.md",
@@ -229,8 +230,6 @@
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 如何写出漂亮的物理笔记- - 知乎/(99+ 封私信 - 91 条消息) 如何写出漂亮的物理笔记- - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎-f9725bf0-fa46-4a35-9295-50a59eeac594.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎.md",
-    "Read It Later/There’s more to mathematics than rigour and proofs.md",
-    "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

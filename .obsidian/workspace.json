@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎"
             }
+          },
+          {
+            "id": "b0fd15747d98502b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ]
       }
@@ -198,6 +208,7 @@
   },
   "active": "82fce2a9c8abd9da",
   "lastOpenFiles": [
+    "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-22_07-48-19.md",
     "utils/obsidian-urls/logs/2025-09-21_23-18-46.md",

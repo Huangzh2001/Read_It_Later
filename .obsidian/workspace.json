@@ -35,7 +35,8 @@
               "title": "The Garden and the Stream A Technopastoral"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,11 +211,11 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "f868646b9d53c77b",
+  "active": "642925396d5eb524",
   "lastOpenFiles": [
+    "Watch It Later/Mike Caulfield Keynote.md",
     "正在读&正在看.md",
     "Watch It Later/How to Articulate Yourself CLEARLY (3 Secrets).md",
-    "Watch It Later/Mike Caulfield Keynote.md",
     "Read It Later/The Garden and the Stream A Technopastoral.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 人的肌肉量大，到底有什么好处？ - 知乎/(99+ 封私信 - 91 条消息) 人的肌肉量大，到底有什么好处？ - 知乎.md",
     "utils/obsidian-urls/notes-with-excerpt.json",

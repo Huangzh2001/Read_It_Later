@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=Xz1KAgDTCxY
 tags:
   - video
-status: reading
+status: readed
 ---
 ![How to Articulate Yourself CLEARLY (3 Secrets)](https://www.youtube.com/watch?v=Xz1KAgDTCxY)
 0:00

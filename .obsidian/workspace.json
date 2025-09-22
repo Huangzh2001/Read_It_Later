@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82fce2a9c8abd9da",
+            "id": "b0fd15747d98502b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
+                "file": "Read It Later/(99+ 封私信  93 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎"
-            }
-          },
-          {
-            "id": "b0fd15747d98502b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "(99+ 封私信  93 条消息) 什么是数字花园（Digital Garden）？ - 知乎"
             }
           }
         ]
@@ -206,25 +196,29 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "82fce2a9c8abd9da",
+  "active": "b0fd15747d98502b",
   "lastOpenFiles": [
+    "Read It Later/attachments/8138b2d0ddf1781f23423321d0c79caa_MD5.png",
+    "Read It Later/attachments/98a132b34a0ccf2f3b64579a6ea86afa_MD5.png",
+    "Read It Later/attachments/7f6106af252c6af09c5100e55b1510b6_MD5.png",
+    "Read It Later/attachments/4c3d41818cf8f9fa54c8914d563dd1dd_MD5.jpg",
+    "Read It Later/attachments/3c3d8e4daf5044595fe04a176069fffa_MD5.jpg",
+    "Read It Later/attachments/285ae0f9a08ff7110e55f91646204c1c_MD5.jpg",
+    "Read It Later/attachments/4a53d397c7b0beec9854b627b370c40a_MD5.png",
+    "Read It Later/attachments/4a2288f39aab737e7036f4c3f8750be4_MD5.jpg",
+    "Read It Later/attachments/ca69176bca4b3dc4bf8c2016af6057f9_MD5.png",
+    "Read It Later/attachments/b6dcdaff44a78774534e88c081b08b6a_MD5.png",
+    "Read It Later/attachments/eb07062b0be7a2156c6b85b019ee57ac_MD5.png",
+    "Read It Later/(99+ 封私信  93 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 什么是数字花园（Digital Garden）？ - 知乎/(99+ 封私信 - 91 条消息) 什么是数字花园（Digital Garden）？ - 知乎.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-22_07-48-19.md",
     "utils/obsidian-urls/logs/2025-09-21_23-18-46.md",
     "正在读&正在看.md",
     "Read It Later/(99+ 封私信  93 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
-    "Read It Later/attachments/7a8352dfd68ef569524cf7525f8b3141_MD5.jpg",
-    "Read It Later/attachments/7a9ff85992c195af8599e7bb1becbee0_MD5.jpg",
-    "Read It Later/attachments/555c62dd84a0f461d0d99315045eafb5_MD5.jpg",
-    "Read It Later/attachments/9886204b24e3b47d1ae8a8142dab2c89_MD5.jpg",
     "未读&未看.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 男生们，你们练肌肉是为了什么？ - 知乎/(99+ 封私信 - 91 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
     "Read It Later/(99+ 封私信  93 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎.md",
-    "Read It Later/attachments/07e6485fb7c6bfa24a54fb35bdcd8d77_MD5.png",
-    "Read It Later/attachments/b9728c189fcf3717e54918142c7718e8_MD5.jpg",
-    "Read It Later/attachments/5f1b04c0302d1f100f8621019e7e8958_MD5.jpg",
-    "Read It Later/attachments/eb7f81ffbca5554281f32ddee6273177_MD5.jpg",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎/(99+ 封私信 - 91 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎.md",
     "Read It Later/Omnivore/有了AI，还需要搞个人知识管理吗？ - 知乎/有了AI，还需要搞个人知识管理吗？ - 知乎.md",
     "Read It Later/All Notes.md",
@@ -232,10 +226,8 @@
     "Read It Later/Omnivore/装了啥 - 哲学与电脑维修的艺术 - 少数派/装了啥 - 哲学与电脑维修的艺术 - 少数派.md",
     "Read It Later/(99+ 封私信  93 条消息) Levi定理，Fatou引理，勒贝格控制收敛定理的意义或者优点是什么？ - 知乎.md",
     "Watch It Later/刘备的第一谋士，堪比郭嘉的鬼才军师法正_哔哩哔哩_bilibili.md",
-    "Read It Later/attachments/1efd2305a78f052ce02e9462a4fe523f_MD5.png",
     "Read It Later/Omnivore/(99+ 封私信/2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎/(99+ 封私信 - 2 条消息) 勒贝格控制收敛定理 - 搜索结果 - 知乎.md",
     "Read It Later/(99+ 封私信  93 条消息) 如何写出漂亮的物理笔记 - 知乎.md",
-    "Read It Later/attachments/23e2ae9a0c0fde290638f6464c97de83_MD5.jpg",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 如何写出漂亮的物理笔记- - 知乎/(99+ 封私信 - 91 条消息) 如何写出漂亮的物理笔记- - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎-f9725bf0-fa46-4a35-9295-50a59eeac594.md",
     "Read It Later/Omnivore/(99+ 封私信/11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎/(99+ 封私信 - 11 条消息) 为什么突然感觉数学学习依靠积累而非智商- - 知乎.md",
@@ -243,8 +235,6 @@
     "Read It Later/(99+ 封私信  61 条消息) 现在的曼联，是否还是只有穆里尼奥才能重建？ - 知乎.md",
     "Read It Later/(99+ 封私信  47 条消息) 有哪些你追了很多女生才明白的道理？ - 知乎.md",
     "Read It Later/什么是 “马太效应” ？.md",
-    "Watch It Later/虚幻引擎到底怎么了？为什么用 UE5 做的游戏看起来都一样？.md",
-    "Watch It Later/徘徊难以入门的写作：故事写作的直觉训练_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09013a94d9d08f5b",
+        "id": "bf9bfa556ef026df",
         "type": "tabs",
         "children": [
           {
-            "id": "f868646b9d53c77b",
+            "id": "322668a67d54265c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/A Brief History & Ethos of the Digital Garden.md",
+                "file": "Read It Later/翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Brief History & Ethos of the Digital Garden"
+              "title": "翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派"
             }
           }
         ]
@@ -196,23 +196,26 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "f868646b9d53c77b",
+  "active": "322668a67d54265c",
   "lastOpenFiles": [
+    "Read It Later/翻阅外公的活页笔记本，我对双向链接与卢曼笔记法感触更深了 - 少数派.md",
+    "Read It Later/又一个用了就离不开的Obsidian插件，真的太好用了.md",
+    "Read It Later/attachments/99b6f0fa4ba657b0df9aeed0b4d84cf4_MD5.png",
+    "Read It Later/attachments/015406cb54f937096c5915048af35000_MD5.jpg",
+    "Read It Later/attachments/326fe7e32c8bb032319536a3f3bd51cb_MD5.webp",
+    "Read It Later/attachments/bc59601e491e4fa2b238469def0ec9b6_MD5.png",
+    "Read It Later/attachments/6b0f6774ca692c5bc3545c872738bb1e_MD5.png",
+    "Read It Later/attachments/e6d0462a9bbddebaab262443cc471a59_MD5.png",
+    "Read It Later/attachments/40b5dfa626be2ed5b9127578acfcb55d_MD5.png",
+    "Read It Later/attachments/e0e9868a4ecf83fab3866d5846b396b4_MD5.png",
+    "Read It Later/attachments/c8966065413b4eba9c72127b4e6836d3_MD5.png",
+    "Read It Later/attachments/fe85d9502ded96801ea87318932675c5_MD5.png",
+    "Read It Later/字体显示大一些，天会塌下来吗？.md",
+    "Read It Later/A Brief History & Ethos of the Digital Garden.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-23_07-41-28.md",
-    "Read It Later/attachments/4699748bbf4d5e182a2364ed8165feed_MD5.jpg",
-    "Read It Later/attachments/1436df6985cfc50a0f71ef0428951a3b_MD5.jpg",
-    "Read It Later/attachments/a5953bc3f7bf3b1da787d3dc096dea46_MD5.png",
-    "Read It Later/attachments/a32b9d6eb0fd158628f4ff2bacdc8add_MD5.png",
-    "Read It Later/attachments/b218e3035a2f1fceccf1137b0c009aec_MD5.jpg",
-    "Read It Later/attachments/5da57b68d8b6c36a72189caee8c84f22_MD5.jpg",
-    "Read It Later/attachments/60e95f8e8ffb70bd97eb4fb36a776be3_MD5.jpg",
-    "Read It Later/attachments/00715dcb3c7b5b8d7aca3f4c19ffab08_MD5.jpg",
-    "Read It Later/attachments/29cef855ea9e5c08c4806918b0d3c81e_MD5.jpg",
-    "Read It Later/attachments/0d188d23c763ff8b298e17e1f4f9d698_MD5.png",
     "Read It Later/Digital gardens.md",
-    "Read It Later/A Brief History & Ethos of the Digital Garden.md",
     "Watch It Later/一口气讲完六大鱼油谣言｜99%的人都中招!!运动学博士的深度解析_哔哩哔哩_bilibili.md",
     "Watch It Later/Mike Caulfield Keynote.md",
     "Watch It Later/不吃早餐就去健身，身体会发生什么变化？_哔哩哔哩_bilibili.md",
@@ -233,8 +236,6 @@
     "utils/obsidian-urls/logs/2025-09-21_23-18-46.md",
     "Read It Later/(99+ 封私信  93 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
     "Read It Later/Omnivore/(99+ 封私信/91 条消息) 男生们，你们练肌肉是为了什么？ - 知乎/(99+ 封私信 - 91 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
-    "Read It Later/(99+ 封私信  93 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎.md",
-    "Read It Later/Omnivore/(99+ 封私信/91 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎/(99+ 封私信 - 91 条消息) 大二数学专业，这样做数学笔记是走了弯路吗？ - 知乎.md",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",

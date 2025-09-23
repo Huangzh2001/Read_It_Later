@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=tZ8ehplVFp4
 tags:
   - video
-status: reading
+status: readed
 ---
 ![The Most Dangerous Escalator in Rome](https://www.youtube.com/watch?v=tZ8ehplVFp4)
 0:00

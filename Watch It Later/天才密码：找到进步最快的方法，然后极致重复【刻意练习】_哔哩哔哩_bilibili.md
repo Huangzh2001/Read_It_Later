@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1oyNmzxELb/?vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 ---
 ![天才密码：找到进步最快的方法，然后极致重复【刻意练习】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oyNmzxELb/?vd_source=06168f390bae49c4867767c52a20e87c)
 天才密码：找到进步最快的方法，然后极致重复【刻意练习】

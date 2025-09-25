@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "解读做题家的本质：为什么做题家害怕自由而喜欢将倒错神圣化？_哔哩哔哩_bilibili"
             }
-          },
-          {
-            "id": "60d67731d98115fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,14 +196,16 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "60d67731d98115fb",
+  "active": "dd0b8103debfa57b",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-09-25_10-19-57.md",
+    "Clippings/sync.ffs_lock",
     "Watch It Later/解读做题家的本质：为什么做题家害怕自由而喜欢将倒错神圣化？_哔哩哔哩_bilibili.md",
     "Watch It Later/抽烟不过肺，有危害吗？_哔哩哔哩_bilibili.md",
     "Watch It Later/Why Boredom is Good For You.md",
     "Watch It Later/Why Young People Love Old Things.md",
     "Watch It Later/女生放倒教官事件爆火，女性力量是如何背刺女性的？_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-09-25_07-45-21.md",
     "Watch It Later/iPhone 17 Pro居然能跑8B大模型！_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-09-24_21-56-55.md",
@@ -234,9 +225,7 @@
     "Read It Later/Trilium：超高自由度的个人知识库（基础篇） - 少数派.md",
     "Read It Later/如何轻松愉快践行卡片写作？Lattics 使用体验 - 少数派.md",
     "Read It Later/聊聊新世纪前后十年的正版和盗版 - 少数派.md",
-    "Read It Later/可视化卡片笔记写作？我试了最近才开放的 Heptabase - 少数派.md",
     "Read It Later/attachments/82bf185b6f4b7269c059545fc1eec17d_MD5.png",
-    "Read It Later/『卡片笔记最佳实践：常青笔记』的中文版完整搬运 - obsidian rr logseq等双链笔记软件的灵魂方法论 - 经验分享.md",
     "Read It Later/attachments/bdf3fdd4c150acbbf84b11f8c0400e49_MD5.png",
     "Read It Later/attachments/5447fa2cf7b82a5172400dcba08f344c_MD5.png",
     "Read It Later/attachments/5b502d6cb1618b69feb4b7e169a461f3_MD5.png",
@@ -246,7 +235,6 @@
     "Read It Later/attachments/3f7895f48f6fd6d1510533d0bccd48a8_MD5.png",
     "Read It Later/attachments/a769a92584c4f57ad87d879afdb3b906_MD5.png",
     "Read It Later/attachments/598b0c6b593d61a35af3a5de18c39ac5_MD5.svg",
-    "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",
     "Read It Later/Omnivore/Statistical Physics of Polymers- An Introduction - SpringerLink/attachments",

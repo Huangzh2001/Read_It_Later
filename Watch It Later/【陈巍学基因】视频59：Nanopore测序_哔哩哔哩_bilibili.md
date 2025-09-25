@@ -1,3 +1,10 @@
+---
+url: https://www.bilibili.com/video/BV1KJ411k7R2/?spm_id_from=333.788&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+---
+![【陈巍学基因】视频59：Nanopore测序_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KJ411k7R2/?spm_id_from=333.788&vd_source=06168f390bae49c4867767c52a20e87c)
 【陈巍学基因】视频59：Nanopore测序
 https://www.bilibili.com/video/BV1KJ411k7R2/
 陈巍学基因 2019-12-15 06:03:53

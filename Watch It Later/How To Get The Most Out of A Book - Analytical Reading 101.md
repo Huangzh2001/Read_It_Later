@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=Ls2ynrMv10A
 tags:
   - video
-status: reading
+status: readed
 ---
 ![How To Get The Most Out of A Book - Analytical Reading 101](https://www.youtube.com/watch?v=Ls2ynrMv10A)
 0:00

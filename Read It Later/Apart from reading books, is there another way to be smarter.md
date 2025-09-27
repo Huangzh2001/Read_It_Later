@@ -31,11 +31,11 @@ Notifications
 
 ](https://www.quora.com/notifications)
 
-![Profile photo for 航航 帕格](https://qph.cf2.quoracdn.net/main-thumb-2377036337-50-rfwlyxadmczibrrhbtbfcjembhfkodtq.jpeg)
+![[Read It Later/attachments/9f530a30886d77938b73a2d0a926e0c5_MD5.jpg]]
 
 [
 
-![Icon for Ask Daddy](https://qph.cf2.quoracdn.net/main-thumb-ti-3788943-100-zkktybanhfrgadoecdvukdffwtroryhx.jpeg)
+![[Read It Later/attachments/8677303a031c774c7dcb459b503f9089_MD5.jpg]]
 
 ](https://askdaddy.quora.com/)
 
@@ -51,7 +51,7 @@ Sort
 
 [
 
-![Profile photo for Joaquin Turtle](https://qph.cf2.quoracdn.net/main-thumb-3097877903-50-dhirmhisndiujlvlhkntagffxrfupncz.jpeg)
+![[Read It Later/attachments/873ebeb5687b3f44d4fe19a26dfc6df8_MD5.jpg]]
 
 ](https://www.quora.com/profile/Joaquin-Turtle)
 
@@ -91,7 +91,7 @@ Muhammad Afzal
 
 [
 
-![Profile photo for Fano](https://qph.cf2.quoracdn.net/main-thumb-3094585177-50-ylfayljzhpusmzsvfhfxxwotwuzmuagb.jpeg)
+![[Read It Later/attachments/29b8617d5a7eaea8669c9c91f6871234_MD5.jpg]]
 
 ](https://www.quora.com/profile/Fano-57)
 
@@ -119,7 +119,7 @@ Smart people are people who have solutions/answers so they can provide them insi
 
 Experience, strategy, intuition and creativity so additional provisions to become an intelligent person.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-21e27939a017e952fa97d35f2f8562cc)
+![[Read It Later/attachments/7de4432f996fa89289596e9a5f0d54a1_MD5.jpg]]
 
 Tips for leveling up at 5 points to be smart are:
 
@@ -145,7 +145,7 @@ View 24 upvotes
 
 · ·
 
-![](https://qph.cf2.quoracdn.net/main-qimg-1ee87e4294d1cd8560db4d0a7f1f0d18)
+![[Read It Later/attachments/f5df7828985cb88afe540e4719e61513_MD5.webp]]
 
 Amazon Web Services (AWS)
 
@@ -157,7 +157,7 @@ Your databases should be secure, reliable, and built for performance. Explore ho
 
 [
 
-![Profile photo for Richard Gendron](https://qph.cf2.quoracdn.net/main-thumb-361027075-50-zxszbjuqdggjzqudxvahsrabqgkcgjay.jpeg)
+![[Read It Later/attachments/6f7dd2a1c1f6f471226bb5a67b19d640_MD5.jpg]]
 
 ](https://www.quora.com/profile/Richard-Gendron-1)
 
@@ -198,7 +198,7 @@ KI
 
 [
 
-![Profile photo for KARELLEN OVERLORD](https://qph.cf2.quoracdn.net/main-thumb-2599798599-50-rdbrwqqpffzybqkelblsihxoijmykvvq.jpeg)
+![[Read It Later/attachments/bf2fc79edfebb4a0dbf16280af27bc38_MD5.jpg]]
 
 ](https://www.quora.com/profile/KARELLEN-OVERLORD)
 

@@ -2,7 +2,7 @@
 url: https://www.youtube.com/watch?v=IgF3OX8nT0w
 tags:
   - video
-status: readed
+status: Unsorted
 ---
 ![The Most Powerful Computers You've Never Heard Of](https://www.youtube.com/watch?v=IgF3OX8nT0w)
 0:00

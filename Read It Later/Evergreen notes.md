@@ -1,7 +1,7 @@
 ---
 date: 2025-10-02T21:14:00+08:00
 url: https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX
-status: reading
+status: readed
 ---
 *Evergreen notes* are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes: [Most people take only transient notes](https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw). That’s because these practices aren’t about writing notes; they’re about effectively developing insight: [“Better note-taking” misses the point; what matters is “better thinking”](https://notes.andymatuschak.org/zAf4oNSV9qB38ncSvYEZGAb). When done well, these notes can be quite valuable: [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB).
 

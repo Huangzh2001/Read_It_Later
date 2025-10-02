@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "【陈巍学基因】视频56：10X genomics分析单细胞表达_哔哩哔哩_bilibili"
             }
-          },
-          {
-            "id": "47ef94d9b8fc586a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/【陈巍学基因】视频25：第一代DNA测序_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【陈巍学基因】视频25：第一代DNA测序_哔哩哔哩_bilibili"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +197,10 @@
       "float-search:Search obsidian in modal view": false
     }
   },
-  "active": "47ef94d9b8fc586a",
+  "active": "dd0b8103debfa57b",
   "lastOpenFiles": [
+    "Watch It Later/什么是City Pop  一场日本80年代的享乐美梦  音药3min_哔哩哔哩_bilibili.md",
+    "Watch It Later/【陈巍学基因】视频25：第一代DNA测序_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian Weekly 20250921 期：Obsidian v1.9.13 内测版抢先看&双面板文件管理器及引用增强_哔哩哔哩_bilibili.md",
     "Watch It Later/作为佛系家长 浅谈鸡娃现象背后的多重原因 有可能改变吗？【玫瑰叔的视频播客-4】_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
@@ -248,9 +235,7 @@
     "Read It Later/attachments/05a2a4c5ac7f25364453a01ce409a680_MD5.jpg",
     "Read It Later/attachments/c89bbcf9b8fb9ca208ddceda8d509c26_MD5.jpg",
     "Read It Later/attachments/b74608ce1bf40246e2e87d1885431019_MD5.jpg",
-    "Read It Later/(99+ 封私信  93 条消息) 如何理解法图（Fatou）引理？ - 知乎.md",
     "Read It Later/attachments/ab96afd203d3e651aa57884132d3543d_MD5.jpg",
-    "utils/obsidian-urls/logs/2025-09-27_21-25-50.md",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

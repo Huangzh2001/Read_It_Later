@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1kd9VYnEiC/?spm_id_from=333.1387.search.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 ---
 ![看月亮爬上来？再掉下去！曼城崩盘事件硬核解析《月之坠落》（音画若不同步时，刷新一下就好了）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kd9VYnEiC/?spm_id_from=333.1387.search.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)
 看月亮爬上来？再掉下去！曼城崩盘事件硬核解析《月之坠落》（音画若不同步时，刷新一下就好了）

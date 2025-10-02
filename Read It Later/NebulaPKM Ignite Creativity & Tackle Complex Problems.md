@@ -1,9 +1,12 @@
 ---
-date: "2025-03-08T21:37:57+08:00"
-url: "https://www.nebulapkm.cn/crs/?cid=43"
-Readed: false
-status:
+date: 2025-10-02T17:28:04+08:00
+url: https://www.nebulapkm.cn/crs/?cid=43
+status: reading
 ---
+✅ 已收藏（NebulaPKM Ignite Creativity & Tackle Complex Problems，状态: 未读）
+
+![[Read It Later/attachments/58f5cfb20bb4cc3fee8939766fabfa50_MD5.svg|04]]
+
 NebulaPKM
 
 [
@@ -20,33 +23,72 @@ NebulaPKM
 
 ](https://www.nebulapkm.cn/obp/)[
 
-博客
+知识库
 
-](https://www.nebulapkm.cn/blog/)
+](https://www.nebulapkm.cn/blog/)[
+
+关于我们
+
+](https://www.nebulapkm.cn/about/)
+
+[登入/注册](https://www.nebulapkm.cn/signin/)
 
 NebulaPKM
 
+# 打造第二大脑的方法论集锦
+
 个人知识管理（PKM）方法论集锦  
 
-<video id="vjs_video_3_html5_api" class="vjs-tech" src="https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-1080.mp4" data-dm-vid="9cbf7683-9934-472b-b12e-150b6fb63670"></video>
+<video tabindex="-1" id="vjs_video_3_html5_api" class="vjs-tech" src="https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-1080.mp4" data-dm-vid="b96e9664-1f62-46f2-b3f5-459b13b475dd"></video>
 
-[[Read It Later/attachments/b93980848ac6bb82a5c9cc0092b13c6c_MD5.png|Open: b93980848ac6bb82a5c9cc0092b13c6c_MD5.png]]
 ![[Read It Later/attachments/b93980848ac6bb82a5c9cc0092b13c6c_MD5.png|04]]
+
+Video Player is loading.
 
 Current Time 0:00
 
+/
+
 Duration 9:19
 
-Loaded: 1.57%
+Loaded: 1.51%
+
+0:00
 
 Stream Type LIVE
 
-Remaining Time 9:19
+Remaining Time \-9:19
+
+1x
+
+- Chapters
+
+- descriptions off, selected
+
+- captions settings, opens captions settings dialog
+- captions off, selected
+
+This is a modal window.
+
+Beginning of dialog window. Escape will cancel and close the window.
+
+TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-Transparent
+
+Text BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparent
+
+Caption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaque
+
+Font Size50%75%100%125%150%175%200%300%400%
+
+Text Edge StyleNoneRaisedDepressedUniformDrop shadow
+
+Font FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
+
+End of dialog window.
 
 文件下载：[个人知识管理（PKM）方法论集锦的可视化笔记](https://oss.nebulapkm.cn/case_c/c_8/PKM-Method-Collection-note.rar)
 
-在视频[什么是个人知识管理（PKM）？](https://www.nebulapkm.cn/crs/?cid=1)中介绍了PKM的重要性和在AI时代的价值。这期内容将市面上比较火的几种PKM介方法进行汇总。其中有一种方法论叫*第二大脑*，随着媒体的宣传，现在很多人也称PKM为*第二大脑*，是个人知识管理（PKM）一种浪漫的隐喻。 [[Read It Later/attachments/bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg|Open: bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg]]
-![[Read It Later/attachments/bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg|01]]
+在视频[什么是个人知识管理（PKM）？](https://www.nebulapkm.cn/crs/?cid=1)中介绍了PKM的重要性和在AI时代的价值。这期内容将市面上比较火的几种PKM介方法进行汇总。其中有一种方法论叫*第二大脑*，随着媒体的宣传，现在很多人也称PKM为*第二大脑*，是个人知识管理（PKM）一种浪漫的隐喻。 ![[Read It Later/attachments/bc4060f9058e01dd3be00b9a2b6ebb3e_MD5.jpg|01]]
 
 ## PKM方法论集锦
 
@@ -66,7 +108,6 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 - Tanvi Agarwal的[Tiago Forte第二大脑的可视化笔记](https://www.sillystrokes.com/sketchnotes/second-brain)
 - Maggie的 [Tiago Forte第二大脑的可视化笔记](https://maggieappleton.com/basb)
 
-[[Read It Later/attachments/cdb471e0e056746632e38eff9f38150a_MD5.jpg|Open: cdb471e0e056746632e38eff9f38150a_MD5.jpg]]
 ![[Read It Later/attachments/cdb471e0e056746632e38eff9f38150a_MD5.jpg|02]]
 
 ### 卢曼的Zettelkasten（卡片盒笔记法）
@@ -106,7 +147,6 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 - [Getting Things Done (GTD)](https://www.todoist.com/zh-CN/productivity-methods/getting-things-done)
 - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 
-[[Read It Later/attachments/ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg|Open: ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg]]
 ![[Read It Later/attachments/ef80a5ac8dc6ae42ad0756bad988a4d5_MD5.jpg|03]]
 
 ## PKM方法论共性
@@ -125,7 +165,6 @@ Tiago Forte蒂亚戈·福泰早在十几年前就提出方法论*The Second Brai
 
 *卢曼的卡片盒笔记法*强调信息记录在一张卡片上，这张卡片的物理大小就限制了内容不会过多； *Tiago的第二大脑*提出渐进式总结，不断提炼信息，是强调原子化； *Andy的长青笔记*强调笔记信息是原子级的，可以通过链接让系统生长； *James Clear的Atomic Habits（原子习惯）* 强调记录原子级信息。
 
-[[Read It Later/attachments/579d1913188f84a86c2f601137c46509_MD5.jpg|Open: 579d1913188f84a86c2f601137c46509_MD5.jpg]]
 ![[Read It Later/attachments/579d1913188f84a86c2f601137c46509_MD5.jpg|04]]
 
 ## NebulaPKM知识星云
@@ -142,9 +181,9 @@ NebulaPKM搭建知识系统，并提供[PK系统模板](https://www.nebulapkm.cn
 
 [
 
-什么是个人知识管理（PKM）？
+Ai时代的个人知识管理（PKM）？
 
-Personal Knowledge Management PKM::s::是指通过对信息进行收集、整理、加工等一系列活动，来增强我们大脑的能力。
+Personal Knowledge Management PKM::s::是指通过对信息进行收集、整理、加工等一系列活动，来增强我们大脑的能力
 
 ](https://www.nebulapkm.cn/crs/?cid=1)[
 
@@ -159,3 +198,31 @@ Personal Knowledge Management PKM::s::是指通过对信息进行收集、整理
 NebulaPKM中文名叫知识星云::s::这门课是把Echo多年在PKM领域了解的信息、理解和感悟梳理成一套系统的方法
 
 ](https://www.nebulapkm.cn/crs/?cid=3)
+
+<video class="PageFooter_footerBg__HWvGf" src="https://framerusercontent.com/assets/qlFDgvGYtb9yxboyTsm91RYKhI.mp4" autoplay="" loop="" playsinline="" preload="true" data-dm-vid="155adbfe-8b81-4c23-93f8-bc62e89380c7"></video>
+
+![[Read It Later/attachments/58f5cfb20bb4cc3fee8939766fabfa50_MD5.svg|04]]
+
+NebulaPKM
+
+[![[Read It Later/attachments/c276ee5fc034897cb045226967188cc8_MD5.svg|04]]
+
+NebulaPKM\_首页
+
+](https://www.nebulapkm.cn/)[![[Read It Later/attachments/74777ca46d9d8f241f9ed79239ec5373_MD5.svg|04]]
+
+NebulaPKM\_课程
+
+](https://www.nebulapkm.cn/crsp/)[![[Read It Later/attachments/0e2b22ba763fcadccec123bf3f16a786_MD5.svg|04]]
+
+Obsidian入门包
+
+](https://www.nebulapkm.cn/obp/)[![[Read It Later/attachments/c276ee5fc034897cb045226967188cc8_MD5.svg|04]]
+
+关于我们
+
+](https://www.nebulapkm.cn/about/)
+
+![[Read It Later/attachments/72575484165c089bd15d625b0e36a9f7_MD5.svg|04]][![[Read It Later/attachments/0e2d520e8f49931e2642c2f1e91179fa_MD5.svg|04]]](https://space.bilibili.com/332569278)![[Read It Later/attachments/2cca78d88d90a68d966aa215c772583d_MD5.svg|04]]
+
+Copyright@2025 深圳市树莓文化科技有限公司|[© 2024-2026 NebulaPKM All Rights Reserved-粤ICP备2024338277号](http://beian.miit.gov.cn/)|[![[Read It Later/attachments/e4695e299b0f7fd70343202516f19587_MD5.png|04]]粤公网安备44030002005323号](https://beian.mps.gov.cn/#/query/webSearch)

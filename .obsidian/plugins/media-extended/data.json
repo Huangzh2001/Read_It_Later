@@ -1,6 +1,6 @@
 {
   "__VERSION__": 1,
-  "release.previous-version": "4.0.0",
+  "release.previous-version": "4.0.1",
   "release.show-release-notes": true,
   "playback.default-volume": 80,
   "playback.speed-step": 0.1,

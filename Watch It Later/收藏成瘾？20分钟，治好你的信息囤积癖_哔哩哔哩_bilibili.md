@@ -554,4 +554,5 @@ https://www.bilibili.com/video/BV1Bm421j7ba
 21:50 So make me li
 21:54 It's not product de
 [[Watch It Later/attachments/Pasted image 20251003110146.png|Open: Pasted image 20251003110146.png]]
-![[Watch It Later/attachments/Pasted image 20251003110146.png]]
+![[Watch It Later/attachments/Pasted image 20251003110146.png]][[Watch It Later/attachments/Pasted image 20251003110708.png|Open: Pasted image 20251003110708.png]]
+![[Watch It Later/attachments/Pasted image 20251003110708.png]]

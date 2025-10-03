@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b43d6cbb78d1743",
+        "id": "b4d2b1f079a025cf",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0b8103debfa57b",
+            "id": "2d8ae60f2c362ef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正在读&正在看.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正在读&正在看"
+              "title": "HomePage"
             }
           }
         ]
@@ -193,18 +193,22 @@
       "copilot:Open Copilot Chat": false,
       "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
-      "float-search:Search obsidian in modal view": false
+      "float-search:Search obsidian in modal view": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "dd0b8103debfa57b",
+  "active": "2d8ae60f2c362ef8",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-03_12-45-04.md",
+    "正在读&正在看.md",
+    "HomePage.md",
     "Watch It Later/【鬼谷说】棘皮动物：六亲不认的演化步伐_哔哩哔哩_bilibili.md",
     "Watch It Later/【鬼谷说】三叶虫：一个平凡家族的不屈与彷徨_哔哩哔哩_bilibili.md",
     "Watch It Later/最高240米！科普世界排名前十雕像，你认识几个？_哔哩哔哩_bilibili.md",
     "Watch It Later/为啥印度要建这么多阶梯井？_哔哩哔哩_bilibili.md",
     "Watch It Later/居家养蜂的小发明：透明的可视化蜂巢箱，用管道连接着户外_哔哩哔哩_bilibili.md",
     "Watch It Later/告别人大哲学教授朱锐，听他谈死亡_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-03_11-55-49.md",
     "Watch It Later/发达国家几乎都在仿制F22，可为什么没人仿制我们的歼20呢？_哔哩哔哩_bilibili.md",
     "Watch It Later/电磁弹射背后中美能源路线之争：美国到底差在哪儿了？_哔哩哔哩_bilibili.md",
@@ -225,10 +229,6 @@
     "Watch It Later/看完这些被淘汰的方案，才知道人民币设计有多牛！！_哔哩哔哩_bilibili.md",
     "Read It Later/Most people use notes as a bucket for storage or scratch thoughts.md",
     "utils/obsidian-urls/logs/2025-10-02_21-35-12.md",
-    "Read It Later/Evergreen notes.md",
-    "Read It Later/Most people take only transient notes.md",
-    "Watch It Later/童年拉风的自行车小彩珠，有什么用？_哔哩哔哩_bilibili.md",
-    "Watch It Later/看月亮爬上来？再掉下去！曼城崩盘事件硬核解析《月之坠落》（音画若不同步时，刷新一下就好了）_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/0e2b22ba763fcadccec123bf3f16a786_MD5.svg",
     "Read It Later/attachments/74777ca46d9d8f241f9ed79239ec5373_MD5.svg",
     "Read It Later/attachments/0e2d520e8f49931e2642c2f1e91179fa_MD5.svg",

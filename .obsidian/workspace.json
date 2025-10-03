@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d2b1f079a025cf",
+        "id": "b731928ddcb6ca02",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8ae60f2c362ef8",
+            "id": "5b69aa4d49b006f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/为什么中国第一艘弹射型航母敢用电磁弹射？_哔哩哔哩_bilibili.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么中国第一艘弹射型航母敢用电磁弹射？_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "1982c189babd4833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read It Later/(99+ 封私信  93 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(99+ 封私信  93 条消息) 男生们，你们练肌肉是为了什么？ - 知乎"
-            }
-          },
-          {
-            "id": "daa54d3383b7a66b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/“力工思维”为何成为中国男性的终极梦魇？【丰言疯话】_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "“力工思维”为何成为中国男性的终极梦魇？【丰言疯话】_哔哩哔哩_bilibili"
+              "title": "HomePage"
             }
           }
         ]
@@ -225,10 +197,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d8ae60f2c362ef8",
+  "active": "5b69aa4d49b006f3",
   "lastOpenFiles": [
-    "Watch It Later/中国航母弹射器秘史，一部个人命运与国家前途交织的宏大史诗_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-03_22-06-47.md",
     "Watch It Later/为什么中国第一艘弹射型航母敢用电磁弹射？_哔哩哔哩_bilibili.md",
+    "Watch It Later/中国航母弹射器秘史，一部个人命运与国家前途交织的宏大史诗_哔哩哔哩_bilibili.md",
     "Watch It Later/004航母会是什么样子！舰岛后移、无人机蜂群，11万吨排水量或成全球最大战舰！_哔哩哔哩_bilibili.md",
     "Watch It Later/【局座】张召忠：福特号是个教训 我研究航母这么多年来第一次碰到_哔哩哔哩_bilibili.md",
     "Watch It Later/【福特级详解】现役全球最大航母 美军海上威慑力的象征_哔哩哔哩_bilibili.md",
@@ -239,7 +213,6 @@
     "Read It Later/(99+ 封私信  93 条消息) 男生们，你们练肌肉是为了什么？ - 知乎.md",
     "HomePage.md",
     "Watch It Later/“力工思维”为何成为中国男性的终极梦魇？【丰言疯话】_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-03_12-45-04.md",
     "正在读&正在看.md",
     "Watch It Later/【鬼谷说】棘皮动物：六亲不认的演化步伐_哔哩哔哩_bilibili.md",
@@ -252,10 +225,8 @@
     "Watch It Later/发达国家几乎都在仿制F22，可为什么没人仿制我们的歼20呢？_哔哩哔哩_bilibili.md",
     "Watch It Later/电磁弹射背后中美能源路线之争：美国到底差在哪儿了？_哔哩哔哩_bilibili.md",
     "Watch It Later/美军蒸汽弹射有多先进？云雾缭绕，仙气飘飘_哔哩哔哩_bilibili.md",
-    "Watch It Later/收藏成瘾？20分钟，治好你的信息囤积癖_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/Pasted image 20251003110708.png",
     "Watch It Later/attachments/Pasted image 20251003110146.png",
-    "Watch It Later/【等离子消亡史】什么档次才敢用？ ｜等离子的起起落落落落～_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_lock",
     "Read It Later/attachments/0e2b22ba763fcadccec123bf3f16a786_MD5.svg",

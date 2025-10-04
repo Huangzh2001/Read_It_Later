@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1M84y1N71B/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-10-04T18:17:32+08:00
 ---
 ![如何才能实现家族兴旺，财富传承？做好这三点：避免家族内耗，有引路人和建立根据地_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1M84y1N71B/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c)

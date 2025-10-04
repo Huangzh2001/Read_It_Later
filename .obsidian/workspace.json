@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/Obsidian Weekly 20250907 期：能显示自定义置顶笔记和最近笔记的主页&高度可控的版本管理系统_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/福建号航母有哪些缺点或遗憾？_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Weekly 20250907 期：能显示自定义置顶笔记和最近笔记的主页&高度可控的版本管理系统_哔哩哔哩_bilibili"
+              "title": "福建号航母有哪些缺点或遗憾？_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "0139dd4841f2b020",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "笔记本导航器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,7 +205,8 @@
       "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "float-search:Search obsidian in modal view": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
   "active": "be4f6e72edbc2f4e",

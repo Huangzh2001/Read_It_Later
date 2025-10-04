@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b731928ddcb6ca02",
+        "id": "45243db27c92765f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b69aa4d49b006f3",
+            "id": "be4f6e72edbc2f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/为何100坦克是新一代陆战之王？_哔哩哔哩_bilibili.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为何100坦克是新一代陆战之王？_哔哩哔哩_bilibili"
+              "title": "HomePage"
             }
           }
         ]
@@ -197,14 +197,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5b69aa4d49b006f3",
+  "active": "be4f6e72edbc2f4e",
   "lastOpenFiles": [
-    "Watch It Later/Steam到底强在哪？_游戏热门视频.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-04_09-57-27.md",
     "Watch It Later/为何100坦克是新一代陆战之王？_哔哩哔哩_bilibili.md",
+    "Watch It Later/Steam到底强在哪？_游戏热门视频.md",
     "Watch It Later/美陆军部长：中国太依赖科技了，要是没了科技，我们可以依靠士兵意志每次都能取得胜利_哔哩哔哩_bilibili.md",
     "Watch It Later/还惦记你那破岛链呢！鹰酱，时代变了！【乌鸦校尉】_哔哩哔哩_bilibili.md",
     "HomePage.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-03_22-06-47.md",
     "Watch It Later/为什么中国第一艘弹射型航母敢用电磁弹射？_哔哩哔哩_bilibili.md",
     "Watch It Later/中国航母弹射器秘史，一部个人命运与国家前途交织的宏大史诗_哔哩哔哩_bilibili.md",
@@ -224,8 +225,6 @@
     "Watch It Later/最高240米！科普世界排名前十雕像，你认识几个？_哔哩哔哩_bilibili.md",
     "Watch It Later/为啥印度要建这么多阶梯井？_哔哩哔哩_bilibili.md",
     "Watch It Later/居家养蜂的小发明：透明的可视化蜂巢箱，用管道连接着户外_哔哩哔哩_bilibili.md",
-    "Watch It Later/告别人大哲学教授朱锐，听他谈死亡_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-10-03_11-55-49.md",
     "Watch It Later/attachments/Pasted image 20251003110708.png",
     "Watch It Later/attachments/Pasted image 20251003110146.png",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",

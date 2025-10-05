@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fd6793c82c207a03",
+        "id": "606736124e4fabf6",
         "type": "tabs",
         "children": [
           {
-            "id": "c05648eb2cf77a2d",
+            "id": "e9e04deceb7b7b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomePage.md",
+                "file": "Watch It Later/1950：苏联的战火清仓，“慈父”的钢铁算盘与醒狮的铸剑_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HomePage"
-            }
-          },
-          {
-            "id": "f8efb8fec5580b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "已读&已看.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "已读&已看"
+              "title": "1950：苏联的战火清仓，“慈父”的钢铁算盘与醒狮的铸剑_哔哩哔哩_bilibili"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +207,13 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "08169aa61664d389",
+  "active": "e9e04deceb7b7b57",
   "lastOpenFiles": [
-    "HomePage.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-05_20-30-18.md",
+    "已读&已看.md",
+    "Watch It Later/1950：苏联的战火清仓，“慈父”的钢铁算盘与醒狮的铸剑_哔哩哔哩_bilibili.md",
+    "HomePage.md",
     "utils/obsidian-urls/logs/2025-10-05_02-24-42.md",
     "Watch It Later/政府公信力的信任危机，什么是塔西佗陷阱？【概念科普03】_哔哩哔哩_bilibili.md",
     "Watch It Later/【深度】反内卷竟是十年前未竟棋局的续集！三去一降一补：一场差点击败周期的中国顶级经济操盘！_哔哩哔哩_bilibili.md",
@@ -247,10 +235,6 @@
     "Watch It Later/郎咸平：一个家族翻不了身，代代贫穷的真正原因。_哔哩哔哩_bilibili.md",
     "Watch It Later/若没有家族力量的托举，你大概率是个普通人_哔哩哔哩_bilibili.md",
     "Watch It Later/一个家族一定要有能挑大旗的人，否则永无出头之日_哔哩哔哩_bilibili.md",
-    "Watch It Later/【吸奇侠】《教父》一个无法拒绝的条件，五星杀手为何乖如小猫？_哔哩哔哩_bilibili.md",
-    "Watch It Later/【吸奇侠】《教父》真实大哥？FBI搅局？纳家赘婿是个难题！02_哔哩哔哩_bilibili.md",
-    "Watch It Later/【吸奇侠】《教父》影史最强开局5分钟的爆炸信息量，黑手党大哥教你如何交朋友_哔哩哔哩_bilibili.md",
-    "Watch It Later/为什么中国人追求“整齐划一”？看看这个老外说的对吗？_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "Watch It Later/attachments/Pasted image 20251003110708.png",
     "Watch It Later/attachments/Pasted image 20251003110146.png",

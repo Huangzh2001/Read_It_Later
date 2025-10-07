@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1nwauzREuU/?spm_id_from=333.788.recommend_more_video.0&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: readed
+status: Unsorted
 date: 2025-10-07T13:30:32+08:00
 ---
 ![谁来谁没来？阅兵观礼台2015 VS 2025，看世界格局的重塑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nwauzREuU/?spm_id_from=333.788.recommend_more_video.0&vd_source=06168f390bae49c4867767c52a20e87c)

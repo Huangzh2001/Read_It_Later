@@ -8,10 +8,11 @@
   "obsidian-local-images-plus",
   "file-explorer-plus",
   "copilot",
-  "media-extended",
   "cmdr",
   "float-search",
   "floating-toc",
   "media-notes",
-  "notebook-navigator"
+  "notebook-navigator",
+  "mx-bili-plugin",
+  "media-extended"
 ]

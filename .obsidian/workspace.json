@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/美苏争霸_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "0031a04c3d91e52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/纳粹德国_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "纳粹德国_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "6c8f7cec44c36d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/Mike Caulfield Keynote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mike Caulfield Keynote"
+              "title": "美苏争霸_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " The Big Misconception ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -230,16 +201,23 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
-      "media-extended:Open external media": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "float-search:Search obsidian in modal view": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "media-extended:Open external media": false
     }
   },
   "active": "cf0977473f4a9dac",
   "lastOpenFiles": [
-    "Watch It Later/【回到2049】S02E44 宇宙之外说边界，时间起始话开端_哔哩哔哩_bilibili.md",
+    "Watch It Later/如何区分盐田虾和普通养殖虾_哔哩哔哩_bilibili.md",
+    "Watch It Later/美苏争霸_哔哩哔哩_bilibili.md",
+    "Clippings/sync.ffs_lock",
+    "Watch It Later/Mike Caulfield Keynote.md",
+    "Watch It Later/纳粹德国_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-16_09-58-28.md",
     "Watch It Later/软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili.md",
+    "Watch It Later/【回到2049】S02E44 宇宙之外说边界，时间起始话开端_哔哩哔哩_bilibili.md",
     "Watch It Later/苏联政治笑话：赫鲁晓夫时代_哔哩哔哩_bilibili.md",
     "Watch It Later/【回到2049】S02E37 伟大终章：纪念卡西尼号_哔哩哔哩_bilibili.md",
     "正在读&正在看.md",
@@ -247,9 +225,6 @@
     "Watch It Later/太空时代祛魅：战争终结论批判_哔哩哔哩_bilibili.md",
     "Watch It Later/太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili.md",
     "Watch It Later/太空时代祛魅：必然性与必要性批判_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹德国_哔哩哔哩_bilibili.md",
-    "Watch It Later/Mike Caulfield Keynote.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-16_09-16-59.md",
     "Watch It Later/朝鲜变天？_哔哩哔哩_bilibili.md",
     "Watch It Later/突变的十月和平_哔哩哔哩_bilibili.md",
@@ -264,9 +239,6 @@
     "Watch It Later/“硫酸汽水”真的存在吗-汽水的疯狂发展史饮历史27_哔哩哔哩_bilibili.md",
     "Watch It Later/“货二轮”or“新魔人”？曼联这8500万到底花得值不值？起底红魔新援谢什科的真实水准！_哔哩哔哩_bilibili.md",
     "Watch It Later/入坑前仔细想想，或许你压根不适合养食虫植物，看完这期视频你就明白了_哔哩哔哩_bilibili.md",
-    "Watch It Later/【中英双字】尼尔森的小说写作九步法则—— Bookfox_哔哩哔哩_bilibili.md",
-    "Watch It Later/融资几十亿的男人，教你乘风破浪后疫情时代_哔哩哔哩_bilibili.md",
-    "Read It Later/为什么要自己管理时间属性（创建时间&修改时间）.md",
     "Read It Later/attachments/dacba628a7a97e758b1c4b8d21f1a623_MD5.webp",
     "Read It Later/attachments/4211b59d5fa02d5b416b8c5ec1fd61ee_MD5.webp",
     "Read It Later/attachments/fcdbe9c6d880f087c0ea39e433324635_MD5.webp",
@@ -275,7 +247,6 @@
     "Read It Later/attachments/7e4ea0015c9a69ee47859eda66fab504_MD5.webp",
     "Read It Later/attachments/d16db6764ad9966d6e558b9070dd76b3_MD5.webp",
     "Read It Later/attachments/a66339fa81db31c3eb919c0dde4d92b9_MD5.webp",
-    "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

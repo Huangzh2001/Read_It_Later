@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca90716268d0ffdc",
+            "id": "cf0977473f4a9dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正在读&正在看.md",
+                "file": "Watch It Later/软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正在读&正在看"
+              "title": "软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Mike Caulfield Keynote"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,14 +236,21 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "6c8f7cec44c36d82",
+  "active": "cf0977473f4a9dac",
   "lastOpenFiles": [
+    "Watch It Later/【回到2049】S02E44 宇宙之外说边界，时间起始话开端_哔哩哔哩_bilibili.md",
+    "Watch It Later/软件分享  本地音视频批量转文字，一键批量转写，AI校对_哔哩哔哩_bilibili.md",
+    "Watch It Later/苏联政治笑话：赫鲁晓夫时代_哔哩哔哩_bilibili.md",
+    "Watch It Later/【回到2049】S02E37 伟大终章：纪念卡西尼号_哔哩哔哩_bilibili.md",
+    "正在读&正在看.md",
+    "Watch It Later/太空时代祛魅：文明升级论批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/太空时代祛魅：战争终结论批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/太空时代祛魅：必然性与必要性批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国_哔哩哔哩_bilibili.md",
+    "Watch It Later/Mike Caulfield Keynote.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-16_09-16-59.md",
-    "Watch It Later/纳粹德国_哔哩哔哩_bilibili.md",
-    "正在读&正在看.md",
-    "Watch It Later/Mike Caulfield Keynote.md",
-    "Watch It Later/【回到2049】S02E37 伟大终章：纪念卡西尼号_哔哩哔哩_bilibili.md",
     "Watch It Later/朝鲜变天？_哔哩哔哩_bilibili.md",
     "Watch It Later/突变的十月和平_哔哩哔哩_bilibili.md",
     "Watch It Later/2049冲锋T恤防寒测试_哔哩哔哩_bilibili.md",
@@ -269,13 +275,7 @@
     "Read It Later/attachments/7e4ea0015c9a69ee47859eda66fab504_MD5.webp",
     "Read It Later/attachments/d16db6764ad9966d6e558b9070dd76b3_MD5.webp",
     "Read It Later/attachments/a66339fa81db31c3eb919c0dde4d92b9_MD5.webp",
-    "Read It Later/Obsidian的CEO是怎么做笔记的？.md",
-    "Watch It Later/Obsidian Weekly 20250928 期：PKMer Chat 重磅来袭 & Obsidian 1.9.14 内测版_哔哩哔哩_bilibili.md",
-    "Watch It Later/香港大学教授教你如何优雅地讲粗口_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-10-15_13-22-52.md",
     "Clippings/sync.ffs_lock",
-    "Watch It Later/把”切“穿在身上_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-10-15_08-17-23.md",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

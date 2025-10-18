@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1cx411578M/?spm_id_from=333.1387.search.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-16T09:21:12+08:00
 ---
 ![【回到2049】S02E44 宇宙之外说边界，时间起始话开端_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cx411578M/?spm_id_from=333.1387.search.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

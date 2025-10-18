@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab708140ec239aa6",
+        "id": "bbd75139c6b849bc",
         "type": "tabs",
         "children": [
           {
-            "id": "75f5b28bc84f5b72",
+            "id": "1f318ad45aadee35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "正在读&正在看"
+            }
+          },
+          {
+            "id": "940a9d2495e01991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/始祖鸟放烟花被全网追杀全解析_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "始祖鸟放烟花被全网追杀全解析_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -207,8 +221,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "75f5b28bc84f5b72",
+  "active": "1f318ad45aadee35",
   "lastOpenFiles": [
+    "Watch It Later/小县城的大家族如何发家？县城“婆罗门”还能持续吗？【聂辉华】_哔哩哔哩_bilibili.md",
+    "Watch It Later/聂辉华：全网都在骂，我却要替江孜县基层干部说几句……_哔哩哔哩_bilibili.md",
+    "正在读&正在看.md",
+    "Watch It Later/始祖鸟放烟花被全网追杀全解析_哔哩哔哩_bilibili.md",
+    "Watch It Later/【回到2049】S02E44 宇宙之外说边界，时间起始话开端_哔哩哔哩_bilibili.md",
+    "Watch It Later/朝鲜变天？_哔哩哔哩_bilibili.md",
+    "Watch It Later/苏联政治笑话：斯大林时代_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/【Wallpaper Engine】她手中握着整个世界，Wlop动态壁纸推荐！_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-10-18_19-49-39.md",
@@ -229,12 +250,6 @@
     "Watch It Later/客制化 TKD Cycle8 新一轮的循环   阳极银  very peri  焦糖拿铁轴_哔哩哔哩_bilibili.md",
     "Watch It Later/客制化 EQUILIBRIUM 平衡 但没有完全平衡  延迟测试  迈阿密之夜  哈迪斯轴V2_哔哩哔哩_bilibili.md",
     "Watch It Later/客制化 Flip-6p 谁说我没有方向键!  电泳奶白  pure player  焦糖布丁轴_哔哩哔哩_bilibili.md",
-    "Watch It Later/抽奖 IQUNIX Nature80 一场疏与密的沟通  延迟测试  钢琴曲键帽  璞玉电竞轴_哔哩哔哩_bilibili.md",
-    "正在读&正在看.md",
-    "Watch It Later/良子大胃袋：为什么我们看的停不下来_哔哩哔哩_bilibili.md",
-    "Watch It Later/成龙的恋爱观！和当下大环境一模一样_哔哩哔哩_bilibili.md",
-    "Watch It Later/美苏争霸_哔哩哔哩_bilibili.md",
-    "Watch It Later/我是如何快速学习一个领域的_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Clippings/sync.ffs_lock",

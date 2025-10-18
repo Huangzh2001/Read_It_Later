@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32cf8df7f5d8952b",
+            "id": "75f5b28bc84f5b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/漫谈自学_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/【Wallpaper Engine】她手中握着整个世界，Wlop动态壁纸推荐！_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "漫谈自学_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "75f5b28bc84f5b72",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "【Wallpaper Engine】她手中握着整个世界，Wlop动态壁纸推荐！_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -217,10 +207,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "32cf8df7f5d8952b",
+  "active": "75f5b28bc84f5b72",
   "lastOpenFiles": [
-    "Watch It Later/全球微软蓝屏瘫痪，为何中国不受影响？盗版不在范围内！_哔哩哔哩_bilibili.md",
+    "Watch It Later/【Wallpaper Engine推荐】今日精选壁纸——人民万岁！！！_哔哩哔哩_bilibili.md",
+    "Watch It Later/【Wallpaper Engine】她手中握着整个世界，Wlop动态壁纸推荐！_哔哩哔哩_bilibili.md",
+    "Watch It Later/【Wallpaper Engine】壁纸推荐 伟人篇_哔哩哔哩_bilibili.md",
+    "Watch It Later/北大四年我的最大收获：自我意识与执行力的平衡与调试_哔哩哔哩_bilibili.md",
+    "Watch It Later/学神如何记笔记｜后悔上学时没人告诉我｜学术（论文）写作神器｜【读书】How To Take Smart Notes｜Slip-box｜Zettelkasten_哔哩哔哩_bilibili.md",
     "Watch It Later/漫谈自学_哔哩哔哩_bilibili.md",
+    "Watch It Later/全球微软蓝屏瘫痪，为何中国不受影响？盗版不在范围内！_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian Weekly 20250427 期：Obsidian 更新至 v1.8.10 & 智能复制、自定义快捷引用与类 Notion 查询_哔哩哔哩_bilibili.md",
     "Watch It Later/attention 注意力机制  (第一部分)_哔哩哔哩_bilibili.md",
     "Watch It Later/attention 注意力机制 (第二部分)_哔哩哔哩_bilibili.md",
@@ -241,12 +236,8 @@
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-18_13-22-48.md",
     "Watch It Later/第209期 Maki过去几年的一些收获_哔哩哔哩_bilibili.md",
-    "Read It Later/(99+ 封私信  93 条消息) 你见过最惊艳的玄幻小说等级制度是什么？ - 知乎.md",
-    "Watch It Later/《诡秘之主》凭什么可以那么火？_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
-    "Watch It Later/硬核拆解诡秘之主——乌贼感觉凉嗖嗖的_哔哩哔哩_bilibili.md",
-    "Watch It Later/堪比我国东风41！朝鲜核武器会威胁我国吗？看他以前对中国的态度_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "Read It Later/attachments/dd72a024d921dc6d7000babcf4831dbc_MD5.png",
     "Read It Later/attachments/a98854956fdf628cbc6618c99825e797_MD5.png",
@@ -256,7 +247,6 @@
     "Read It Later/attachments/d3b6ae4fe522deacf128dd1bf70a3b53_MD5.jpg",
     "Read It Later/attachments/8626b7a918f09324f5200f49b544e0d9_MD5.jpg",
     "Read It Later/attachments/4c7d96f81c34ff24ea0cafdc41c2ff2f_MD5.jpg",
-    "Read It Later/(99+ 封私信  93 条消息) 杭州比广州差在哪里？ - 知乎.md",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

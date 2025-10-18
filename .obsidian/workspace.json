@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf0977473f4a9dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/一次讲清楚：粤语、广东话、广府话、广州话、白话的关系_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一次讲清楚：粤语、广东话、广府话、广州话、白话的关系_哔哩哔哩_bilibili"
-            }
-          },
-          {
             "id": "32cf8df7f5d8952b",
             "type": "leaf",
             "state": {
@@ -222,10 +208,23 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "cf0977473f4a9dac",
+  "active": "32cf8df7f5d8952b",
   "lastOpenFiles": [
-    "Watch It Later/TFBOYS颜值分析下：一丑一普，养成是男明星最好的医美_哔哩哔哩_bilibili.md",
+    "Read It Later/attachments/dd72a024d921dc6d7000babcf4831dbc_MD5.png",
+    "Read It Later/attachments/a98854956fdf628cbc6618c99825e797_MD5.png",
+    "Read It Later/attachments/e1045a6e68e80d9fced12f2e8a73bdc1_MD5.jpg",
+    "Read It Later/attachments/99b770f9b48ac2a507a2184351ee3ade_MD5.jpg",
+    "Read It Later/attachments/a7fba501278601065742c16a8b0d82a7_MD5.png",
+    "Read It Later/attachments/d3b6ae4fe522deacf128dd1bf70a3b53_MD5.jpg",
+    "Read It Later/attachments/8626b7a918f09324f5200f49b544e0d9_MD5.jpg",
+    "Read It Later/attachments/4c7d96f81c34ff24ea0cafdc41c2ff2f_MD5.jpg",
+    "Read It Later/attachments/dda4620e7487bae7540ac0cad0fb7a13_MD5.jpg",
+    "Read It Later/attachments/8d7c2a28ae9860ca4b98f3b4c975f4ea_MD5.jpg",
+    "Read It Later/attachments/55a501e04f0b8ce96f496b4b5f9b2d65_MD5.jpg",
+    "Read It Later/(99+ 封私信  93 条消息) 杭州比广州差在哪里？ - 知乎.md",
+    "Read It Later/(99+ 封私信  93 条消息) 通过重体力劳动练出来的肌肉和标准健美人员肌肉有什么不同？ - 知乎.md",
     "Watch It Later/一次讲清楚：粤语、广东话、广府话、广州话、白话的关系_哔哩哔哩_bilibili.md",
+    "Watch It Later/TFBOYS颜值分析下：一丑一普，养成是男明星最好的医美_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-18_08-46-37.md",
     "正在读&正在看.md",
@@ -248,19 +247,6 @@
     "Watch It Later/我敢打赌，99%的人没有用过这些手机！_哔哩哔哩_bilibili.md",
     "Watch It Later/去我的收藏夹吃灰吧，说这句话的你可能患有数字囤积症。_哔哩哔哩_bilibili.md",
     "Watch It Later/值得拥有的小帐篷 — NEO ERGO丨NEO STUDIO｜焦糖布丁轴丨共鸣-KBDFANS｜沉浸式开箱组装丨机械键盘丨打字音_哔哩哔哩_bilibili.md",
-    "Watch It Later/【王见王】TGR“SHI”VS Geonworks“F18X-722”_哔哩哔哩_bilibili.md",
-    "Watch It Later/【清风】Matrix 浮夸 妹吹家的显眼包！扯卫你能不能单独售卖2U钢丝？_哔哩哔哩_bilibili.md",
-    "Watch It Later/三个月花了几个W买键盘总结的心泪史_哔哩哔哩_bilibili.md",
-    "Read It Later/attachments/8a58a8484cee6f88b54371cc422ee254_MD5.jpg",
-    "Read It Later/attachments/da778325d643f3d75ce30f28e45054eb_MD5.jpg",
-    "Read It Later/attachments/d51b072c9a03e8eb42d0b6db1b52056f_MD5.png",
-    "Read It Later/attachments/30d7f1bf8135f45d9b8f8ddf4714c004_MD5.jpg",
-    "Read It Later/attachments/1717a7a38d01472f1036e0fcf0a88bfd_MD5.jpg",
-    "Read It Later/attachments/58b08d83305c36e054eb872b071904a0_MD5.jpg",
-    "Read It Later/attachments/60d40eb2dc5152b307ef15deb4a37005_MD5.jpg",
-    "Read It Later/attachments/6de0d7001532783d20c73a05c62c1a49_MD5.jpg",
-    "Read It Later/attachments/f1a39692d3833a95c6839c0f5ed486cb_MD5.png",
-    "Read It Later/attachments/34be723215adf46ff772fc3ab0ca6452_MD5.jpg",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",

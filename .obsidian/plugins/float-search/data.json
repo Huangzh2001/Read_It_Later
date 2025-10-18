@@ -1,10 +1,10 @@
 {
   "searchViewState": {
-    "collapseAll": false,
+    "collapseAll": true,
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": " The Big Misconception ",
+    "query": "veritasium",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

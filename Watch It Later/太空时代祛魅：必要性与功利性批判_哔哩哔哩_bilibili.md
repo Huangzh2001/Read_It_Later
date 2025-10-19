@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1N49cYXEQC/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-16T09:24:43+08:00
 ---
 ![太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1N49cYXEQC/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

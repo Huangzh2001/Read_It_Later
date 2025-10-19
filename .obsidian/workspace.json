@@ -8,34 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f318ad45aadee35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/火速打脸！C罗超级世界波破门！菲列克斯帽子戏法！胜利5比1比赛复盘！_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "火速打脸！C罗超级世界波破门！菲列克斯帽子戏法！胜利5比1比赛复盘！_哔哩哔哩_bilibili"
-            }
-          },
-          {
             "id": "87ec05e850790fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/政府关门，宇宙下线_哔哩哔哩_bilibili.md",
+                "file": "待整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "政府关门，宇宙下线_哔哩哔哩_bilibili"
+              "title": "待整理"
+            }
+          },
+          {
+            "id": "a8a5f6dc67d21bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/老王来了-有远见的家族财富传承策略_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "老王来了-有远见的家族财富传承策略_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "8c4ab21a781450fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "9054365cfb891efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/太空时代祛魅：必然性与必要性批判_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "太空时代祛魅：必然性与必要性批判_哔哩哔哩_bilibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +250,17 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "1f318ad45aadee35",
+  "active": "a8a5f6dc67d21bc1",
   "lastOpenFiles": [
+    "待整理.md",
+    "正在读&正在看.md",
+    "Watch It Later/太空时代祛魅：必要性与功利性批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/太空时代祛魅：必然性与必要性批判_哔哩哔哩_bilibili.md",
+    "Watch It Later/政府关门，宇宙下线_哔哩哔哩_bilibili.md",
+    "Watch It Later/火速打脸！C罗超级世界波破门！菲列克斯帽子戏法！胜利5比1比赛复盘！_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-19_14-32-57.md",
     "Watch It Later/Omnivore停运，用啥替代？_哔哩哔哩_bilibili.md",
-    "Watch It Later/火速打脸！C罗超级世界波破门！菲列克斯帽子戏法！胜利5比1比赛复盘！_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian weekly 20250119 期：（预祝春节快乐！）更省心地输入，更多样的画图_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian weekly 20241208期：更优雅的管理与分享，更直观的组织与查看_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian weekly 20241215期：自定义文件夹及图标外观 & 自动化转格式和插入模板_哔哩哔哩_bilibili.md",
@@ -244,12 +279,6 @@
     "Watch It Later/Obsidian Weekly 20250406 期：GitHub 大杂烩 & 一键转换 Microsoft 文件格式 & 高亮文本侧边栏批注_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian Weekly 20250420 期：官方剪藏插件高亮模式重构&自动链接与聚合笔记_哔哩哔哩_bilibili.md",
     "Watch It Later/本地部署AI小模型真的没有意义？我为什么如此上头AI~_哔哩哔哩_bilibili.md",
-    "Watch It Later/你家有皇位要继承吗？_哔哩哔哩_bilibili.md",
-    "Watch It Later/第209期 Maki过去几年的一些收获_哔哩哔哩_bilibili.md",
-    "Watch It Later/嫡长子继承制与论资排辈_哔哩哔哩_bilibili.md",
-    "Watch It Later/Riccks RS8 V2 TTC【霜语轴】终于出了个十字轴心。声音依旧顶中顶。手感Q弹爽脆，爽爽爽！_哔哩哔哩_bilibili.md",
-    "Watch It Later/Obsidian 中使用手写笔记_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Clippings/sync.ffs_lock",

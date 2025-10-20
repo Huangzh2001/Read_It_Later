@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1a7QVY8EZM/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-19T22:52:15+08:00
 ---
 ![公元1049年：范仲淹家族信托何以持续900年？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a7QVY8EZM/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c)

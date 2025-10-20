@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd75139c6b849bc",
+        "id": "6daf2bf31bcca1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "87ec05e850790fea",
+            "id": "9cea956b451d2986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/公元1049年：范仲淹家族信托何以持续900年？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/谁是犹太人？_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公元1049年：范仲淹家族信托何以持续900年？_哔哩哔哩_bilibili"
+              "title": "谁是犹太人？_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -207,13 +207,15 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "87ec05e850790fea",
+  "active": "9cea956b451d2986",
   "lastOpenFiles": [
-    "正在读&正在看.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2025-10-20_10-21-08.md",
+    "Watch It Later/谁是犹太人？_哔哩哔哩_bilibili.md",
     "Watch It Later/公元1049年：范仲淹家族信托何以持续900年？_哔哩哔哩_bilibili.md",
+    "正在读&正在看.md",
     "Watch It Later/古有族田义庄，今有家族基金，国有义务教育_哔哩哔哩_bilibili.md",
     "Watch It Later/如何成长为世家大族_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-20_08-12-16.md",
     "Watch It Later/普京二十四年（2008-2018）_哔哩哔哩_bilibili.md",
     "Watch It Later/普京二十四年（2018-2024）_哔哩哔哩_bilibili.md",
@@ -233,9 +235,6 @@
     "Watch It Later/别看它破，这才是生活_哔哩哔哩_bilibili.md",
     "Watch It Later/看这些书，等于看我200个视频_哔哩哔哩_bilibili.md",
     "Watch It Later/不劳动 疯狂收割男人的版本T0 巅峰过后待遇如何？从六个钱包说说日本女性的困境_哔哩哔哩_bilibili.md",
-    "Watch It Later/最老VS最新健身房！差别有多大!_哔哩哔哩_bilibili.md",
-    "Watch It Later/和C罗一起庆祝 SIUUU 🐐🔥_哔哩哔哩_bilibili.md",
-    "Watch It Later/你凭什么说读书比刷小视频更有意义？——毛姆《阅读是一座随身携带的避难所》_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Clippings/sync.ffs_lock",

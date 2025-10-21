@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1pa41197Zc?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2206146-n7lrp.1761020615812.405&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-21T12:27:18+08:00
 ---
 ![闪开，让我歌唱九十年代_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pa41197Zc?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2206146-n7lrp.1761020615812.405&vd_source=06168f390bae49c4867767c52a20e87c)

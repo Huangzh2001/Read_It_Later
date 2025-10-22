@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf68c5bb4fbcf30",
+        "id": "a639d42c0ae8a5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5c3d6a371f6ebc",
+            "id": "d97b401e9e90814c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/闪开，让我歌唱九十年代_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/人大教授：如何看清宏观大势？以南方拉闸限电为例教你4步政经分析法 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "闪开，让我歌唱九十年代_哔哩哔哩_bilibili"
+              "title": "人大教授：如何看清宏观大势？以南方拉闸限电为例教你4步政经分析法 干货｜实用【聂辉华】_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -208,13 +208,25 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "4e5c3d6a371f6ebc",
+  "active": "d97b401e9e90814c",
   "lastOpenFiles": [
+    "待整理.md",
+    "Watch It Later/人大教授：投资必备的三层思维是什么？为什么有人能在2020年实现基金翻倍？ 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：希姆莱的种族主义_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：现象级的宣传伎俩_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：生命之源与希特勒孩童_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：鼓励生育（上）_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：鼓励生育（下）_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：罪恶干预（下）_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：绝育法与婚姻法_哔哩哔哩_bilibili.md",
+    "Watch It Later/纳粹德国：罪恶干预（上）_哔哩哔哩_bilibili.md",
+    "Watch It Later/锡安长老会纪要：其他_哔哩哔哩_bilibili.md",
+    "Watch It Later/日本政治的新变局_哔哩哔哩_bilibili.md",
+    "Watch It Later/闪开，让我歌唱九十年代_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-22_17-15-53.md",
     "Watch It Later/【特别篇】重温《回到2049》早期宣传片_哔哩哔哩_bilibili.md",
     "Watch It Later/人大教授：如何看清宏观大势？以南方拉闸限电为例教你4步政经分析法 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
-    "Watch It Later/人大教授：投资必备的三层思维是什么？为什么有人能在2020年实现基金翻倍？ 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
     "Watch It Later/人大教授：从放牛娃到人大教授，我在大学如何走出自卑？【聂辉华教授】_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-10-21_21-35-46.md",
     "Watch It Later/2020中国城市政商关系排行榜：深圳登顶榜首，北方城市表现落后？_哔哩哔哩_bilibili.md",
@@ -225,17 +237,6 @@
     "Watch It Later/金灿荣：现场观众问了我一个特别劲爆的问题，我这样回答_哔哩哔哩_bilibili.md",
     "Watch It Later/革命导师：马克思_哔哩哔哩_bilibili.md",
     "正在读&正在看.md",
-    "Watch It Later/金灿荣：高市早苗掂量掂量，硬刚中国能走多远？_哔哩哔哩_bilibili.md",
-    "Watch It Later/国考近年首次减招！聂辉华：公务员规模或达历史顶峰，上岸要趁早_哔哩哔哩_bilibili.md",
-    "Watch It Later/锡安长老会纪要：自由主义、世界大战与共济会_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（8）：屠杀_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（7）：万湖_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（6）：隔离_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（5）：密会_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（4）：水晶_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（3）：降温_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（2）：分化_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹干犹太（1）：升级_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",

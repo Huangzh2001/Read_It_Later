@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1TR4y1X77W/?spm_id_from=333.1387.collection.video_card.click
 tags:
   - video
-status:
+status: readed
 date: 2025-10-11T18:46:40+08:00
 ---
 ![【吸奇侠】《教父》柯家废弟赌城惨遭打脸，如何铺好后路？16_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1TR4y1X77W/?spm_id_from=333.1387.collection.video_card.click)

@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1hV411q7EC/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-10-21T21:45:44+08:00
 ---
 ![人大教授：投资必备的三层思维是什么？为什么有人能在2020年实现基金翻倍？ 干货｜实用【聂辉华】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1hV411q7EC/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d52d373ff80c7e3b",
+        "id": "869f20ecc38f47a4",
         "type": "tabs",
         "children": [
           {
-            "id": "509b368275c76095",
+            "id": "d6c365a25049be1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/一个视频搞懂中国房地产整个内在逻辑，看完就能明白现在发生的一切，以及未来大趋势_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/革命导师：马克思_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一个视频搞懂中国房地产整个内在逻辑，看完就能明白现在发生的一切，以及未来大趋势_哔哩哔哩_bilibili"
+              "title": "革命导师：马克思_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -208,16 +209,16 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "509b368275c76095",
+  "active": "d6c365a25049be1c",
   "lastOpenFiles": [
+    "正在读&正在看.md",
+    "待整理.md",
+    "Watch It Later/一个视频搞懂中国房地产整个内在逻辑，看完就能明白现在发生的一切，以及未来大趋势_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "Watch It Later/百万鸭宝达成，《逃离鸭科夫》凭什么横扫全球销量前三？_哔哩哔哩bilibili_游戏杂谈.md",
-    "Watch It Later/一个视频搞懂中国房地产整个内在逻辑，看完就能明白现在发生的一切，以及未来大趋势_哔哩哔哩_bilibili.md",
     "Watch It Later/为什么美国搞不定稀土？_哔哩哔哩_bilibili.md",
     "已读&已看.md",
     "Watch It Later/人大教授：投资必备的三层思维是什么？为什么有人能在2020年实现基金翻倍？ 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
-    "待整理.md",
-    "正在读&正在看.md",
     "Watch It Later/人大教授：如何看清宏观大势？以南方拉闸限电为例教你4步政经分析法 干货｜实用【聂辉华】_哔哩哔哩_bilibili.md",
     "Watch It Later/小心你身边会说“蒙太奇式谎言”的人！_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",

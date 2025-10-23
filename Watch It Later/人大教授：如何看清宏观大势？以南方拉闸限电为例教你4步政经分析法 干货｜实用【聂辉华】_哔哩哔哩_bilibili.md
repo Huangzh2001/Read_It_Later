@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1Fz4y1U7LQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-10-21T21:51:44+08:00
 ---
 ![人大教授：如何看清宏观大势？以南方拉闸限电为例教你4步政经分析法 干货｜实用【聂辉华】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fz4y1U7LQ/?spm_id_from=333.1387.upload.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

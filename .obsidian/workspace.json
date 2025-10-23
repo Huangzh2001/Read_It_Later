@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/双屏真的好用吗？该怎么组？🤔_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/欧冠利物浦5比1法兰克福赛后复盘，斯洛特试阵喜忧参半！_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "双屏真的好用吗？该怎么组？🤔_哔哩哔哩_bilibili"
+              "title": "欧冠利物浦5比1法兰克福赛后复盘，斯洛特试阵喜忧参半！_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -211,8 +210,11 @@
   },
   "active": "d6c365a25049be1c",
   "lastOpenFiles": [
-    "Watch It Later/破防退游？上线6年的《光遇》为何不火了？_游戏热门视频.md",
+    "Watch It Later/搜打撤，有多好玩？今年最热门的FPS游戏，是如何练成的？_哔哩哔哩_bilibili.md",
+    "Watch It Later/欧冠利物浦5比1法兰克福赛后复盘，斯洛特试阵喜忧参半！_哔哩哔哩_bilibili.md",
     "Watch It Later/双屏真的好用吗？该怎么组？🤔_哔哩哔哩_bilibili.md",
+    "Watch It Later/百万鸭宝达成，《逃离鸭科夫》凭什么横扫全球销量前三？_哔哩哔哩bilibili_游戏杂谈 1.md",
+    "Watch It Later/破防退游？上线6年的《光遇》为何不火了？_游戏热门视频.md",
     "Watch It Later/替烟棒真能辅助戒烟么？用10天试试！_哔哩哔哩_bilibili.md",
     "Watch It Later/【吸奇侠】谁敢把教父当取款机？全家个个是人才！《教父2》02_哔哩哔哩_bilibili.md",
     "Watch It Later/【吸奇侠】《教父2》时代变了！议员和麻匪，谁才是大哥？01_哔哩哔哩_bilibili.md",
@@ -236,9 +238,6 @@
     "Watch It Later/赢了利物浦，为啥感觉阿莫林带的曼联又行了？_哔哩哔哩_bilibili.md",
     "Watch It Later/致那些我们本可以拥有的现在、过去或未来丨复古未来主义丨〔Retro-Futurism〕_哔哩哔哩_bilibili.md",
     "Watch It Later/纳粹德国：希姆莱的种族主义_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹德国：现象级的宣传伎俩_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹德国：生命之源与希特勒孩童_哔哩哔哩_bilibili.md",
-    "Watch It Later/纳粹德国：鼓励生育（上）_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Read It Later/attachments/dd72a024d921dc6d7000babcf4831dbc_MD5.png",

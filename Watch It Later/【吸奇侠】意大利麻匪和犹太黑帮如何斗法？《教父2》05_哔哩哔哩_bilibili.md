@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1gY4y197Xc/?spm_id_from=333.1387.collection.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-24T22:43:45+08:00
 ---
 ![【吸奇侠】意大利麻匪和犹太黑帮如何斗法？《教父2》05_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gY4y197Xc/?spm_id_from=333.1387.collection.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

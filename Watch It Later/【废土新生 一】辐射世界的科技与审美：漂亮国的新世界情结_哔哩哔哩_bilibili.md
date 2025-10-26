@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV13t421u7Lx/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: readed
+status: Unsorted
 date: 2025-10-26T16:03:20+08:00
 ---
 ![【废土新生 一】辐射世界的科技与审美：漂亮国的新世界情结_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13t421u7Lx/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/数学物理相关背景，转量化的路径是什么？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/彭实戈：金融数学的创立源自90年代危机，任何科学都需要高深的数学_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学物理相关背景，转量化的路径是什么？_哔哩哔哩_bilibili"
+              "title": "彭实戈：金融数学的创立源自90年代危机，任何科学都需要高深的数学_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "a2debcd7f90c5fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/毕业百万年薪的金融数学到底在学什么？_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "毕业百万年薪的金融数学到底在学什么？_哔哩哔哩_bilibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +223,16 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "6fbe9655de12dff7",
+  "active": "a2debcd7f90c5fae",
   "lastOpenFiles": [
+    "Watch It Later/毕业百万年薪的金融数学到底在学什么？_哔哩哔哩_bilibili.md",
+    "Watch It Later/彭实戈：金融数学的创立源自90年代危机，任何科学都需要高深的数学_哔哩哔哩_bilibili.md",
+    "Watch It Later/数学为何不能无缝转金融：核心素养天差地别_哔哩哔哩_bilibili.md",
+    "Watch It Later/纯数学博士带你看大众对于数学专业的误解_哔哩哔哩_bilibili.md",
+    "Watch It Later/数学物理相关背景，转量化的路径是什么？_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-10-28_17-38-57.md",
     "Watch It Later/可以直观时间的机械版沙漏_哔哩哔哩_bilibili.md",
-    "Watch It Later/数学物理相关背景，转量化的路径是什么？_哔哩哔哩_bilibili.md",
     "Watch It Later/Obsidian weekly 20240512期：新版本即将到来！可视化操作颠覆性突破！_哔哩哔哩_bilibili.md",
     "Watch It Later/砸坏了脑袋，46岁大哥出门被骂像“丧尸”：那我也得出来挣钱_哔哩哔哩_bilibili.md",
     "Watch It Later/拿不出20万彩礼钱，21岁女友出门帮我一块挣！_哔哩哔哩_bilibili.md",
@@ -232,12 +252,7 @@
     "Watch It Later/【差评】这个把机械键盘塞进笔记本的厂商，真的救了我一条命！！！_哔哩哔哩_bilibili.md",
     "Watch It Later/如果你有台电脑，一定要榨干它的学术价值！_哔哩哔哩_bilibili.md",
     "Watch It Later/躲在海底气泡里存活3天！揭秘世界上命最硬的人如何在海底求生_哔哩哔哩_bilibili.md",
-    "Watch It Later/3am Medical School Morning Routine  student house edition.md",
-    "Watch It Later/99%清北家长教不出清北孩子，3岁报奥数、4岁获大奖也逃不过高考残酷真相_哔哩哔哩_bilibili.md",
-    "Watch It Later/真牛人！每天3点起床！实录晨间日程。一天当两天用！高效且快乐的秘诀！_哔哩哔哩_bilibili.md",
-    "Watch It Later/个人生产力系统的工作流程：收集、整理、创作、分享(视频重置)_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Read It Later/attachments/dd72a024d921dc6d7000babcf4831dbc_MD5.png",

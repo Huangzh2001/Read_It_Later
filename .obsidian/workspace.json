@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68abb92ef3ea2a09",
+            "id": "31c8593c46c41864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/【鬼谷闲谈】紫色地球：一个杀生以护生的故事_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/【2049日报】S05E179以色列建国_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【鬼谷闲谈】紫色地球：一个杀生以护生的故事_哔哩哔哩_bilibili"
+              "title": "【2049日报】S05E179以色列建国_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "90f4421364738167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/【2049日报】S05E181中东战争（上）_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【2049日报】S05E181中东战争（上）_哔哩哔哩_bilibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +223,21 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "68abb92ef3ea2a09",
+  "active": "90f4421364738167",
   "lastOpenFiles": [
-    "Watch It Later/人类或首次拦截“星际访客”！ATLAS“外星飞船”有哪些秘密？_哔哩哔哩_bilibili.md",
-    "Watch It Later/【鬼谷闲谈】紫色地球：一个杀生以护生的故事_哔哩哔哩_bilibili.md",
-    "待整理.md",
-    "Watch It Later/硬核拆解诡秘之主——乌贼感觉凉嗖嗖的_哔哩哔哩_bilibili.md",
+    "Watch It Later/古巴困局_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S05E181中东战争（上）_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S05E179以色列建国_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S05E162犹太复国主义_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S05E160上帝的应许之地_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S05E163英国的委任统治_哔哩哔哩_bilibili.md",
+    "Watch It Later/查理·柯克之死_哔哩哔哩_bilibili.md",
+    "Watch It Later/查理·柯克其人_哔哩哔哩_bilibili.md",
     "正在读&正在看.md",
+    "待整理.md",
+    "Watch It Later/【鬼谷闲谈】紫色地球：一个杀生以护生的故事_哔哩哔哩_bilibili.md",
+    "Watch It Later/人类或首次拦截“星际访客”！ATLAS“外星飞船”有哪些秘密？_哔哩哔哩_bilibili.md",
+    "Watch It Later/硬核拆解诡秘之主——乌贼感觉凉嗖嗖的_哔哩哔哩_bilibili.md",
     "Watch It Later/1. Introduction, Financial Terms and Concepts.md",
     "Watch It Later/23. Quanto Credit Hedging.md",
     "未读&未看.md",
@@ -237,15 +260,7 @@
     "Watch It Later/【公益课】你分得清“经济”和“金融”吗？丨清华五道口：公司金融01_哔哩哔哩_bilibili.md",
     "Watch It Later/5分钟弄懂金融和经济的区别！_哔哩哔哩_bilibili.md",
     "Watch It Later/赛博死刑！传奇考研名师张雪峰为何一夜暴雷？_哔哩哔哩_bilibili.md",
-    "Watch It Later/张雪峰被封杀，到底说错了什么话？_哔哩哔哩_bilibili.md",
-    "Watch It Later/金融专业根本就不用学！张雪峰直言能就一个是一个！_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
-    "Watch It Later/为什么你根本不可能在埃迪卡拉纪活下来？_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-10-29_08-41-23.md",
-    "Watch It Later/一个人类竟然找到了外星人的巢穴❗️两个瘾君子的幻想❓_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-10-28_20-47-00.md",
-    "Watch It Later/【戴建业】黄庭坚收到水仙花，怎么一下子就超脱了？（下）_哔哩哔哩_bilibili.md",
-    "Watch It Later/【戴建业】今日话疗：年轻朋友们如何减轻焦虑？（上）_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",

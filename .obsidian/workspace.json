@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c5394f0c5c5dd45",
+        "id": "4d3b13e198ab7a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "6fbe9655de12dff7",
+            "id": "68abb92ef3ea2a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/一个公式如何撬动万亿市场经济？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/The Core Equation Of Neuroscience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一个公式如何撬动万亿市场经济？_哔哩哔哩_bilibili"
+              "title": "The Core Equation Of Neuroscience"
             }
           }
         ]
@@ -208,8 +208,22 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "6fbe9655de12dff7",
+  "active": "68abb92ef3ea2a09",
   "lastOpenFiles": [
+    "Watch It Later/What is Quantitative Finance 📈 Intro for Aspiring Quants.md",
+    "Watch It Later/The Core Equation Of Neuroscience.md",
+    "Read It Later/YouTube繁體字幕翻譯修正技巧！修復YouTube自動翻譯不見了問題 - 瘋先生.md",
+    "Read It Later/attachments/7f7e4fd44c9c00951facea59d5142ef1_MD5.jpg",
+    "Read It Later/attachments/2d113ca38a6ec67900e1be571076bdf8_MD5.jpg",
+    "Read It Later/attachments/c98c85164fb841c4e168cbe7a305754f_MD5.jpg",
+    "Read It Later/attachments/fbf19fb96aec467b311ef46e1db70a1a_MD5.jpg",
+    "Read It Later/attachments/d39f6cb8bff85c9933a0c64961a4e624_MD5.jpg",
+    "Read It Later/attachments/82201be2b708bc4eb7b9666858031932_MD5.jpg",
+    "Read It Later/attachments/baa8a8f9bb1a11aae9efd5421955d5b4_MD5.jpg",
+    "Read It Later/attachments/a3662f0ab55363023676e7caf978b9be_MD5.jpg",
+    "Watch It Later/23. Quanto Credit Hedging.md",
+    "Watch It Later/The Trillion Dollar Equation.md",
+    "Watch It Later/一个公式如何撬动万亿市场经济？_哔哩哔哩_bilibili.md",
     "正在读&正在看.md",
     "Watch It Later/百年前国外先进发明，我们自以为的遥遥领先，其实不过是别人玩剩下的！_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
@@ -227,27 +241,13 @@
     "Watch It Later/【戴建业】今日话疗：年轻朋友们如何减轻焦虑？（上）_哔哩哔哩_bilibili.md",
     "Watch It Later/彭实戈：金融数学的创立源自90年代危机，任何科学都需要高深的数学_哔哩哔哩_bilibili.md",
     "Watch It Later/“你有没有发现：只要你一整天都很认真的学，少用手机，完成该完成的任务，运动半小时出点汗，内心就会感到平静和快乐，也不会再胡思乱想，患得患失，焦虑不已了。”_哔哩哔哩_bilibili.md",
-    "Watch It Later/一个公式如何撬动万亿市场经济？_哔哩哔哩_bilibili.md",
     "Watch It Later/毕业百万年薪的金融数学到底在学什么？_哔哩哔哩_bilibili.md",
     "Watch It Later/数学为何不能无缝转金融：核心素养天差地别_哔哩哔哩_bilibili.md",
     "Watch It Later/纯数学博士带你看大众对于数学专业的误解_哔哩哔哩_bilibili.md",
     "Watch It Later/数学物理相关背景，转量化的路径是什么？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-10-28_17-38-57.md",
-    "Watch It Later/可以直观时间的机械版沙漏_哔哩哔哩_bilibili.md",
-    "Watch It Later/Obsidian weekly 20240512期：新版本即将到来！可视化操作颠覆性突破！_哔哩哔哩_bilibili.md",
-    "Watch It Later/砸坏了脑袋，46岁大哥出门被骂像“丧尸”：那我也得出来挣钱_哔哩哔哩_bilibili.md",
-    "Watch It Later/拿不出20万彩礼钱，21岁女友出门帮我一块挣！_哔哩哔哩_bilibili.md",
-    "Watch It Later/纯手工打造-宇宙最强“隐形电脑”_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/52cc07f4373b0767e3e214bf6cb4e663_MD5.jpg",
     "Read It Later/attachments/cbafd6e109a78a89eb1ff95cbb5f0cd8_MD5.png",
-    "Read It Later/attachments/dd72a024d921dc6d7000babcf4831dbc_MD5.png",
-    "Read It Later/attachments/a98854956fdf628cbc6618c99825e797_MD5.png",
-    "Read It Later/attachments/e1045a6e68e80d9fced12f2e8a73bdc1_MD5.jpg",
-    "Read It Later/attachments/99b770f9b48ac2a507a2184351ee3ade_MD5.jpg",
-    "Read It Later/attachments/a7fba501278601065742c16a8b0d82a7_MD5.png",
-    "Read It Later/attachments/d3b6ae4fe522deacf128dd1bf70a3b53_MD5.jpg",
-    "Read It Later/attachments/8626b7a918f09324f5200f49b544e0d9_MD5.jpg",
-    "Read It Later/attachments/4c7d96f81c34ff24ea0cafdc41c2ff2f_MD5.jpg",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

@@ -1,3 +1,11 @@
+---
+url: https://www.bilibili.com/video/BV1oS411N7dJ/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+date: 2025-10-31T11:58:09+08:00
+---
+![枪管这么细，膛线到底是如何制造出来的?多年疑惑解开了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oS411N7dJ/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c)
 枪管这么细，膛线到底是如何制造出来的?多年疑惑解开了
 https://www.bilibili.com/video/BV1oS411N7dJ/
 山利达户外 2024-06-06 18:38:03

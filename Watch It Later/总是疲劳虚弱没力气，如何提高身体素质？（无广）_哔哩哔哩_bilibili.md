@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1PXNjzSEU1/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: Unsorted
 ---
 ![总是疲劳虚弱没力气，如何提高身体素质？（无广）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PXNjzSEU1/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=06168f390bae49c4867767c52a20e87c)
 总是疲劳虚弱没力气，如何提高身体素质？（无广）

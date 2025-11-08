@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1pybmzfE8S/?vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-11-06T14:33:30+08:00
 ---
 ![赛博、自动机器、控制论——20世纪最伟大的科学构想，最终会带来工业乌托邦吗？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pybmzfE8S/?vd_source=06168f390bae49c4867767c52a20e87c)

@@ -1,10 +1,10 @@
 {
   "searchViewState": {
-    "collapseAll": true,
+    "collapseAll": false,
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "我实在忍不住了！",
+    "query": "",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

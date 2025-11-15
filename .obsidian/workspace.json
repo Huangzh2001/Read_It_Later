@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/公元1004年：“基建狂魔”大宋如何打防御战_哔哩哔哩_bilibili 1.md",
+                "file": "Watch It Later/为什么狮子老了会被饿死_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公元1004年：“基建狂魔”大宋如何打防御战_哔哩哔哩_bilibili 1"
+              "title": "为什么狮子老了会被饿死_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -227,9 +228,29 @@
   },
   "active": "a532d82504dc5770",
   "lastOpenFiles": [
-    "utils/obsidian-urls/logs/2025-11-15_22-27-10.md",
+    "Watch It Later/长见识和出不出去玩没太大关系_哔哩哔哩_bilibili.md",
+    "Watch It Later/为什么狮子老了会被饿死_哔哩哔哩_bilibili.md",
+    "Watch It Later/罗振宇阅读电子书的方法_哔哩哔哩_bilibili.md",
+    "Watch It Later/POV：你迷失在复古电子游戏的阈限空间中.md",
+    "Watch It Later/约练Gandy｜肩后束爆炸组｜全程跟练_哔哩哔哩_bilibili.md",
+    "Watch It Later/从夯到拉中国朝代排名_哔哩哔哩_bilibili.md",
+    "Watch It Later/世界上最小的耳机，居然是摸鱼神器？_哔哩哔哩_bilibili.md",
+    "Watch It Later/我从中国买了一堆奇葩玩意：真的有人用吗？_哔哩哔哩_bilibili.md",
+    "Watch It Later/评测688元的迷你无线耳机，号称耳机只有米粒大小，真的能用吗？_哔哩哔哩_bilibili.md",
+    "Watch It Later/高市早苗对中国发出武力威胁，外交部提醒中国公民近期避免前往日本_哔哩哔哩_bilibili.md",
+    "Watch It Later/卧槽！越闹越大！高市早苗失去民心！白宫最新表态后，82%日本民众迅速倒戈，不再支持高市对华言论！网友：完犊子了！_哔哩哔哩_bilibili.md",
+    "正在读&正在看.md",
+    "Watch It Later/如何保持精力充沛？_哔哩哔哩_bilibili.md",
+    "Watch It Later/【冬之篇】冬至_哔哩哔哩_bilibili 1.md",
+    "Watch It Later/长期主义的事，做完就是做成_哔哩哔哩_bilibili.md",
+    "Watch It Later/一生当中一定会醒来的疑问_哔哩哔哩_bilibili.md",
+    "Watch It Later/【冬之篇】大雪：虎始交；荔挺出_哔哩哔哩_bilibili.md",
+    "Watch It Later/【冬之篇】大雪：鹖鴠不鸣_哔哩哔哩_bilibili.md",
+    "Watch It Later/公元1005年：“澶渊之盟”是个屈辱的条约吗？_哔哩哔哩_bilibili.md",
     "Read It Later/(99+ 封私信  93 条消息) 你觉得你能接受机器人女仆的价位是多少钱？ - 知乎.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/公元1004年：“基建狂魔”大宋如何打防御战_哔哩哔哩_bilibili 1.md",
+    "utils/obsidian-urls/logs/2025-11-15_22-27-10.md",
     "Read It Later/attachments/fa65eb97cf576f8efe5767ad2bcb8c3a_MD5.jpg",
     "Read It Later/attachments/a5b2cae91158fbd752b915d9a38b0f27_MD5.jpg",
     "Read It Later/attachments/e022780182c6470302f07dfc9eacc5a8_MD5.jpg",
@@ -244,26 +265,6 @@
     "Watch It Later/《文明之旅》【公元1004年】“基建狂魔”大宋 如何打好 防御战 ？— 得到 - 罗振宇_哔哩哔哩_bilibili.md",
     "Watch It Later/【2049日报】S04E348苏联炭疽惨案_哔哩哔哩_bilibili.md",
     "Watch It Later/公元1001年：四川为什么叫四川？_哔哩哔哩_bilibili.md",
-    "Watch It Later/意识形态（5）：保守主义_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
-    "utils/obsidian-urls/logs/2025-11-15_12-22-00.md",
-    "Watch It Later/公元1003年：为什么“不听建议”也是一种好策略？_哔哩哔哩_bilibili.md",
-    "Watch It Later/公元1002年：科举为什么发生基因突变？_哔哩哔哩_bilibili.md",
-    "Watch It Later/【冬之篇】冬至_哔哩哔哩_bilibili.md",
-    "Watch It Later/为什么人生要追求建立系统，而不是追求目标实现？｜《原子习惯》_哔哩哔哩_bilibili.md",
-    "Watch It Later/理念如此业余的Vision Pro真的是出自苹果的产品？【Gamker】_哔哩哔哩_bilibili.md",
-    "Watch It Later/《黎明之剑》这本书，讲了个什么故事？_哔哩哔哩_bilibili.md",
-    "Watch It Later/测试28天减40斤的哈佛减肥食谱！真的有用吗？一个礼拜掉了这么多？_哔哩哔哩_bilibili.md",
-    "Watch It Later/诗的童话_哔哩哔哩_bilibili.md",
-    "Watch It Later/这下德国的空气要香甜了...德国大麻合法，西方迈入“毒时代”_哔哩哔哩_bilibili.md",
-    "Watch It Later/Llama3震撼发布：最大支持4000亿参数，性能直逼GPT-4，开源王者当之无愧！_哔哩哔哩_bilibili.md",
-    "Watch It Later/如何用 Llama 3 免费本地 AI 分析数据和可视化？_哔哩哔哩_bilibili.md",
-    "Watch It Later/就是现在！就是此刻！美国历史老师TikTok呼吁人民团结抗争_哔哩哔哩_bilibili.md",
-    "Watch It Later/妥协是死路，Tiktok选择硬刚，与1.7亿美国人们站在了一起_哔哩哔哩_bilibili.md",
-    "Watch It Later/300万粉丝网红粥饼伦：穷怕了，不想让下一辈再受罪_哔哩哔哩_bilibili.md",
-    "Watch It Later/梅雨季潮潮潮，空调除湿模式是什么工作原理？_哔哩哔哩_bilibili.md",
-    "Watch It Later/南风天返潮最佳除湿方案 正确设置空调温度打开除湿模式效果远超除湿机_哔哩哔哩_bilibili.md",
-    "Watch It Later/空调除湿您常用吗？_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",

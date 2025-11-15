@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read It Later/(99+ 封私信  93 条消息) 喜欢独来独往的是什么人？ - 知乎.md",
+                "file": "Watch It Later/【2049日报】S04E348苏联炭疽惨案_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(99+ 封私信  93 条消息) 喜欢独来独往的是什么人？ - 知乎"
+              "title": "【2049日报】S04E348苏联炭疽惨案_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "39b0d907b919e239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/公元1001年：四川为什么叫四川？_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公元1001年：四川为什么叫四川？_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "ca854b5d151e967d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
       "cmdr:打开设置": false,
       "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
@@ -209,11 +235,35 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "25595d3f5750f62a",
+  "active": "ca854b5d151e967d",
   "lastOpenFiles": [
-    "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
-    "utils/obsidian-urls/logs/2025-11-15_08-22-30.md",
+    "Watch It Later/公元1001年：四川为什么叫四川？_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/logs/2025-11-15_12-22-00.md",
+    "Watch It Later/公元1003年：为什么“不听建议”也是一种好策略？_哔哩哔哩_bilibili.md",
+    "Watch It Later/公元1002年：科举为什么发生基因突变？_哔哩哔哩_bilibili.md",
+    "Watch It Later/【2049日报】S04E348苏联炭疽惨案_哔哩哔哩_bilibili.md",
+    "Watch It Later/【冬之篇】冬至_哔哩哔哩_bilibili.md",
+    "Watch It Later/为什么人生要追求建立系统，而不是追求目标实现？｜《原子习惯》_哔哩哔哩_bilibili.md",
+    "Watch It Later/理念如此业余的Vision Pro真的是出自苹果的产品？【Gamker】_哔哩哔哩_bilibili.md",
+    "Watch It Later/《黎明之剑》这本书，讲了个什么故事？_哔哩哔哩_bilibili.md",
+    "Watch It Later/测试28天减40斤的哈佛减肥食谱！真的有用吗？一个礼拜掉了这么多？_哔哩哔哩_bilibili.md",
+    "Watch It Later/诗的童话_哔哩哔哩_bilibili.md",
+    "Watch It Later/这下德国的空气要香甜了...德国大麻合法，西方迈入“毒时代”_哔哩哔哩_bilibili.md",
+    "Watch It Later/Llama3震撼发布：最大支持4000亿参数，性能直逼GPT-4，开源王者当之无愧！_哔哩哔哩_bilibili.md",
+    "Watch It Later/如何用 Llama 3 免费本地 AI 分析数据和可视化？_哔哩哔哩_bilibili.md",
+    "Watch It Later/就是现在！就是此刻！美国历史老师TikTok呼吁人民团结抗争_哔哩哔哩_bilibili.md",
+    "Watch It Later/妥协是死路，Tiktok选择硬刚，与1.7亿美国人们站在了一起_哔哩哔哩_bilibili.md",
+    "Watch It Later/300万粉丝网红粥饼伦：穷怕了，不想让下一辈再受罪_哔哩哔哩_bilibili.md",
+    "Watch It Later/梅雨季潮潮潮，空调除湿模式是什么工作原理？_哔哩哔哩_bilibili.md",
+    "Watch It Later/南风天返潮最佳除湿方案 正确设置空调温度打开除湿模式效果远超除湿机_哔哩哔哩_bilibili.md",
+    "Watch It Later/空调除湿您常用吗？_哔哩哔哩_bilibili.md",
+    "Watch It Later/他研制的“药水”  让千年文物“复活”了_哔哩哔哩_bilibili.md",
+    "Watch It Later/大环境不好，欧美【灵修从业者】如何积极自救_哔哩哔哩_bilibili.md",
+    "Watch It Later/如何给你的 Deepseek R1 智能助手，添加「第二大脑」（知识库）功能？_哔哩哔哩_bilibili.md",
+    "Watch It Later/如何打造一个靠谱 AI 助手？高速稳定满血 Deepseek R1 + 联网检索+知识库+artifacts 那种_哔哩哔哩_bilibili.md",
+    "Watch It Later/健美冠军睾酮竟然远低于常人!运动学博士Bruce回应东哥!!!_哔哩哔哩_bilibili.md",
+    "Clippings/sync.ffs_lock",
     "Read It Later/attachments/4dc138442b034a2d198b4ad1f902dc53_MD5.jpg",
     "Read It Later/attachments/79a6ba4b787c9982c28d0395853e3d99_MD5.jpg",
     "Read It Later/attachments/babd1e8a13dc0c7a659d354c891437d5_MD5.png",
@@ -223,30 +273,6 @@
     "Read It Later/attachments/7efdd63966132db5c5b0b86d7c22adeb_MD5.jpg",
     "Read It Later/attachments/b1395f5321f2a0550ee6a365a644835d_MD5.jpg",
     "Read It Later/attachments/31c45f02931267c68481e96f4bf9a9a6_MD5.jpg",
-    "Watch It Later/终于在2023年末无痛在obsidian用上热力图了！_哔哩哔哩_bilibili.md",
-    "Read It Later/(99+ 封私信  93 条消息) 喜欢独来独往的是什么人？ - 知乎.md",
-    "Watch It Later/人生作弊系统之人人都可以搭建的知识库_哔哩哔哩_bilibili.md",
-    "Watch It Later/健身房练的都是死肌肉？【卓叔】_哔哩哔哩_bilibili.md",
-    "Watch It Later/【卓叔】你还在迷信徒手训练吗？【增重答疑03】_哔哩哔哩_bilibili.md",
-    "Watch It Later/【毕导】这是科学史上最难理解的悖论_哔哩哔哩_bilibili.md",
-    "Watch It Later/辛普森悖论——你和你的朋友，谁的胜算更大？_哔哩哔哩_bilibili.md",
-    "Watch It Later/反直觉现象：彻底搞懂辛普森悖论！4个关键反问识破生活中的数据陷阱_哔哩哔哩_bilibili.md",
-    "Watch It Later/减脂期 易怒暴躁怎么办！？_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-11-14_08-18-53.md",
-    "Watch It Later/千万别劝你家人练健身_哔哩哔哩_bilibili.md",
-    "Watch It Later/公元1000年：宋代如何走出五代阴影？_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-11-13_23-07-45.md",
-    "Watch It Later/【思想主义科普】未来主义_哔哩哔哩_bilibili.md",
-    "Watch It Later/未来主义 艺术家中二起来多可怕_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-11-13_15-25-55.md",
-    "Watch It Later/想系统自学中国史？我只推荐三本书。_哔哩哔哩_bilibili.md",
-    "Watch It Later/资治通鉴，一本写给未来的书_哔哩哔哩_bilibili.md",
-    "Watch It Later/【二战中的美国】控局亚太_哔哩哔哩_bilibili.md",
-    "Watch It Later/【二战中的苏联】待从头，收拾旧山河_哔哩哔哩_bilibili.md",
-    "Watch It Later/英雄远征：重大航天事故解读_哔哩哔哩_bilibili.md",
-    "Watch It Later/苏丹内战（下）_哔哩哔哩_bilibili.md",
-    "Watch It Later/【二战中的美国】编不下去了_哔哩哔哩_bilibili.md",
-    "Watch It Later/【二战中的英国】回看张伯伦_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/94faeb37a6424d53a3c71bb7adccf415_MD5.jpg",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",

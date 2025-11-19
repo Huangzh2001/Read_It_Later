@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1ukiBYxEdB/?vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-11-19T20:12:32+08:00
 ---
 ![公元1015年：5次罢相，寇准一生为何大起大落？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ukiBYxEdB/?vd_source=06168f390bae49c4867767c52a20e87c)

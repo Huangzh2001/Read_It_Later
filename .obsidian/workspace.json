@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd987335e0d5104",
+        "id": "998815964af60d72",
         "type": "tabs",
         "children": [
           {
-            "id": "b52e0d37105328e5",
+            "id": "df863a4d9eef3dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/每年发生那么多故事，到底选哪些讲？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/公元1015年：5次罢相，寇准一生为何大起大落？_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "每年发生那么多故事，到底选哪些讲？_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "6503d52505f162fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/最让资本家害怕的十个人_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最让资本家害怕的十个人_哔哩哔哩_bilibili"
+              "title": "公元1015年：5次罢相，寇准一生为何大起大落？_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -240,12 +226,14 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "b52e0d37105328e5",
+  "active": "df863a4d9eef3dde",
   "lastOpenFiles": [
+    "Watch It Later/公元1014年：杨家将传说到底有几分真？_哔哩哔哩_bilibili.md",
+    "Watch It Later/最让资本家害怕的十个人_哔哩哔哩_bilibili.md",
+    "Watch It Later/每年发生那么多故事，到底选哪些讲？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-11-19_20-43-52.md",
     "Watch It Later/公元1015年：5次罢相，寇准一生为何大起大落？_哔哩哔哩_bilibili.md",
-    "Watch It Later/每年发生那么多故事，到底选哪些讲？_哔哩哔哩_bilibili.md",
     "Read It Later/(99+ 封私信  94 条消息) 美国为什么不二次实行“罗斯福新政”？ - 知乎.md",
     "Read It Later/attachments/b74e1981631cee30d6dd18e1a5cbc4e0_MD5.png",
     "Read It Later/attachments/88a01fa2da91a1dd11675bf3838082db_MD5.png",
@@ -257,7 +245,6 @@
     "Read It Later/attachments/c6bc4ebb2283c0a7d4d03b2ac739c40d_MD5.jpg",
     "Read It Later/attachments/58c8924b2c4ab35f265d13d864ca6a04_MD5.jpg",
     "Watch It Later/家里有个“州”？顶级富二代如何成为美利坚的太阳！罗斯福（上）_哔哩哔哩_bilibili.md",
-    "Watch It Later/最让资本家害怕的十个人_哔哩哔哩_bilibili.md",
     "Watch It Later/为什么美国不实行二次罗斯福新政？_哔哩哔哩_bilibili.md",
     "Watch It Later/美国人问：为什么中国人这么热爱罗斯福？_哔哩哔哩_bilibili.md",
     "Read It Later/冥想  从入门→深度冥想的自学内容推荐.md",
@@ -268,7 +255,6 @@
     "Read It Later/Can we think without language.md",
     "Read It Later/未来的写作长啥样？LEX 用 GPT-3 AI 给你点儿颜色看看.md",
     "Read It Later/给Obsidian中的图片加Caption（图片说明文字）的最简单方式.md",
-    "Watch It Later/公元1014年：杨家将传说到底有几分真？_哔哩哔哩_bilibili.md",
     "Watch It Later/第一代iphone发布会_哔哩哔哩_bilibili.md",
     "Watch It Later/重磅开源--之我在B站教制作收音机！！（LA1787复古收音机详细教程）_哔哩哔哩_bilibili.md",
     "Watch It Later/What Is The Most Accurate Way To Measure Body Fat.md",

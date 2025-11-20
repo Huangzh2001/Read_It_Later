@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "998815964af60d72",
+        "id": "e0c04e2226faaf98",
         "type": "tabs",
         "children": [
           {
-            "id": "df863a4d9eef3dde",
+            "id": "451787a10e7e3087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/【春之篇】立春_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/杨振宁先生讲爱因斯坦晚年工作、习惯。在路上遇见爱因斯坦，谦虚邀请请爱因斯坦与自己儿子照相_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【春之篇】立春_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "d33a33a0a367fb46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/好的真好，雷的真雷！老编辑帮你评测全网克苏鲁出版物！_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "好的真好，雷的真雷！老编辑帮你评测全网克苏鲁出版物！_哔哩哔哩_bilibili"
+              "title": "杨振宁先生讲爱因斯坦晚年工作、习惯。在路上遇见爱因斯坦，谦虚邀请请爱因斯坦与自己儿子照相_哔哩哔哩_bilibili"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,34 +226,34 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "d33a33a0a367fb46",
+  "active": "451787a10e7e3087",
   "lastOpenFiles": [
-    "Watch It Later/11年22次全印错，真当克苏鲁粉丝都是韭菜？_哔哩哔哩_bilibili.md",
-    "Watch It Later/好的真好，雷的真雷！老编辑帮你评测全网克苏鲁出版物！_哔哩哔哩_bilibili.md",
-    "Watch It Later/戳破洗牙“骗局”！究竟是拯救牙齿还是伤害牙齿！！！_哔哩哔哩_bilibili.md",
-    "Watch It Later/我又成功让一个人暂时远离了Obsidian_哔哩哔哩_bilibili.md",
-    "Watch It Later/【科研狗必备】中英字幕ORCID是个啥网站 @ORCID_Org_哔哩哔哩_bilibili.md",
-    "Watch It Later/数学之海，领域展开！_哔哩哔哩_bilibili.md",
-    "Watch It Later/粘贴的&夹子的假发固定方式，哪个最好，到底该怎么选？_哔哩哔哩_bilibili.md",
-    "Watch It Later/不剃头顶影响假发效果吗？用夹子试试_哔哩哔哩_bilibili.md",
-    "Watch It Later/天天戴着假发，会舒服么？_哔哩哔哩_bilibili.md",
-    "Watch It Later/一期视频玩转原厂剪线？G80-3000改造分享_哔哩哔哩_bilibili.md",
-    "Watch It Later/个人向2024客制化套件碎碎念——遗憾贯彻始终_哔哩哔哩_bilibili.md",
-    "Watch It Later/如何「不读书」还能知道「书讲了什么」_哔哩哔哩_bilibili.md",
-    "Watch It Later/书架吃灰的书 我用notebookLM完美解决了！真实体验分享_哔哩哔哩_bilibili.md",
-    "Watch It Later/Renormalization Why Bigger is Simpler.md",
-    "Watch It Later/重整化：为什么越大越简单_哔哩哔哩_bilibili 1.md",
-    "Watch It Later/我的不死之身，是宇宙写下的最残忍玩笑_哔哩哔哩_bilibili.md",
-    "Watch It Later/重整化：为什么越大越简单_哔哩哔哩_bilibili.md",
-    "Watch It Later/荣耀华为，最全解析_哔哩哔哩_bilibili.md",
+    "Watch It Later/我三年爆肝的心血视频全部删了，字体侵权，以此警戒_哔哩哔哩_bilibili.md",
+    "Watch It Later/杨振宁先生讲爱因斯坦晚年工作、习惯。在路上遇见爱因斯坦，谦虚邀请请爱因斯坦与自己儿子照相_哔哩哔哩_bilibili.md",
+    "Watch It Later/解决 Vim 中英文切换的问题  Vim 党狂喜_哔哩哔哩_bilibili.md",
+    "Watch It Later/中文字幕Obsidian和Zotero联用：在obsidian中一键超链接zotero中的pdf_哔哩哔哩_bilibili.md",
+    "Watch It Later/Quicker动作制作：自定义Zotero标注到Obsidian_哔哩哔哩_bilibili.md",
+    "Watch It Later/zotero+quicker 一键引用和同步文件夹及PDF文件_哔哩哔哩_bilibili.md",
+    "Watch It Later/Windows上的zotero最强辅助软件：Quicker！_哔哩哔哩_bilibili.md",
+    "Watch It Later/这款游戏告诉你，为什么游戏能被称为“第九艺术”（艾迪芬奇的记忆）〖游戏不止〗_哔哩哔哩_bilibili.md",
+    "Watch It Later/外设购买建议之撕膜要注意 七天无理由哦_哔哩哔哩_bilibili.md",
+    "Watch It Later/Zotero坚果云无限扩展文献存储空间_哔哩哔哩_bilibili.md",
+    "Watch It Later/从违章扩建到非法理线，现役大二教你如何让宿舍桌面从狗窝变别墅_哔哩哔哩_bilibili.md",
+    "Watch It Later/【机器学习】白板推导系列(三十二) ～ 变分自编码器(VAE)_哔哩哔哩_bilibili.md",
+    "Watch It Later/超常刺激（修订版）_哔哩哔哩_bilibili.md",
+    "Watch It Later/能用人工智能的阅读软件？Readwise Reader 太强大了 附使用教程_哔哩哔哩_bilibili.md",
+    "Watch It Later/如何让 AIPC 帮你「摸鱼」？带着宏碁非凡 GO Pro AI 逃离办公室？！_哔哩哔哩_bilibili.md",
+    "Watch It Later/【免费开源】安卓平板变身Stream Deck  十分钟入门_哔哩哔哩_bilibili.md",
+    "Watch It Later/【技巧】OBS设置多个转场 免费转场分享 不同场景独占转场_哔哩哔哩_bilibili.md",
+    "Watch It Later/【OBS】 背景音乐让道人声，说话时BGM自动变小声_哔哩哔哩_bilibili.md",
+    "Watch It Later/万字测评！18个主流大模型深度评测，读懂AI现状【深度模评03】_哔哩哔哩_bilibili.md",
+    "Watch It Later/985学姐私藏的学习好物，自律高效的秘密｜自律神器｜文具分享｜宝藏app_哔哩哔哩_bilibili.md",
+    "Watch It Later/杜绝熬夜刷手机的方法（实践有效）_哔哩哔哩_bilibili.md",
+    "Watch It Later/University Move in Vlog  Med School orientation.md",
+    "Watch It Later/【桌面好物】我又给桌面换了哪些好玩意儿？_哔哩哔哩_bilibili.md",
+    "Watch It Later/【磁吸好物】￥5～300！我又发现了6个数码生活磁吸小玩意儿？_哔哩哔哩_bilibili.md",
     "Watch It Later/【春之篇】立春_哔哩哔哩_bilibili.md",
-    "Watch It Later/公元1013年：明知宦官里有小人，为何非用不可？_哔哩哔哩_bilibili.md",
-    "Watch It Later/高市早苗，玩火自焚_哔哩哔哩_bilibili.md",
-    "Watch It Later/女性健身相关，讲些真话 讲些实话_哔哩哔哩_bilibili.md",
-    "Watch It Later/很瘦的男生，怎么练出胸肌丨瘦子怎么练显壮（二）【卓叔】_哔哩哔哩_bilibili.md",
-    "Watch It Later/不要再催了！你们要的DIY无线充电桌垫教程来了…_哔哩哔哩_bilibili.md",
-    "Watch It Later/像word一样在侧边添加批注💬升级版➕_哔哩哔哩_bilibili.md",
-    "Watch It Later/希望刘德华和吴彦祖不要看到_哔哩哔哩_bilibili.md",
+    "Watch It Later/首次探访！NBA球员的健身房长什么样？(竖屏)_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/attachments/f58927b2b3df7ec1a0636196d2f1138d_MD5.png",
     "Watch It Later/attachments/f002c9fe5fcc8c1758392dc3033f96cb_MD5.png",

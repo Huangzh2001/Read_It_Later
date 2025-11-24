@@ -7,7 +7,7 @@ status:
 - [Skip to main content](https://www.thewindowsclub.com/#genesis-content)
 - [Skip to primary sidebar](https://www.thewindowsclub.com/#genesis-sidebar-primary)
 
-[![TheWindowsClub](https://www.thewindowsclub.com/wp-content/uploads/2021/03/logo.svg)](https://www.thewindowsclub.com/)
+[![[Read It Later/attachments/f268b4725cc13f00e0a8ebf2f8bd3d8b_MD5.svg]]](https://www.thewindowsclub.com/)
 
 The Windows Club
 
@@ -33,7 +33,7 @@ TheWindowsClub covers authentic Windows 11, Windows 10 tips, tutorials, how-to's
 
 In this post, we will show you **how to make Windows 11 look like Vista with Aero Glass UI**. In the [history of Microsoft Windows](https://www.thewindowsclub.com/history-of-windows), Windows Vista was a successor to Windows XP, introduced in 2007. While the OS was criticized for performance related issues, compatibility issues, etc., it does bring some exciting features including visually appealing interface, aero glass design or *glass effects of Windows Aero*, smooth animations, security features like *BitLocker* and UAC (User Account Control), *Windows Sidebar* (or Windows Desktop Gadgets), enhanced File Explorer, and more. For those who want to relive the experience and like to *transform their Windows 11 PC to Windows Vista*, this post is handy.
 
-![make windows 11 like vista](https://www.thewindowsclub.com/wp-content/uploads/2025/06/make-windows-11-like-vista.png "make windows 11 like vista")
+![[Read It Later/attachments/c8bcd3c972c28b27fbe2ed2c132645a6_MD5.png]]
 
 From the desktop, Start menu, taskbar, Desktop Gadgets, etc., you will be able to enjoy Windows Vista features on Windows 11 with an easy process. However, it is advisable to [create a system restore point](https://www.thewindowsclub.com/create-system-restore-point) before making any changes, or try it on a virtual machine first (in case of doubt).
 
@@ -56,7 +56,7 @@ Here is a list of actions to perform to *make Windows 11 look like Vista with Ae
 
 #### 1\] Change Windows 11 Taskbar to look like Windows Vista Taskbar
 
-![vista taskbar windows 11 retrobar](https://www.thewindowsclub.com/wp-content/uploads/2025/06/vista-taskbar-windows-11-retrobar.png "vista taskbar windows 11 retrobar")
+![[Read It Later/attachments/ad326a169b2afd39441451f51a92a324_MD5.png]]
 
 To make Windows 11’s taskbar look like Windows Vista, you can use this open-source tool called [RetroBar](https://www.thewindowsclub.com/how-to-get-classic-taskbar-in-windows-10-using-retrobar). It is available in portable and installer versions and lets you change the taskbar appearance to *Windows Vista Basic*, *Windows Vista Classic*, *Windows XP Classic*, *Windows XP Blue*, *Windows 95-98*, etc.
 
@@ -79,7 +79,7 @@ To undo the changes, right-click on the taskbar and select the **Exit RetroBar**
 
 #### 2\] Replace Windows 11 Start menu with Windows Vista Start menu
 
-![add vista start menu open shell](https://www.thewindowsclub.com/wp-content/uploads/2025/06/add-vista-start-menu-openshell.png "add vista start menu open shell")
+![[Read It Later/attachments/a9e3ddd84b90964ebe643358b61da5f1_MD5.png]]
 
 After we have changed the Windows 11 taskbar to Vista, let’s replace the Windows 11 Start menu with the Windows Vista Start menu. For this, we will use an open-source tool called **Open-Shell**. It’s a collection of utilities to bring back classic features. We will also need a *Vistalike* Start menu theme file. The steps to *add the Windows Vista Start menu in Windows 11* are as follows:
 
@@ -100,7 +100,7 @@ The output looks almost identical to Windows Vista Start menu (in looks as well 
 
 #### 3\] Add Windows Vista’s Aero Glass effects
 
-![windows vista aero glass effect](https://www.thewindowsclub.com/wp-content/uploads/2025/06/windows-vista-aero-glass-effect.png "windows vista aero glass effect")
+![[Read It Later/attachments/f0f494ca338bc00058aa930fb0b5c222_MD5.png]]
 
 Windows Vista’s **Aero Glass** feature, which shows glass-like window borders and translucent title bars on windows like Notepad, File Explorer, folders, etc., is one of the interesting features that we miss in Windows 11. Even Apple’s **Liquid Glass** design introduced in *iOS 26* looks similar to the Aero interface of Vista OS, but we don’t have it on Windows 11 as it is not supported. Still, there’s a way to *add the Windows Vista Aero Glass effects in Windows 11* using a third-party tool named **DWMBlurGlass**. Here are the steps:
 
@@ -123,7 +123,7 @@ This tool is pretty awesome, but it doesn’t work on the Start menu and Taskbar
 
 #### 4\] Add Windows Vista Sidebar and Desktop Gadgets to Windows 11
 
-![windows vista sidebar desktop gadgets](https://www.thewindowsclub.com/wp-content/uploads/2025/09/8GadgetPack.png "windows vista sidebar desktop gadgets")
+![[Read It Later/attachments/ec588cb8281d32edde321257c87596f4_MD5.png]]
 
 To *add Windows Vista Sidebar and desktop gadgets* to your Windows 11 PC, you can use a free software called **GadgetPack** (formerly [8GadgetPack](https://www.thewindowsclub.com/desktop-gadgets-windows-8)). This tool brings *30+ gadgets* (including *Analog Clock*, old Sticky Notes, Calendar, etc.) and a *sidebar* that emulates the sidebar of Vista. You can also hide the sidebar separately and show only desktop gadgets.
 
@@ -141,7 +141,7 @@ To get the Windows Vista default and customized wallpapers in HD quality, you ca
 
 #### 6\] Add Windows Vista cursors, sounds, and icons to Windows 11
 
-![add vista cursors sounds icons](https://www.thewindowsclub.com/wp-content/uploads/2025/06/add-vista-cursors-sounds-icons.png "add vista cursors sounds icons")
+![[Read It Later/attachments/4752e30004d4865adb68ea502c5f404a_MD5.png]]
 
 To *make Windows 11 look as well as feel like Windows Vista*, the cursors, sounds, and icons play a vital role. You can get all the related cursors, sounds, etc., from this [GitHub page](https://github.com/bartekl1/WindowsResources). From this page, you can download a pack of wallpapers, cursors, icons, and sounds in a ZIP file for Windows Vista, Windows 7, etc. Extract that file and access the *Windows Vista* folder, which contains sub-folders for Cursors (**\*.cur**), Sounds (**\*.wav**), Wallpapers, and Icons (**\*.ico**).
 
@@ -171,15 +171,15 @@ Updated on **June 14, 2025**Tags: [Customize](https://www.thewindowsclub.com/tag
 
 ### Related Posts
 
-[![Customize message for Access Denied errors Group Policy](https://www.thewindowsclub.com/wp-content/uploads/2020/12/Customize-message-for-Access-Denied-errors-Group-Policy-701x440.jpg)](https://www.thewindowsclub.com/customize-access-denied-message-on-windows-10)
+[![[Read It Later/attachments/b3995a102a386fa230f54b08417c1f2f_MD5.jpg]]](https://www.thewindowsclub.com/customize-access-denied-message-on-windows-10)
 
 ## [How to customize Access Denied error message on Windows 11](https://www.thewindowsclub.com/customize-access-denied-message-on-windows-10)
 
-[![How to change taskbar color without changing start screen color](https://www.thewindowsclub.com/wp-content/uploads/2016/11/Colored-Taskbar-Default-Start-Screen.png)](https://www.thewindowsclub.com/change-taskbar-color-without-changing-start-screen-color)
+[![[Read It Later/attachments/feb0fb2d91c96641c1155e3fbbfb2b5f_MD5.png]]](https://www.thewindowsclub.com/change-taskbar-color-without-changing-start-screen-color)
 
 ## [Change Taskbar color without changing Start color in Windows 11/10](https://www.thewindowsclub.com/change-taskbar-color-without-changing-start-screen-color)
 
-[![Toggle Accent Color Windows 11 Regedit](https://www.thewindowsclub.com/wp-content/uploads/2021/10/Toggle-Accent-Color-Windows-11-Regedit.png)](https://www.thewindowsclub.com/turn-accent-color-on-or-off-start-menu-taskbar-in-windows)
+[![[Read It Later/attachments/eb09445acdea51648fb30e41e49aa9d8_MD5.png]]](https://www.thewindowsclub.com/turn-accent-color-on-or-off-start-menu-taskbar-in-windows)
 
 ## [Turn Accent Color On or Off for Start Menu and Taskbar in Windows 11](https://www.thewindowsclub.com/turn-accent-color-on-or-off-start-menu-taskbar-in-windows)
 
@@ -191,20 +191,20 @@ Laxman has done Bachelor's in Computer Science, followed by an MBA. Writing abou
 
 ## Primary Sidebar
 
-- [![Twitter](https://www.thewindowsclub.com/wp-content/themes/the-windows-club/images/x.svg)](https://twitter.com/TheWindowsClub)
-	- [![RSS](https://www.thewindowsclub.com/wp-content/themes/the-windows-club/images/rss.svg)](http://feeds.feedburner.com/TheWindowsClub)
-	- [![YouTube](https://www.thewindowsclub.com/wp-content/themes/the-windows-club/images/youtube.svg)](https://www.youtube.com/c/TheWindowsClubVideos?sub_confirmation=1)
-	- [![Connect](https://www.thewindowsclub.com/wp-content/themes/the-windows-club/images/link.svg)](https://www.thewindowsclub.com/connect-windows-club)
+- [![[Read It Later/attachments/c72d8e3f0c5c6b09e0ec808f63ec7b1e_MD5.svg]]](https://twitter.com/TheWindowsClub)
+	- [![[Read It Later/attachments/b3036c85b35424604f4a7d65923364b2_MD5.svg]]](http://feeds.feedburner.com/TheWindowsClub)
+	- [![[Read It Later/attachments/3a08f8ef05bcced9b07ca77f0ea878e4_MD5.svg]]](https://www.youtube.com/c/TheWindowsClubVideos?sub_confirmation=1)
+	- [![[Read It Later/attachments/329efb01300e2aa36b4a7c9db4325ca0_MD5.svg]]](https://www.thewindowsclub.com/connect-windows-club)
 
 ### Latest Reviews
 
-[![](https://reviews.thewindowsclub.com/wp-content/uploads/2025/11/Kara-Video-Ai-Animation.png)](https://reviews.thewindowsclub.com/karavideo-ai-review/)
+[![[Read It Later/attachments/35abfea85bb61cc8f3f220899926e0ea_MD5.png]]](https://reviews.thewindowsclub.com/karavideo-ai-review/)
 
 November 5, 2025
 
 ## [KaraVideo.ai Review 2025: Transform Photos and Text into Stunning AI Videos in Seconds](https://reviews.thewindowsclub.com/karavideo-ai-review/)
 
-[![](https://reviews.thewindowsclub.com/wp-content/uploads/2025/10/flowithos.jpg)](https://reviews.thewindowsclub.com/flowithos-review-ai-agent-operating-system/)
+[![[Read It Later/attachments/693c0e1952da3450df1633ceb0c23dcf_MD5.jpg]]](https://reviews.thewindowsclub.com/flowithos-review-ai-agent-operating-system/)
 
 October 31, 2025
 
@@ -212,13 +212,13 @@ October 31, 2025
 
 ### Latest News
 
-[![](https://news.thewindowsclub.com/wp-content/uploads/2025/10/File-Explorer-automatically-disable-preview-feature.png)](https://news.thewindowsclub.com/file-explorer-will-now-automatically-disable-the-preview-feature-109032/)
+[![[Read It Later/attachments/cb5e8cea844de9cf3d14d15733f9d47d_MD5.png]]](https://news.thewindowsclub.com/file-explorer-will-now-automatically-disable-the-preview-feature-109032/)
 
 October 25, 2025
 
 ## [File Explorer will now automatically disable the Preview feature](https://news.thewindowsclub.com/file-explorer-will-now-automatically-disable-the-preview-feature-109032/)
 
-[![](https://news.thewindowsclub.com/wp-content/uploads/2025/10/Microsoft-transforming-Windows-PC-into-AI-PC.png)](https://news.thewindowsclub.com/microsoft-is-transforming-every-windows-11-pc-into-an-ai-pc-109020/)
+[![[Read It Later/attachments/8c94515f228ce2ea39fe1b8c024247bd_MD5.png]]](https://news.thewindowsclub.com/microsoft-is-transforming-every-windows-11-pc-into-an-ai-pc-109020/)
 
 October 17, 2025
 

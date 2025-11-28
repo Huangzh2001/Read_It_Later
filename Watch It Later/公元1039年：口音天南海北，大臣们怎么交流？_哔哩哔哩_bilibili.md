@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1FF68YoEKB/?vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-11-27T22:09:17+08:00
 ---
 ![公元1039年：口音天南海北，大臣们怎么交流？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FF68YoEKB/?vd_source=06168f390bae49c4867767c52a20e87c)

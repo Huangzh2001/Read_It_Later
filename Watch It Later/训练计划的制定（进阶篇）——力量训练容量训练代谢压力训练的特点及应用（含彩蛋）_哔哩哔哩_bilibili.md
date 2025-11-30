@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1a64y1d7dv/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: readed
+status: Unsorted
 date: 2025-11-30T10:39:23+08:00
 ---
 ![训练计划的制定（进阶篇）——力量训练/容量训练/代谢压力训练的特点及应用（含彩蛋）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a64y1d7dv/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)

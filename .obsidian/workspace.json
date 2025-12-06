@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "【手托全方位硬核科普第三期】手托横评全系列全材质冰手闷汗坡度异味科普_哔哩哔哩_bilibili"
             }
+          },
+          {
+            "id": "d1de57895a8d290f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/《文明之旅》公元1067年完整版正片：欧阳修为何不朽？_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《文明之旅》公元1067年完整版正片：欧阳修为何不朽？_哔哩哔哩_bilibili"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -227,10 +243,12 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "b350c4daafec0ddb",
+  "active": "d1de57895a8d290f",
   "lastOpenFiles": [
-    "Watch It Later/【手托全方位硬核科普第二期】软硬材质手托的适用环境和优缺点_哔哩哔哩_bilibili.md",
+    "Read It Later/(99+ 封私信  93 条消息) 家族中什么样的人能让家族一步一步兴旺？ - 知乎.md",
+    "Watch It Later/《文明之旅》公元1067年完整版正片：欧阳修为何不朽？_哔哩哔哩_bilibili.md",
     "Watch It Later/【手托全方位硬核科普第三期】手托横评全系列全材质冰手闷汗坡度异味科普_哔哩哔哩_bilibili.md",
+    "Watch It Later/【手托全方位硬核科普第二期】软硬材质手托的适用环境和优缺点_哔哩哔哩_bilibili.md",
     "Watch It Later/【手托全方位硬核科普第一期】手疼原因解析，买手托需求结构，坐姿矫正等_哔哩哔哩_bilibili.md",
     "Watch It Later/公元1051年：宋朝为什么会人口大爆炸？_哔哩哔哩_bilibili.md",
     "Watch It Later/5年了!专利还在卡脖子2025年了为什么华为没有磁吸环？_哔哩哔哩_bilibili.md",
@@ -265,8 +283,6 @@
     "Watch It Later/《文明之旅》公元1064年完整版正片：人如何面对日常性疼痛？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-12-05_19-43-46.md",
     "Watch It Later/《文明之旅》公元1063年完整版正片：宋仁宗是个没主见的仁君吗？_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-12-05_11-29-29.md",
-    "Watch It Later/EDC入门级玩具推荐，17件，均价10几元，不知道EDC是什么，该如何选择，看这个就够了_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

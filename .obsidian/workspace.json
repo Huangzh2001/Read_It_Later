@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b350c4daafec0ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/【手托全方位硬核科普第三期】手托横评全系列全材质冰手闷汗坡度异味科普_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【手托全方位硬核科普第三期】手托横评全系列全材质冰手闷汗坡度异味科普_哔哩哔哩_bilibili"
-            }
-          },
-          {
             "id": "d1de57895a8d290f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/上科技 不想扎针、口服药有效吗？_哔哩哔哩_bilibili.md",
+                "file": "Read It Later/痔疮肉球怎样消除？教你四个不手术自愈痔疮的小窍门，消痔去无忧！​.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "上科技 不想扎针、口服药有效吗？_哔哩哔哩_bilibili"
+              "title": "痔疮肉球怎样消除？教你四个不手术自愈痔疮的小窍门，消痔去无忧！​"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,8 +229,21 @@
   },
   "active": "d1de57895a8d290f",
   "lastOpenFiles": [
-    "Watch It Later/抗痔三年过来人！说说是怎样消掉痔疮肉球的_哔哩哔哩_bilibili.md",
+    "Read It Later/attachments/b49b451512aae26e7246bd209c7d0542_MD5.jpg",
+    "Read It Later/attachments/98981aa11535075287c3a014bbb6d7e8_MD5.jpg",
+    "Read It Later/attachments/a801c85615be545303c43cec8b6d34fb_MD5.jpg",
+    "Read It Later/attachments/d00a2f70287cd107ee195c4416d82925_MD5.jpg",
+    "Read It Later/attachments/cb011fcc6b386bdd67c0656c3b220a3e_MD5.jpg",
+    "Read It Later/attachments/8c57ce3aa95aaaf03857869a53a5fa74_MD5.jpg",
+    "Read It Later/attachments/25b7c9f30bb5b801d204adf777664078_MD5.jpg",
+    "Read It Later/attachments/e1953498e29de2471835d08f83594485_MD5.jpg",
+    "Read It Later/attachments/3f4a5038296e53e9a5e73284b184fabf_MD5.jpg",
+    "Read It Later/attachments/8d79b93f8ecd517f48056120189034a3_MD5.jpg",
+    "Read It Later/attachments/a42dc1012fd2e7ed5d2c6aef272738d4_MD5.jpg",
+    "utils/obsidian-urls/logs/2025-12-08_21-53-49.md",
     "Watch It Later/上科技 不想扎针、口服药有效吗？_哔哩哔哩_bilibili.md",
+    "Read It Later/痔疮肉球怎样消除？教你四个不手术自愈痔疮的小窍门，消痔去无忧！​.md",
+    "Watch It Later/抗痔三年过来人！说说是怎样消掉痔疮肉球的_哔哩哔哩_bilibili.md",
     "Watch It Later/痔疮患者爱健身，不能过度使用腹压，只会越来越严重_哔哩哔哩_bilibili.md",
     "Read It Later/为什么有的人很聪明，可就是一事无成呢？ - Invalid user 的回答.md",
     "正在读&正在看.md",
@@ -269,20 +267,7 @@
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/logs/2025-12-08_09-33-03.md",
     "Watch It Later/DP104，输入体验接近完美，但。。。_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-12-07_23-16-55.md",
-    "Watch It Later/渴创Z6Ultra，全尺寸铝坨坨，既卷性能，又卷价格_哔哩哔哩_bilibili.md",
-    "Watch It Later/DP104，输入体验接近完美，但。。。_哔哩哔哩_bilibili 1.md",
     "Clippings/sync.ffs_db.7713.ffs_tmp",
-    "Watch It Later/attachments/3344666838a05b41bcb0e7d61cb0eca6_MD5.png",
-    "Watch It Later/attachments/677f3cf14123aa4cf7189290a0e4175d_MD5.png",
-    "Watch It Later/attachments/65f15dd09a886ecdc44ef0d4d6d096f4_MD5.png",
-    "Watch It Later/attachments/466adcc7ebdb37fb158bb05972fc4b26_MD5.png",
-    "Watch It Later/attachments/628f4373a7d1846440217567d8a16314_MD5.png",
-    "Watch It Later/attachments/f6bcb2e43b23b58929e76562129bc1a9_MD5.png",
-    "Watch It Later/attachments/879c0b1760320f31e5a132c170791bad_MD5.png",
-    "Watch It Later/attachments/c66889c0a5594872d68116cf3af7afc3_MD5.jpg",
-    "Watch It Later/attachments/bc26fd2bbdb7ea079850dd2ba6545c00_MD5.jpg",
-    "Watch It Later/attachments/d1faa53f669070430133be1aeb2f64e9_MD5.jpg",
     "Clippings/sync.ffs_db.6dd9.ffs_tmp",
     "Clippings/sync.ffs_db.7aca.ffs_tmp",
     "Read It Later/Omnivore/Obsidian 中图片加说明文字 image caption - 知乎/attachments",

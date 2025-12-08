@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -245,6 +244,7 @@
   },
   "active": "d1de57895a8d290f",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2025-12-08_17-16-11.md",
     "Watch It Later/锂电池充电的同时也能放电吗_哔哩哔哩_bilibili.md",
     "Watch It Later/手机充电电池真能充电的同时放电吗？用这个电路给大家讲明白_哔哩哔哩_bilibili.md",
     "Watch It Later/锐评华为二合一：发现Windows打不过之后，华为决定调转炮口痛击iPad。。。【X.PIN】_哔哩哔哩_bilibili.md",
@@ -272,7 +272,6 @@
     "Watch It Later/御斧归来！千元档满配磁轴键盘 定制方案 定制烈焰灰万磁王 御斧E75上手体验分享_哔哩哔哩_bilibili.md",
     "Watch It Later/顶级80键盘套件盘点 你最Pick谁？_哔哩哔哩_bilibili.md",
     "Watch It Later/4亿中老年人，正被短视频围猎！真相远比想象更可怕_哔哩哔哩_bilibili.md",
-    "Watch It Later/顶级80键盘套件盘点 你最Pick谁？_哔哩哔哩_bilibili 1.md",
     "Clippings/sync.ffs_db.7713.ffs_tmp",
     "Watch It Later/attachments/3344666838a05b41bcb0e7d61cb0eca6_MD5.png",
     "Watch It Later/attachments/677f3cf14123aa4cf7189290a0e4175d_MD5.png",

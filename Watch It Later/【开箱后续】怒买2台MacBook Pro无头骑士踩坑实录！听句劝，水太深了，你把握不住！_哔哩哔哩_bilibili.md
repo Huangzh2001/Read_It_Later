@@ -5,6 +5,7 @@ tags:
 status: readed
 date: 2025-12-14T14:13:01+08:00
 ---
+
 ![【开箱后续】怒买2台MacBook Pro无头骑士踩坑实录！听句劝，水太深了，你把握不住！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ju411K7ni/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)
 【开箱后续】怒买2台MacBook Pro无头骑士踩坑实录！听句劝，水太深了，你把握不住！
 https://www.bilibili.com/video/BV1Ju411K7ni/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c

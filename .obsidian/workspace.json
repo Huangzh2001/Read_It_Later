@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1de57895a8d290f",
+            "id": "af2eb5ef10fc6e13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/Apple Design The Post-Ive Era.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Apple Design The Post-Ive Era"
+              "title": "新标签页"
             }
           }
         ]
@@ -227,10 +223,13 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "d1de57895a8d290f",
+  "active": "af2eb5ef10fc6e13",
   "lastOpenFiles": [
-    "Watch It Later/Apple Design Welcome back, Skeumorphism.md",
+    "Watch It Later/拯救中国前，教员如何走出人生的“至暗时刻”？【毒舌的南瓜】_哔哩哔哩_bilibili.md",
+    "Watch It Later/米饭仙人，为什么吃不胖！？_哔哩哔哩_bilibili.md",
+    "Watch It Later/【合集】鼠标到底能有多便携？-山业便携鼠标全分享_哔哩哔哩_bilibili.md",
     "Watch It Later/Apple Design The Post-Ive Era.md",
+    "Watch It Later/Apple Design Welcome back, Skeumorphism.md",
     "Watch It Later/The 1956 invention that defined modern web design.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-12-15_12-41-31.md",
@@ -254,9 +253,6 @@
     "Watch It Later/《文明之旅》公元1055年完整版正片：欧阳修为什么要禁书？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2025-12-14_10-08-52.md",
     "Watch It Later/neo75，最新史作，一分钟锐评_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2025-12-13_19-18-04.md",
-    "utils/obsidian-urls/logs/2025-12-13_00-34-25.md",
-    "utils/obsidian-urls/logs/2025-12-13_00-00-12.md",
     "Read It Later/attachments/bbebca687f96e59004890ba321a5dd00_MD5.jpg",
     "Read It Later/attachments/f497c50941c49b2defef61910f581243_MD5.jpg",
     "Read It Later/attachments/bac7b8d126be199843c702d16560cad7_MD5.png",

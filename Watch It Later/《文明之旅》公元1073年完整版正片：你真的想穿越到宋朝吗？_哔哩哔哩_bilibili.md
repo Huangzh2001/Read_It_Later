@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1AQvPzoEJL/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-12-14T23:39:42+08:00
 ---
 ![《文明之旅》公元1073年完整版正片：你真的想穿越到宋朝吗？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1AQvPzoEJL/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c)

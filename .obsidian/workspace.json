@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -81,8 +81,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
-              "title": "笔记本导航器"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -98,8 +98,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -186,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -196,8 +196,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -210,26 +210,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作区布局": false,
-      "cmdr:打开设置": false,
-      "bases:创建新数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "copilot:Open Copilot Chat": false,
+      "cmdr:打开设置": false,
       "float-search:Search obsidian in modal view": false,
-      "notebook-navigator:笔记本导航器": false,
+      "notebook-navigator:Notebook Navigator": false,
       "media-extended:Open external media": false
     }
   },
   "active": "8fdccf6e37a9205d",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2025-12-23_21-24-29.md",
     "Watch It Later/1000天后的世界_哔哩哔哩_bilibili.md",
     "Watch It Later/为什么你听了很多「得到APP」的课程，还是什么都不会？_哔哩哔哩_bilibili.md",
     "Watch It Later/《文明之旅》公元1073年完整版正片：你真的想穿越到宋朝吗？_哔哩哔哩_bilibili.md",
@@ -256,7 +257,6 @@
     "Watch It Later/过去的奇幻游戏世界_哔哩哔哩bilibili.md",
     "Watch It Later/这一年，我们在B站看了些啥？_哔哩哔哩_bilibili.md",
     "Watch It Later/千万粉丝车评人陈震被封_哔哩哔哩_bilibili.md",
-    "Watch It Later/Upgrading My Desk With 3D Printing.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/attachments/a5eadc2a068e2a9bace10f4a914e3215_MD5.png",

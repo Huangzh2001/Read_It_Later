@@ -45,7 +45,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
-    "collapsed": true
+    "width": 470.5
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -230,6 +229,7 @@
   },
   "active": "8fdccf6e37a9205d",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2025-12-23_21-24-29.md",
     "Watch It Later/1000天后的世界_哔哩哔哩_bilibili.md",
     "Watch It Later/为什么你听了很多「得到APP」的课程，还是什么都不会？_哔哩哔哩_bilibili.md",
@@ -256,9 +256,7 @@
     "Watch It Later/要是拥有十二符咒能不能安全走出寂静岭_哔哩哔哩_bilibili.md",
     "Watch It Later/过去的奇幻游戏世界_哔哩哔哩bilibili.md",
     "Watch It Later/这一年，我们在B站看了些啥？_哔哩哔哩_bilibili.md",
-    "Watch It Later/千万粉丝车评人陈震被封_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/attachments/a5eadc2a068e2a9bace10f4a914e3215_MD5.png",
     "Watch It Later/attachments/5adedf2ac47afe25f8786c86b3188a8c_MD5.png",
     "Watch It Later/attachments/1953b89ebae659f41d6bfeea27aa5a72_MD5.png",

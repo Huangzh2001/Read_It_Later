@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV11i4y1L7QQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: readed
+status: reading
 date: 2025-12-27T10:00:09+08:00
 ---
 ![苏联为何而强大？【小约翰】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11i4y1L7QQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=06168f390bae49c4867767c52a20e87c)

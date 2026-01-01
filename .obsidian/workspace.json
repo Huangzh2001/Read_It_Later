@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/《文明之旅》公元1091年完整版正片：一本书怎么解决工程难题？_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/工业克苏鲁是什么意思？中国工业发展到什么地步才算到头？_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《文明之旅》公元1091年完整版正片：一本书怎么解决工程难题？_哔哩哔哩_bilibili"
+              "title": "工业克苏鲁是什么意思？中国工业发展到什么地步才算到头？_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 470.5,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -229,6 +230,9 @@
   },
   "active": "68b2e4733de3b0aa",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2026-01-01_23-28-01.md",
+    "Watch It Later/《文明之旅》公元1091年完整版正片：一本书怎么解决工程难题？_哔哩哔哩_bilibili.md",
+    "Watch It Later/工业克苏鲁是什么意思？中国工业发展到什么地步才算到头？_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/379c67bf7e9656b31819ba227b84c5f6_MD5.png",
     "Watch It Later/attachments/e3de473671cdad14d06dcb3bd1c38416_MD5.png",
     "Watch It Later/attachments/1c2042d6cedb2908c2083b80adda705f_MD5.png",
@@ -239,9 +243,7 @@
     "Watch It Later/attachments/9fef68427d460a0f58f3d0802d8e3d2f_MD5.png",
     "Watch It Later/attachments/95ed5f65ecb29f08633c62276c90adec_MD5.png",
     "Watch It Later/attachments/61d0ee4de2db2d90ebb851683c698c8b_MD5.png",
-    "Watch It Later/attachments/53bc40886862382a7647f995d70f2919_MD5.png",
     "Watch It Later/科研好物@Multrin_哔哩哔哩_bilibili.md",
-    "Watch It Later/《文明之旅》公元1091年完整版正片：一本书怎么解决工程难题？_哔哩哔哩_bilibili.md",
     "Watch It Later/「白问」电脑需要每天都关机吗？_哔哩哔哩_bilibili 1.md",
     "Watch It Later/通过Copy Block Link插件在Obsidian中实现快速块引用_哔哩哔哩_bilibili.md",
     "Watch It Later/微软便笺  系统自带超好用的便笺工具。_哔哩哔哩_bilibili.md",
@@ -264,7 +266,6 @@
     "Watch It Later/为什么说人类的直立行走是个草台班子方案_哔哩哔哩_bilibili.md",
     "Watch It Later/【鬼谷闲谈】大蒜：在祛病和驱魔中选择了去腥_哔哩哔哩_bilibili.md",
     "Watch It Later/【数学自学指南】写作的好处_哔哩哔哩_bilibili.md",
-    "Watch It Later/计算机学不下去的时候，看看这个，翁凯老师真的说的很对_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "Clippings/sync.ffs_lock",
     "Watch It Later/attachments/pathway_map.pkl",

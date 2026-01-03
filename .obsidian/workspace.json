@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04ab762f706149ee",
+        "id": "906be012cd95052f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8271300a5edd78d",
+            "id": "b95348d17d60e4ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,8 +224,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "a8271300a5edd78d",
+  "active": "b95348d17d60e4ba",
   "lastOpenFiles": [
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2026-01-03_13-13-58.md",
     "utils/obsidian-urls/logs/2026-01-03_12-56-27.md",
     "Watch It Later/修复你的大脑，只需6步！——Iman Gadzhi【中英双语】_哔哩哔哩_bilibili.md",
     "Watch It Later/三个步骤即可在家打造一台完全复古风小电视【1984】_哔哩哔哩_bilibili.md",
@@ -257,9 +259,6 @@
     "Watch It Later/动作演员文戏天花板！成龙经典“哭戏”演技封神时刻_哔哩哔哩_bilibili.md",
     "Watch It Later/阴影投射：当你彻底觉醒后，这5件事打死也不能说！——卡尔·荣格_哔哩哔哩_bilibili.md",
     "Watch It Later/开心元元隐藏女装视频：走近男娘神秘“性癖”【月鸽说】_哔哩哔哩_bilibili.md",
-    "Watch It Later/【10月】中国在海外十大最火的相关内容（事件）&ep.2_哔哩哔哩_bilibili.md",
-    "Watch It Later/女装巨型吊牌：伪装经济条件的表演性行为是结婚化债的重要战术【月鸽说】_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
     "Watch It Later/attachments/379c67bf7e9656b31819ba227b84c5f6_MD5.png",
     "Watch It Later/attachments/e3de473671cdad14d06dcb3bd1c38416_MD5.png",
     "Watch It Later/attachments/1c2042d6cedb2908c2083b80adda705f_MD5.png",

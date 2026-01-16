@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1UKwGe5ETy/?vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: Unsorted
+status: readed
 date: 2025-12-16T11:05:42+08:00
 ---
 ![公元1046年：为什么宋朝越裁官越多？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UKwGe5ETy/?vd_source=06168f390bae49c4867767c52a20e87c)

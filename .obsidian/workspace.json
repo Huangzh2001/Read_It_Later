@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "516ddc499108d9d3",
+        "id": "f2fd034587ef253b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7cf9f87ce8fcd8",
+            "id": "467cc1bf7f639daa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/「键盘斗地主」Syrin TKL vs. Ayleen TKL vs. Haven TKL R2 自费横评_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "「键盘斗地主」Syrin TKL vs. Ayleen TKL vs. Haven TKL R2 自费横评_哔哩哔哩_bilibili"
-            }
-          },
-          {
-            "id": "0f1fa84f7863c422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/公元1016年：宋朝宰相官名为什么这么怪？_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "公元1016年：宋朝宰相官名为什么这么怪？_哔哩哔哩_bilibili"
+              "title": "新标签页"
             }
           }
         ]
@@ -200,8 +182,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -210,12 +192,12 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,12 +224,14 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "1b7cf9f87ce8fcd8",
+  "active": "467cc1bf7f639daa",
   "lastOpenFiles": [
-    "Watch It Later/《文明之旅》公元1080年完整版正片：头衔到底有什么意义？_哔哩哔哩_bilibili.md",
-    "Watch It Later/「键盘斗地主」Syrin TKL vs. Ayleen TKL vs. Haven TKL R2 自费横评_哔哩哔哩_bilibili.md",
-    "Clippings/sync.ffs_lock",
     "Watch It Later/公元1016年：宋朝宰相官名为什么这么怪？_哔哩哔哩_bilibili.md",
+    "Watch It Later/公元1049年：范仲淹家族信托何以持续900年？_哔哩哔哩_bilibili.md",
+    "Watch It Later/「键盘斗地主」Gok Type K vs. Matrix Faukwaa vs. QK DUO 自费购入使用体验分享_哔哩哔哩_bilibili.md",
+    "Watch It Later/「键盘斗地主」Syrin TKL vs. Ayleen TKL vs. Haven TKL R2 自费横评_哔哩哔哩_bilibili.md",
+    "Watch It Later/《文明之旅》公元1080年完整版正片：头衔到底有什么意义？_哔哩哔哩_bilibili.md",
+    "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2026-01-16_09-34-19.md",
     "Watch It Later/2025年，中国科技达到了什么临界点？_哔哩哔哩_bilibili.md",
@@ -270,8 +254,6 @@
     "Watch It Later/普京传（6）：加冕之后，帝国在海底沉没_哔哩哔哩_bilibili 1.md",
     "Watch It Later/打字音  捡破烂系列预告  230大米的fairy65 葵花黄  还是喜欢全面的甜腻腻捏_哔哩哔哩_bilibili.md",
     "Watch It Later/游戏里最不尊重生命的装备，却蕴含着对生命意义最深刻的思考_死亡搁浅_游戏解说.md",
-    "Watch It Later/259起  渐入佳境的 维咖Lucky65 V3  小毛病还有但是这次真的很棒  拆解测评_哔哩哔哩_bilibili 1.md",
-    "Watch It Later/几千人被困时空监狱，越狱后闯入未来，竟带来灭世级灾难【科幻Fans 布玛】《遗弃之地》_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/d1538604846857827e112829bf390c8e_MD5.jpg",
     "Watch It Later/attachments/6edde602f040bf37d67b6f2e235c736f_MD5.jpg",
     "Watch It Later/attachments/018ea075079251103707a9f2ea84233a_MD5.jpg",

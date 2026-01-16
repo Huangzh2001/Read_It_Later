@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1NK7VzBEj5/?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: readed
+status: Unsorted
 date: 2026-01-16T17:34:26+08:00
 ---
 ![年轻人的收入和时间，支撑不了劳动力再生产。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NK7VzBEj5/?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=06168f390bae49c4867767c52a20e87c)

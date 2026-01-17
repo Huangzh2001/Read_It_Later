@@ -1,11 +1,11 @@
 ---
-url: https://www.bilibili.com/video/BV1SZ4y1x7Ko?spm_id_from=333.788.videopod.sections&vd_source=06168f390bae49c4867767c52a20e87c
+url: https://www.bilibili.com/video/BV1bg4y1z7Nw?spm_id_from=333.788.videopod.sections&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
 status: readed
-date: 2026-01-17T09:07:24+08:00
+date: 2026-01-17T09:16:26+08:00
 ---
-![脑洞清奇科幻喜剧，女子和机器人恋爱，相处后竟发现它是酒鬼渣男！【科幻Fans】 美剧《奥维尔号》 S2E6_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1SZ4y1x7Ko?spm_id_from=333.788.videopod.sections&vd_source=06168f390bae49c4867767c52a20e87c)
+![震撼科幻大作，机械星球升起无数金属球，每颗都是毁灭地球的武器【科幻Fans】 科幻美剧《奥维尔号》S2E9_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bg4y1z7Nw?spm_id_from=333.788.videopod.sections&vd_source=06168f390bae49c4867767c52a20e87c)
 超重力星球上，引力是地球数倍，人类着陆就会被重力压扁！【科幻Fans】美剧《奥维尔号》第二季，第三集
 https://www.bilibili.com/video/BV1Bf4y1U7Fw/?spm_id_from=333.788.videopod.sections&vd_source=06168f390bae49c4867767c52a20e87c
 科幻Fans布玛 2020-04-06 15:29:36

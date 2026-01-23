@@ -35,7 +35,8 @@
               "title": "【适合小白】这是一堂极其克制的Obsidian主题的CSS美化课_哔哩哔哩_bilibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,8 +243,10 @@
       "media-extended:Open external media": false
     }
   },
-  "active": "467cc1bf7f639daa",
+  "active": "87d90947651bb2a8",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2026-01-23_09-09-12.md",
+    "Watch It Later/《文明之旅》公元1094年完整版正片：被操控的人生会有多少恨？_哔哩哔哩_bilibili.md",
     "Watch It Later/想要改变家族命运，张老师潸然泪下_哔哩哔哩_bilibili.md",
     "Watch It Later/【适合小白】这是一堂极其克制的Obsidian主题的CSS美化课_哔哩哔哩_bilibili.md",
     "Watch It Later/基于 Ollama 和 AnythingLLM 搭建 RAG 知识库_哔哩哔哩_bilibili.md",
@@ -268,8 +271,6 @@
     "Watch It Later/【医学博士】遗传性脱发真的没救了？I 每天洗头会导致脱发吗？I 脱发到这个程度就没救了..._哔哩哔哩_bilibili.md",
     "Watch It Later/如何可视化你的卡片式笔记网络？_哔哩哔哩_bilibili.md",
     "Watch It Later/量子态  第一章，量子力学原理_哔哩哔哩_bilibili.md",
-    "Watch It Later/13：小皇帝绑架事件_哔哩哔哩_bilibili.md",
-    "Watch It Later/12：要塞对要塞_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "Clippings/sync.ffs_db.6d81.ffs_tmp",
     "Clippings/sync.ffs_lock",

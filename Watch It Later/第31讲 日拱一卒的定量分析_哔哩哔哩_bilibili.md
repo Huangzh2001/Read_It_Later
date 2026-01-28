@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1MH4y197gE/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
   - video
-status: reading
+status: readed
 date: 2025-11-12T17:43:41+08:00
 ---
 ![第31讲 日拱一卒的定量分析_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MH4y197gE/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)

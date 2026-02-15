@@ -75,3 +75,10 @@ PKMer 2024-12-20 23:17:17
 02:27 多多支持
 
 --- 由 vCaptions 生成 ---
+
+
+- [[Watch It Later/attachments/Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT46.67S.webp|Open: Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT46.67S.webp]]
+![[Watch It Later/attachments/Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT46.67S.webp|Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭 - 00:46|500]] [00:46](https://www.bilibili.com/video/BV1NxkSYtEEH/?t=46.670154#t=46.67) 
+- 
+- [[Watch It Later/attachments/Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT49.6S.webp|Open: Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT49.6S.webp]]
+![[Watch It Later/attachments/Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭PT49.6S.webp|Obsidian 1.8 内测版 —— 来自 Obsidian 官方的圣诞礼物？Web Viewer 即将来袭 - 00:49|500]] [00:49](https://www.bilibili.com/video/BV1NxkSYtEEH/?t=49.60028#t=49.60) 

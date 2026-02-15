@@ -30,5 +30,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "media-extended:save-screenshot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }

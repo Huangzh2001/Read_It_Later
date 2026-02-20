@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV1vR8MzkE29/?spm_id_from=333.1007.top_right_bar_window_history.content.click
 tags:
   - video
-status: reading
+status: readed
 ---
 ![不吃早餐就去健身，身体会发生什么变化？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vR8MzkE29/?spm_id_from=333.1007.top_right_bar_window_history.content.click)
 不吃早餐就去健身，身体会发生什么变化？

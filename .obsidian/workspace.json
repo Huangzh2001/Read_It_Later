@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/当我把iPhone换成阔折叠_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/💪🏻B站版《健身新手的训练完全手册》™_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "当我把iPhone换成阔折叠_哔哩哔哩_bilibili"
+              "title": "💪🏻B站版《健身新手的训练完全手册》™_哔哩哔哩_bilibili"
+            }
+          },
+          {
+            "id": "57313ee085b50225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
-    "collapsed": true
+    "width": 470.5
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read It Later/If You Want to Be a Creator, Delete All (But Two) Social Media Platforms.md",
+                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "If You Want to Be a Creator, Delete All (But Two) Social Media Platforms 的反向链接列表"
+              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili 的反向链接列表"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watch It Later/一次性花五十万只为集齐所有顶ji的键盘套件，一个视频带你们看遍市面上几乎所有顶ji套件，视频有点长.md",
+                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "一次性花五十万只为集齐所有顶ji的键盘套件，一个视频带你们看遍市面上几乎所有顶ji套件，视频有点长 的出链列表"
+              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili 的出链列表"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/女白领被同事陷害，竟意外发现世界真相，当上宇宙女皇！【科幻Fans 布玛】《黑镜 第七季》之《眼中钉》_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "女白领被同事陷害，竟意外发现世界真相，当上宇宙女皇！【科幻Fans 布玛】《黑镜 第七季》之《眼中钉》_哔哩哔哩_bilibili 的大纲"
+              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili 的大纲"
             }
           },
           {
@@ -186,8 +200,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -196,12 +210,11 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,13 +241,14 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "7a8fc02cadf01d89",
+  "active": "57313ee085b50225",
   "lastOpenFiles": [
-    "utils/obsidian-urls/notes-with-excerpt.json",
+    "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
     "Watch It Later/💪🏻B站版《健身新手的训练完全手册》™_哔哩哔哩_bilibili.md",
-    "Watch It Later/当我把iPhone换成阔折叠_哔哩哔哩_bilibili.md",
-    "utils/obsidian-urls/logs/2026-02-26_22-34-47.md",
     "Watch It Later/三星 S26 Ultra 体验：全球首款防窥屏，四种模式实测！_哔哩哔哩_bilibili.md",
+    "Watch It Later/当我把iPhone换成阔折叠_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2026-02-26_22-34-47.md",
     "Watch It Later/筋膜松解到底对健身爱好者帮助大吗？还是智商税？_哔哩哔哩_bilibili.md",
     "Watch It Later/【生活化减脂减肥】从理论到案例 就吃食堂外卖✅_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2026-02-26_20-59-27.md",

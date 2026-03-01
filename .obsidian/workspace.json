@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/2026年，我用回了XP系统_哔哩哔哩_bilibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）_哔哩哔哩_bilibili"
+              "title": "2026年，我用回了XP系统_哔哩哔哩_bilibili"
             }
           }
         ],
@@ -224,6 +224,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "media-extended:Open media": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -232,7 +233,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
@@ -244,10 +244,16 @@
   },
   "active": "fdd319c345ea4ddf",
   "lastOpenFiles": [
-    "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/notes-with-excerpt.json",
-    "utils/obsidian-urls/logs/2026-03-01_09-40-15.md",
+    "utils/obsidian-urls/logs/2026-03-01_11-04-29.md",
     "Watch It Later/读书又不能赚钱，那么读书到底有什么用呢？_哔哩哔哩_bilibili.md",
+    "Watch It Later/2026年，我用回了XP系统_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/logs/2026-03-01_10-55-40.md",
+    "utils/obsidian-urls/logs/2026-03-01_10-52-38.md",
+    "Watch It Later/伊朗最高领袖哈梅内伊遇袭身亡_哔哩哔哩_bilibili.md",
+    "Watch It Later/【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）_哔哩哔哩_bilibili.md",
+    "Clippings/sync.ffs_lock",
+    "utils/obsidian-urls/logs/2026-03-01_09-40-15.md",
     "utils/obsidian-urls/logs/2026-02-28_23-24-40.md",
     "Watch It Later/青年大学习：什么是五险一金？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2026-02-28_22-45-44.md",
@@ -265,12 +271,6 @@
     "Watch It Later/毫无意义的健身六件事小白必看_哔哩哔哩_bilibili.md",
     "Watch It Later/每天喝无糖饮料的人都瘦了吗？_哔哩哔哩_bilibili.md",
     "Watch It Later/来看看同事们的升降桌_哔哩哔哩_bilibili.md",
-    "Watch It Later/⚡️别买普通升降桌！游戏党的物理外挂都藏在这张桌子里…_哔哩哔哩_bilibili.md",
-    "Watch It Later/手动升降桌亲身体验~75块和1000块的差别很大吗？_哔哩哔哩_bilibili.md",
-    "Watch It Later/刚买的升降桌，我退了！真的不好用！_哔哩哔哩_bilibili.md",
-    "Watch It Later/【每天走10000步】我的身体发生了什么变化!_哔哩哔哩_bilibili.md",
-    "Watch It Later/为什么我们会在光遇里患得患失？_光·遇.md",
-    "Watch It Later/为什么用减肥药的人越来越多？_哔哩哔哩_bilibili.md",
     "Watch It Later/attachments/16fee16b023eaf822f4a5c74923e8a66_MD5.png",
     "Watch It Later/attachments/【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）PT15M15.713S.webp",
     "attachments/【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）PT15M15.713S.webp",

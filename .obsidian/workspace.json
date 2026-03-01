@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "读书又不能赚钱，那么读书到底有什么用呢？_哔哩哔哩_bilibili"
             }
+          },
+          {
+            "id": "fdd319c345ea4ddf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,12 +238,13 @@
       "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "1a3696a38e839214",
+  "active": "6e398bba5a31d53e",
   "lastOpenFiles": [
-    "utils/obsidian-urls/logs/2026-02-28_23-24-40.md",
-    "Watch It Later/青年大学习：什么是五险一金？_哔哩哔哩_bilibili.md",
+    "utils/obsidian-urls/logs/2026-03-01_09-40-15.md",
     "Watch It Later/读书又不能赚钱，那么读书到底有什么用呢？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
+    "utils/obsidian-urls/logs/2026-02-28_23-24-40.md",
+    "Watch It Later/青年大学习：什么是五险一金？_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/logs/2026-02-28_22-45-44.md",
     "Watch It Later/女子误入诡异博物馆，一直走不出去，展品竟是自己尸体！【科幻Fans 布玛】《世界奇妙物语2025秋季特别篇》之《你的人生博物馆》_哔哩哔哩_bilibili.md",
     "Watch It Later/【同时玩五款二游】05：我选择离开崩铁_游戏杂谈.md",
@@ -255,7 +267,6 @@
     "Watch It Later/为什么我们会在光遇里患得患失？_光·遇.md",
     "Watch It Later/为什么用减肥药的人越来越多？_哔哩哔哩_bilibili.md",
     "Watch It Later/💪🏻B站版《健身解剖完全手册》™（第3集：练肩）_哔哩哔哩_bilibili.md",
-    "Watch It Later/你能撑得过五晚吗？《玩具熊》到底讲了什么？---怪侃第170期_哔哩哔哩bilibili_玩具熊的午夜后宫.md",
     "Clippings/sync.ffs_lock",
     "Watch It Later/attachments/16fee16b023eaf822f4a5c74923e8a66_MD5.png",
     "Watch It Later/attachments/【新】💪🏻B站版《健身解剖完全手册》™（第4集：练背）PT15M15.713S.webp",

@@ -1,10 +1,10 @@
 {
   "searchViewState": {
-    "collapseAll": false,
+    "collapseAll": true,
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "雍正王朝",
+    "query": "张雪峰",
     "sortOrder": "alphabetical"
   },
   "showFilePath": false,

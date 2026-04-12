@@ -4,8 +4,8 @@
     "explainSearch": false,
     "extraContext": false,
     "matchingCase": false,
-    "query": "雍正王朝",
-    "sortOrder": "alphabetical"
+    "query": "",
+    "sortOrder": "byModifiedTime"
   },
   "showFilePath": false,
   "showInstructions": true,

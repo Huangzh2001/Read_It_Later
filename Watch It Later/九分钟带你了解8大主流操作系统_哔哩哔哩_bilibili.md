@@ -1,0 +1,25 @@
+---
+url: https://www.bilibili.com/video/BV1aE3wzME7i/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+date: 2026-04-19T11:47:38+08:00
+---
+![九分钟带你了解8大主流操作系统_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aE3wzME7i/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)
+九分钟带你了解8大主流操作系统
+https://www.bilibili.com/video/BV1aE3wzME7i/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+风云小橙 2025-06-30 01:40:18
+
+windows window是全球使用最广泛的操作系统，由微软MICROSOFT开发，首次发布于1985年，版本为windows1.0，最初它只是运行在ms DOS之上的图形界面，界面非常基础，但随着时间发展，windows演变成了功能完整的操作系统，推出了多个主要版本，比如windows95，Windows xp，Windows7，windows10以及最新的windows11，windows的突出优势在于其灵活性和广泛的兼容性，它几乎可以运行在任何品牌的PC或笔，记本电脑上，适用于各种计算用途，包括高强度游戏，办公任务甚至编程，此外windows拥有用户友好的界面，新手也容易上手，但它也有一些问题，比如系统对硬件要求较高，可能导致老旧或性能较低的电脑运行缓慢，同时频繁的更新虽是为了优化体验，但也常常显得打扰，甚至引发无限更新循环等问题，另一个问题是安全性，由于windows用户众多，它也成为病毒和恶意软件攻击的主要目标，还有那著名的蓝屏死机，从windows1.0起就存在的问题，Macos，MACOS是苹果公司于2001年推出的操作系统，专为Mac电脑设计，与可运行在多品牌设备上的windows不同，Mac os仅限于苹果自家的设备，如MACBOOK和IMAC，苹果对软硬件的严格控制，使得Mac os非常稳定流畅且优化良好，MACOS在创意行业中尤为受欢迎，例如视频剪辑，图形设计和音乐制作，这得益于苹果强大的内置应用，如final cut pro。
+
+logic pro和garage band，MACOS的一大优势在于它与IPHONE或IPAD的无缝协作，信息通话和文件可自动同步，此外MACOS没有windows那样频繁的强制更新，也很少崩溃，电池续航也更加，不过它也有缺点，由于只能运行在苹果硬件上，用户必须购买昂贵的Mac设备，这对预算有限的用户来说是个障碍，此外MACOS对游戏支持较差，因为它不支持DXX图形处理能力也相对较弱，有些专业软件也无法使用或仅提供简化版本，LINUX与windows和Mac os不同，LINUX并不是一个单一的操作系统，而是一个由多个发行版组成的操作系统家族，它由芬兰程序员linus tour vz于1991年创建，旨在提供一个免费开源的替代方案，LINUX系统轻量安全，不依赖高端硬件，因此可以运行在老旧电脑和高性能服务器上，作为开源系统，任何人都可以自由修改或创建，属于自己的LINUX版本，这也是为什么有那么多LINUX发行版的原因，一些面向普通用户的发行版如UBUNTU和fedora，而SANTOSDEBIAN等则更适合服务器和专业用户，这也使得LINUX广泛应用于编程，网络安全和服务器管理，实际上，google facebook甚至NASA的许多系统都运行在LINUX服务器上，然而LINUX对初学者不太友好，因为它与windows和Mac os差别较大，很多界面需要用命令行操作软件，兼容性也是一个问题。
+
+大多数主流应用和游戏都为windows或Mac os开发，因此LINUX用户需要寻找替代软件，Chromos，CHROMOS是google开发的操作系统，于2011年首次发布，它是一款轻量以云端为核心的操作系统，与需要本地安装软件的windows和Mac os不同，CHROMOS主要依赖互联网运行，非常适合那些主要用于上网，看视频和使用网页应用的用户，CHROMOS预装在chrome book上，这些设备价格亲民，启动速度快，非常适合学校和办公使用，系统会在后台自动更新，安全性高，因为大多数数据和任务都是存储和处理，在google的服务器上，降低了病毒和系统损坏的风险，它还可以访问google play商店，安装安卓应用功能比普通浏览器更丰富，但CHROMOS的弱点在于过度依赖网络，没有网络时，功能就会大打折扣，它也不支持很多桌面级软件，比如完整版的PHOTOSHOP或专业视频剪辑软件，同时它不适合高性能游戏，除非使用像G1force now这样的云游戏服务，此外CHROMOS也不支持向边剪辑边运行PHOTOSHOP，这样的多任务重负载场景，android android是由google开发的开源操作系统，是全球最受欢迎的移动操作系统，包括三星，小米等多个品牌都采用android，android的优势在于高度自由化，用户可以更换主题，安装第三方桌面启动器，自定义几乎每一个系统细节，这是IOS所无法比拟的，它拥有google play商店。
+
+提供数百万个应用和游戏，涵盖从低价入门机到高端旗舰机的各种设备，不过android也有一些问题，并不是所有设备都能及时获得系统更新，导致老旧设备运行变慢，或存在安全隐患，还有预装软件问题，很多厂商会预装无法删除的无用应用，虽然android很强大，但相较于IOS，它的优化程度较差，某些应用在android上运行，不如在IPHONE上流畅，IOSIOS是苹果公司开发的操作系统，运行在IPHONE和IPAD上，与android的开放式多品牌模式不同，IOS是封闭系统，仅限苹果设备使用，使得苹果可以完全控制软硬件的协同，IOS系统非常稳定，软件支持周期长，即使是老旧的IPHONE也能获得更新，app store的应用审核严格，质量高，许多开发者也优先为IOS发布新应用，因为其用户支付意愿强，安全性高，此外IOS与苹果生态系统整合紧密，IPHONEMACBOOKIPAD和apple watch之间可实现无缝互联，不过IOS的限制也不少，用户不能像android那样自由自定义主屏幕，也不能轻易从app store之外安装应用，文件传输也受限，IPHONE没有可扩展存储，没有耳机孔，而且设备价格普遍较高，苹果还常常在多个IPHONE待机中重复使用同一设计，UNIXUNIX是最早的操作系统之一，是许多现代操作系统的祖先，它诞生于1960年代末，由ATNT的贝尔实验室开发，设计初衷是为服务器和高端计算场景提供，多用户多任务的操作系统。
+
+与现在流行的操作系统不同，UNIX很少出现在普通用户面前，它主要被用于大型企业服务器，银行系统和科研计算，例如美国国家气象局就使用基于UNIX的系统，处理和管理大量气象数据，用于天气预报，不过UNIX的安装成本很高，价格大约是每个用户1447美元，若一家拥有250名员工的大公司，想全面部署UNIX，成本将超过35万美元，B s d berkeley software distribution，BSD是一类起源于UNIX的操作系统，最早由加州大学伯克利分校，于1970年代开发，与商业操作系统不同，BSD更常被技术专家用于服务器，网络和嵌入式系统，而不是消费者的笔记本或台式机，一些基于BSD的系统，包括PLAYSTATION4和五的系统，NETFLIX的内容分发网络CDN以及防火墙系统，如pf sense和opp n sense，这是因为BSD在资源管理方面非常高，效，能处理大量任务，BSD有多个版本，包括free bs d，open bsd和net b s d。
+
+
+
+--- 由 vCaptions 生成 ---

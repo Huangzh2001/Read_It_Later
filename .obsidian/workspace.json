@@ -11,10 +11,14 @@
             "id": "5a01d0359b64df80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/库克卸任苹果CEO 任职15年当中 你真的了解他吗？【那岩杂谈】_哔哩哔哩_bilibili.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "库克卸任苹果CEO 任职15年当中 你真的了解他吗？【那岩杂谈】_哔哩哔哩_bilibili"
             }
           }
         ]
@@ -223,75 +227,36 @@
       "media-extended:Open media": false
     }
   },
-  "floating": {
-    "id": "4e8b6d70cae3a6e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5f254df1a941e2f3",
-        "type": "window",
-        "children": [
-          {
-            "id": "a6537cbc59f62811",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a813921caccdf1d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Watch It Later/【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 1,
-        "width": 598,
-        "height": 1262,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a813921caccdf1d0",
+  "active": "5a01d0359b64df80",
   "lastOpenFiles": [
-    "utils/obsidian-urls/logs/2026-04-25_23-08-19.md",
-    "Watch It Later/挑战自制2款猫咪空调屋！最低30r搞定猫咪清凉一夏_哔哩哔哩_bilibili.md",
-    "Watch It Later/【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili.md",
+    "Watch It Later/用30年前的老电视桌搭是种什么体验_哔哩哔哩_bilibili.md",
+    "Watch It Later/库克卸任苹果CEO 任职15年当中 你真的了解他吗？【那岩杂谈】_哔哩哔哩_bilibili.md",
+    "Watch It Later/槟榔是如何让你上瘾的？_哔哩哔哩_bilibili.md",
+    "Watch It Later/都是健身撸铁？区别可太大了！_哔哩哔哩_bilibili.md",
+    "Watch It Later/哈粉宾馆新手教程一.md",
+    "Watch It Later/《文明之旅》公元1103年完整版正片：奸臣蔡京为何大搞国家福利？_哔哩哔哩_bilibili.md",
+    "Watch It Later/C罗欧冠单赛季17球都是刷出来的吗？我尤文图斯第一个不同意！_哔哩哔哩_bilibili.md",
+    "Watch It Later/欧冠有四强，三强谢吾皇。最好的C罗搭配最好的穆鸟，是如何助皇马冲破欧冠魔咒枷锁的？_哔哩哔哩_bilibili.md",
+    "Watch It Later/五年前组装成本超5000的客制化键盘，现在还值多少？_哔哩哔哩_bilibili.md",
+    "Watch It Later/华为Pura X Max 系统+应用初体验！鸿蒙 6.1 针对全新屏幕比例做了哪些优化？！_哔哩哔哩_bilibili.md",
+    "Untitled.md",
+    "Watch It Later/【游戏众生相】一将功成万骨枯！从2D游戏到3D游戏的伟大进化！_哔哩哔哩bilibili_游戏杂谈.md",
+    "Watch It Later/游戏制作过程中，2D比 3D需要更多的资金和人力吗？_哔哩哔哩_bilibili.md",
+    "Watch It Later/【喵喵折】2026全网最细心的笔记本清灰教程，性能提升30%，温度降到60度！！！_哔哩哔哩_bilibili.md",
+    "Watch It Later/中配为何Terraria是完美游戏，而Minecraft不是.md",
+    "Watch It Later/把捡来的老 iMac 改造为游戏 PC，测试结果让我大吃一惊！_哔哩哔哩_bilibili.md",
+    "Watch It Later/2025年度客制化发售大盘点【键帽篇(下)】25年度最佳GMK复刻？最佳GMK新原创设计？26年第一季度最值得买的SP DCS键帽？_哔哩哔哩_bilibili.md",
+    "Watch It Later/Sonic170一把突显设计美学的键盘浅浅蓝轴打字音_哔哩哔哩_bilibili.md",
+    "Watch It Later/Sonic 170 v2 完美的极简键帽搭子  Keynex_哔哩哔哩_bilibili.md",
+    "Watch It Later/我的世界：史上最难最无解的种子，如何通关？_哔哩哔哩bilibili_我的世界_游戏解说.md",
+    "Watch It Later/吃冷米饭能减肥吗？抗性淀粉一次讲清！_哔哩哔哩_bilibili.md",
+    "Watch It Later/苏联奇谭：共产主义大保健_哔哩哔哩_bilibili.md",
+    "Watch It Later/就这？GPT Image2做像素素材，能进游戏开发流程吗？_哔哩哔哩_bilibili.md",
+    "Watch It Later/不是空调开不起，而是空调猫窝更有性价比_哔哩哔哩_bilibili.md",
+    "Watch It Later/数百小时才算入门？自动化游戏究竟为何如此上头？_哔哩哔哩_bilibili.md",
+    "Watch It Later/MacBook夏天如何降温：一个化肉板就够了！_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
-    "utils/obsidian-urls/logs/2026-04-22_14-44-18.md",
     "Clippings/sync.ffs_lock",
-    "utils/obsidian-urls/logs/2026-04-22_09-51-52.md",
-    "Watch It Later/只靠和AI对话，做一个类星露谷的种田游戏_哔哩哔哩_bilibili.md",
-    "Watch It Later/只靠和AI对话，做一个类星露谷的种田游戏第二期_哔哩哔哩_bilibili.md",
-    "Watch It Later/【手游攻略】B社《辐射：避难所》要点攻略全解析！！_哔哩哔哩_bilibili.md",
-    "Watch It Later/亲身实践！末日必种的7种作物！！自给自足全靠它！！！_哔哩哔哩_bilibili.md",
-    "Watch It Later/用5万块积木打造乐高版辐射避难所，超级大_哔哩哔哩_bilibili.md",
-    "Watch It Later/种田缝合怪？种田+末日废土的生存建造的游戏，画面还可以，价格也不贵【Endzone】_游戏热门视频 1.md",
-    "Watch It Later/种田缝合怪？种田+末日废土的生存建造的游戏，画面还可以，价格也不贵【Endzone】_游戏热门视频.md",
-    "Watch It Later/只更新不卖？到底什么时候才能玩上这款末世种田独游？！_游戏热门视频.md",
-    "Watch It Later/末世危机模拟经营游戏盘点_游戏热门视频.md",
-    "Watch It Later/电子下饭菜：一辈子的存档一次看个爽！（一年纯享完整版）_哔哩哔哩bilibili_我的世界.md",
-    "Watch It Later/一款游戏玩一辈子，6款‘时间妖精’游戏推荐【Steam游戏推荐】_文明6_游戏推荐.md",
-    "Watch It Later/直板夹微分碎盖-简易版_哔哩哔哩_bilibili.md",
-    "Watch It Later/发量少男生必冲！莱斯利卷也太遮m发际线了_哔哩哔哩_bilibili.md",
-    "Watch It Later/苏联奇谭：体外循环机实验_哔哩哔哩_bilibili.md",
-    "Watch It Later/深度解读2008年的初代MacBook Air_哔哩哔哩_bilibili.md",
-    "Watch It Later/小红点 VS 触控板_哔哩哔哩_bilibili.md",
-    "Watch It Later/从小在英国被欺负到大的英国博主：真想投胎当个中国小孩！_哔哩哔哩_bilibili.md",
-    "Watch It Later/变大的阔折叠 真阔绰  华为 Pura X Max 开箱 对比多款常规尺寸手持设备「科技美学开箱」_哔哩哔哩_bilibili.md",
-    "Watch It Later/【白TV】2025 轻薄本外接RTX 5070Ti，能否打败游戏本台式机？_哔哩哔哩_bilibili.md",
-    "Watch It Later/笔记本是不是一定需要独立显卡，核显、集显、独显的差距又有多大？_哔哩哔哩_bilibili.md",
-    "Watch It Later/【笔吧】追求极致性能的轻薄本，联想小新Pro14 标压锐龙版评测_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.f60a.ffs_tmp",
     "Read It Later/attachments/f6862572d8e717ee1507f9ad30d1daa0_MD5.jpg",
     "Read It Later/attachments/856e5e983008d5309c0bf2ec6404c765_MD5.jpg",

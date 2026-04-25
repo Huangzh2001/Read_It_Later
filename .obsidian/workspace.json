@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc81c0cb96ca352",
+        "id": "26e05a68104e8472",
         "type": "tabs",
         "children": [
           {
-            "id": "a813921caccdf1d0",
+            "id": "5a01d0359b64df80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch It Later/挑战自制2款猫咪空调屋！最低30r搞定猫咪清凉一夏_哔哩哔哩_bilibili.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "挑战自制2款猫咪空调屋！最低30r搞定猫咪清凉一夏_哔哩哔哩_bilibili"
+              "title": "新标签页"
             }
           }
         ]
@@ -227,14 +223,55 @@
       "media-extended:Open media": false
     }
   },
+  "floating": {
+    "id": "4e8b6d70cae3a6e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5f254df1a941e2f3",
+        "type": "window",
+        "children": [
+          {
+            "id": "a6537cbc59f62811",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a813921caccdf1d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Watch It Later/【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 1,
+        "width": 598,
+        "height": 1262,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "a813921caccdf1d0",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2026-04-25_23-08-19.md",
+    "Watch It Later/挑战自制2款猫咪空调屋！最低30r搞定猫咪清凉一夏_哔哩哔哩_bilibili.md",
+    "Watch It Later/【抢先看】每天给徭役吃薯条汉堡，他们会反抗吗_哔哩哔哩_bilibili.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2026-04-22_14-44-18.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/logs/2026-04-22_09-51-52.md",
     "Watch It Later/只靠和AI对话，做一个类星露谷的种田游戏_哔哩哔哩_bilibili.md",
-    "Watch It Later/挑战自制2款猫咪空调屋！最低30r搞定猫咪清凉一夏_哔哩哔哩_bilibili.md",
     "Watch It Later/只靠和AI对话，做一个类星露谷的种田游戏第二期_哔哩哔哩_bilibili.md",
     "Watch It Later/【手游攻略】B社《辐射：避难所》要点攻略全解析！！_哔哩哔哩_bilibili.md",
     "Watch It Later/亲身实践！末日必种的7种作物！！自给自足全靠它！！！_哔哩哔哩_bilibili.md",
@@ -255,7 +292,6 @@
     "Watch It Later/【白TV】2025 轻薄本外接RTX 5070Ti，能否打败游戏本台式机？_哔哩哔哩_bilibili.md",
     "Watch It Later/笔记本是不是一定需要独立显卡，核显、集显、独显的差距又有多大？_哔哩哔哩_bilibili.md",
     "Watch It Later/【笔吧】追求极致性能的轻薄本，联想小新Pro14 标压锐龙版评测_哔哩哔哩_bilibili.md",
-    "Watch It Later/【东哥辣评】不靠谱的运动手环！_哔哩哔哩_bilibili.md",
     "Clippings/sync.ffs_db.f60a.ffs_tmp",
     "Read It Later/attachments/f6862572d8e717ee1507f9ad30d1daa0_MD5.jpg",
     "Read It Later/attachments/856e5e983008d5309c0bf2ec6404c765_MD5.jpg",

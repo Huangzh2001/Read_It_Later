@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
-    "collapsed": true
+    "width": 470.5
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -227,8 +226,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5a01d0359b64df80",
+  "active": "54d1819fda844f1a",
   "lastOpenFiles": [
+    "Read It Later/ChatGPT-VSCode 虚拟环境问题.md",
     "Watch It Later/遮阳帽的帽檐为什么是弧形的？那些时尚单品的由来.md",
     "Watch It Later/为什么男人喜欢丝袜？还真不一定是好色。.md",
     "Watch It Later/比高仿还便宜的奢侈品牌副线，真的靠谱吗？.md",
@@ -266,7 +266,6 @@
     "Read It Later/attachments/5db005200706e4547cd5546ccd6ab439_MD5.jpg",
     "Read It Later/attachments/24f133e5585b628fc8d9a057c23febea_MD5.jpg",
     "Watch It Later/外网票选·「动漫女角色」人气排行榜！！！.md",
-    "Watch It Later/为什么学术造假这么多？如何破局？.md",
     "Clippings/sync.ffs_db.859f.ffs_tmp",
     "Clippings/sync.ffs_db.0fc5.ffs_tmp",
     "Clippings/sync.ffs_db.afe4.ffs_tmp",

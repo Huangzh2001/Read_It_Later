@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/为什么男人喜欢丝袜？还真不一定是好色。.md",
+                "file": "Watch It Later/【超级小桀】桀哥讲解市面上主流的降温设备，看能不能帮到你.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么男人喜欢丝袜？还真不一定是好色。"
+              "title": "【超级小桀】桀哥讲解市面上主流的降温设备，看能不能帮到你"
             }
           }
         ]
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 470.5,
+    "collapsed": true
   },
   "right": {
     "id": "158c89bda8c70c68",
@@ -228,13 +229,18 @@
   },
   "active": "5a01d0359b64df80",
   "lastOpenFiles": [
+    "Watch It Later/客制化的另一种玩法 — MASS 80｜MW keys｜YOYO轴—一怀｜沉浸式开箱组装丨机械键盘丨打字音_哔哩哔哩_bilibili.md",
+    "Watch It Later/【超级小桀】桀哥讲解市面上主流的降温设备，看能不能帮到你.md",
+    "Watch It Later/「小白」关于华为韬定律的七个问题.md",
+    "Watch It Later/【大湾区篇 11】广州之所以还是大哥，是因为它养出了琶洲！_哔哩哔哩_bilibili.md",
+    "Watch It Later/无糖饮料，我给它直接排到夯.md",
+    "Watch It Later/为什么男人喜欢丝袜？还真不一定是好色。.md",
     "utils/obsidian-urls/notes-with-excerpt.json",
     "utils/obsidian-urls/logs/2026-05-29_22-53-40.md",
     "Clippings/sync.ffs_lock",
     "utils/obsidian-urls/logs/2026-05-28_21-06-55.md",
     "Read It Later/ChatGPT-VSCode 虚拟环境问题.md",
     "Watch It Later/遮阳帽的帽檐为什么是弧形的？那些时尚单品的由来.md",
-    "Watch It Later/为什么男人喜欢丝袜？还真不一定是好色。.md",
     "Watch It Later/比高仿还便宜的奢侈品牌副线，真的靠谱吗？.md",
     "Watch It Later/中山装登上国际热搜？解析来了！！！！ 1.md",
     "Watch It Later/其他国家礼服穿西装，为何我们要穿中山装？.md",
@@ -251,10 +257,6 @@
     "Watch It Later/为了能跟八重神子结婚，我做了一套会发光的西装！.md",
     "Watch It Later/对不起！我又丑又土还谎报了自己的身高！.md",
     "Watch It Later/身高170，无建模。做了6年穿搭博主，我的穿搭经验都在这里了。_哔哩哔哩_bilibili.md",
-    "Watch It Later/【补档】为什么这部美国黑我们的片子，能带给中国人如此大的爽感？.md",
-    "Watch It Later/质疑科研结果是学术人的基本素养。盘点可能造假的几个维度（不完全统计，想起来再加）.md",
-    "Watch It Later/五年前的客制化神作，今天声音还能打吗.md",
-    "Watch It Later/【清风】OW第一款磁轴，面子里子全都有，小白友好，一把毕业。塔塔次方naja68使用体验评测。_哔哩哔哩_bilibili.md",
     "Read It Later/attachments/c9353c5dec16289b1086d531d79d3ac2_MD5.png",
     "Read It Later/attachments/b25026991a3e9a846908154951955bea_MD5.png",
     "Read It Later/attachments/32e66907a8e36f0000b8a1aa79b8ad3d_MD5.png",

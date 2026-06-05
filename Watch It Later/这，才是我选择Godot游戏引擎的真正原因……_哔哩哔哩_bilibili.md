@@ -1,0 +1,47 @@
+---
+url: https://www.bilibili.com/video/BV1jqdMBxEzu/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+date: 2026-06-05T15:21:44+08:00
+---
+![这，才是我选择Godot游戏引擎的真正原因……_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jqdMBxEzu/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)
+这，才是我选择Godot游戏引擎的真正原因……
+https://www.bilibili.com/video/BV1jqdMBxEzu/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+秦无邪OvO 2026-05-08 12:36:53
+
+[章节] 引言
+
+If you're in game development,you've probably sensed it—things have felt a bit off lately.More and more, Unity indie devs are frantically switching engines;you could even call it a mass exodus.But watching all this, I get a strong sense of déjà vu.I went through the same thing two and a half years prior.Hey everyone, Wuxie here!A game producer full of weird and wonderful ideas.So today, I really want to talk about why,as we head into twenty twenty six,I recommend you use the Godot game engine.
+
+[章节] Unity三次信任崩塌
+
+Unity, the once beloved game engine,why in just a few short years,has it become something developers rush to avoid?Let's do a quick recap, of the three times global developers' trust in it, completely collapsed.First: The Runtime Fee incident.In twenty twenty three,Unity suddenly announced that all games made with its engine, must pay a fee per installation.So, every time a player downloads a game,the developer has to pay up. What's wrong with this model?First, install counts are uncontrollable,like pirated copies, reinstalls, and fraud.Second, Unity's billing logic was opaque;they wouldn't disclose how installations were counted.Even released games faced retroactive charges.The announcement of these terms, sparked fierce global opposition from developers.Numerous teams declared they'd stop using Unity,triggering the first exodus.The outcome of this was Unity's CEO, resigning under immense pressure,and the company retracting the clause in 'twenty four.
+
+The second big client shake down hit in twenty twenty five:Unity shifted strategy, raising Enterprise fees.Essentially, a shift towards 'milking top tier clients'.It targets games like Among Us,Cuphead, and Hollow Knight—titles with tiny dev teams, but massive revenue, making them huge success stories.Seat licenses used to be a few thousand dollars annually.Now, big clients pay two hundred and fifty dollars k, to two million dollars per year.You can think of it as a 'success tax'.Despite only thousand plus major clients receiving the email,and most developers being unaware, the news still broke.Insiders are on alert again:the third incident, the split of the international store.In twenty twenty six,Unity overhauls its asset store,forcibly splitting the engine ecosystem—a direct hit, impacting all developers.Our purchased game assets become obsolete and unusable,essentially wiping out all prior investments.Say you're a game player.Today, Valve announces that.
+
+all non CN games in your Steam library must be delisted.Game data and saves will be wiped clean in thirty days.You'll feel the same pain as the vast Unity community.This incident has sparked yet another developer exodus.Overall, Unity's problems are more than incidents;they're a continuous erosion of trust.When a dev tool becomes wildly unstable,developers start seeking certainty,looking towards options like the Godot game engine.
+
+[章节] Godot和Unity对比
+
+As a developer who's used both Unity and Godot extensively,I'd like to briefly talk about their differences.Architecture wise, Unity uses Game Objects with Components,whereas Godot's philosophy centers on Node Trees, and Composition.So using Godot feels a lot like when we were kids,sitting on the floor putting together blocks.Next up, scripting languages.Unity uses C number for scripting.Godot uses both GDScript and C number,though it has better support for GDS overall.GDScript is nearly identical to Python,making it incredibly easy for devs to pick up and use.Third, ecosystem and assets.Unity has a mature Asset Store and strong plugin support,though its ecosystem is currently splitting.Godot's ecosystem is weaker for now.Lots of plugins, but quality's hit or miss.But the good news is,common plugins are mostly maintained and updated by pros.For special features, you might have to DIY.But with AI now,that drawback isn't as big a deal as it used to be.I'd even say that.
+
+among today's mainstream game engine choices,Godot game engine surprisingly partners best with AI.Performance and scale.Godot shines for small to medium sized projects.For instance, the recent hit game 'Slay, the Spire two' was developed using the Godot engine.Unity's capabilities for mid to large projects, are more mature,suited for bigger teams.Fifth, Control. Godot is open source, under the MIT License.Use it freely, with no platform lock in.Unity, on the other hand, is a commercial game engine, controlled by Unity Software.Arbitrary policy changes are its biggest user risk.If you're an indie game developer,I'd recommend using Godot for your future projects,especially if you're just starting.
+
+[章节] 迁移游戏开发环境
+
+I bet after this whole thing,a lot of you have already switched from Unity to Godot.With a new game scripting interface plus AI coding cmdline,the demands on your monitor are getting higher too.My old Mac laptop only had a thirteen inch screen,so when I was coding in the Godot game engine,it just felt incredibly cramped and tight.So when I saw BenQ's twenty eight inch,three to two RD two hundred and eighty UG monitor,I knew it was the one!To be honest, based on these specs alone, it's pricey.But after using it for a while,it's solved my screen issues in game dev,so I'd say it's worth every penny.Totally worth it.First, it offers a comfortable experience for long coding.Even with AI now, less code is handwritten,but code reviews have skyrocketed.It's just shifted the focus,actually increasing the amount of code I have to read.This BenQ monitor offers custom professional coding, color modes, for both dark and light IDE backgrounds.In dark mode, it smart adjusts code colors,
+
+making the code sharp, distinct,and much easier to differentiate.It also adds a new Paper Mode,giving a paper like reading feel, while providing faster screen response times.Programming and reading code on this screen for long hours, feels really comfortable.Second, eye safe.Speaking of eye comfort,Actually, I'm pretty particular about eye care.For instance, my own glasses have Blue Light Blocking Lenses.And this monitor is pretty much maxed out on, eye care features.It’s TÜV Rheinland, certified for software and hardware blue light filtering,with an anti glare, anti reflective panel and Automatic Dimming Patent.For developers who stare at screens all day,this is an absolute game changer.Third, the three to two aspect ratio.Standard four K monitors are three thousand, eight hundred and forty × twenty one sixty ,while this one is three thousand, eight hundred and forty × twenty five sixty.With a three to two aspect ratio,it adds four hundred vertical pixels,perfectly suiting developers' core needs.
+
+When I'm developing games in the Godot game engine,With the Scene and Project Managers,thanks to the ample display area,you no longer need to constantly scroll, up and down with the mouse wheel.Plus, in the game script editor,I can see a full ten more lines of code,which makes reading and navigating code way more efficient.Fourth, the Moonhalo backlight.I don't know what your daily work environment is like,but let me show you mine here.Five: My Workspace.Personally, I love working in dim environments.That's why all my software interfaces, including Bilibili,are set to this dark color scheme.I feel this dim atmosphere is perfect for writing code.The RD two hundred and eighty UG's built, in Moonhalo backlight, perfectly solves dim lighting issues.Paired with the Night Protect mode that goes super dim,the vibe in low light is maxed out.Feels like my work efficiency has shot right up.Fifth: Display Pilot two software. I didn't know monitors came with their own apps now.
+
+Besides adjusting basic settings,this Display Pilot two software, has a lot of cool features too.What I use most is this Dual Color Mode,which lets one screen display, two different color systems at once.I usually use the left half of the screen for game assets.Pick M Book Mode for vibrant, rich colors.The right half switches to Dark Coding mode, for writing code or vibe coding, my game. Doing both at once, has, I'd say, seriously boosted my productivity.Overall, after using this monitor for a while,I have to say I'm pretty satisfied with it.So if you're a fellow game dev, on the hunt for a coding monitor,I'd say this RD two hundred and eighty UG, is definitely one worth keeping on your radar.
+
+[章节] 最后
+
+At the end of the video,some of you might still ask: for making a game,which engine's best?Actually, that's the wrong question.The real question is: stability or freedom?What I want to tell you is, the real stability, isn't the game engine,but your own adaptability to change!That's all for this video.If you found it helpful,please like and subscribe.We'll see you in the next one.
+
+
+
+--- 由 vCaptions 生成 ---

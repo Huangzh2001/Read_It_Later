@@ -1,9 +1,9 @@
 ---
-url: "https://www.bilibili.com/video/BV1zB4y1877t/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c"
+url: https://www.bilibili.com/video/BV1zB4y1877t/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c
 tags:
-  - "video"
-status:
-date: "2026-06-06T12:01:34+08:00"
+  - video
+status: readed
+date: 2026-06-06T12:01:34+08:00
 ---
 ![为什么木村拓哉结婚是日本平成十大丑闻之一？【日娱八卦第3期】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zB4y1877t/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c)
 为什么木村拓哉结婚是日本平成十大丑闻之一？【日娱八卦第3期】

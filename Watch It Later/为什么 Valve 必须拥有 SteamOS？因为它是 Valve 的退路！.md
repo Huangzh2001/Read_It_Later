@@ -1,0 +1,35 @@
+---
+url: https://www.bilibili.com/video/BV1iK756jEbo/?t=7&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+date: 2026-06-28T12:36:19+08:00
+---
+![为什么 Valve 必须拥有 SteamOS？因为它是 Valve 的退路！](https://www.bilibili.com/video/BV1iK756jEbo/?t=7&vd_source=06168f390bae49c4867767c52a20e87c)
+为什么 Valve 必须拥有 SteamOS？因为它是 Valve 的退路！
+https://www.bilibili.com/video/BV1iK756jEbo/?t=7&vd_source=06168f390bae49c4867767c52a20e87c
+开源青年 2026-06-26 18:27:35
+
+2012年10月25日，对于加布纽维尔来说是特别的一天，这一天是steam告别windows的开始，也是steam os的新生，It really is an exciting exciting day windows a，Yeah，Rt with office，Twenty thirteen，And microsoft surface are here starting tonight，At twelve one am，You can buy a spectacular new windows device，Built by one of our partners，Or from microsoft windows，八在这一天发布了全新的用户界面，适配PC和手机内置应用商店，方便用户下载应用，避免恶意软件的打扰，她就像是一个出嫁的姑娘，被打扮的漂漂亮亮，但是看不见的是微软在战略上的变化，以前的微软靠销售windows光盘和office许可来获取利润，但是2012年的微软，想通过应用商店收取苹果税，微软这样做是面对移动互联网的冲击，产生的一种本能的生存焦虑，所谓苹果税其实是苹果的一项商业政策，诞生于2008年6月9号，只要用户在app store中购买数字内容或服务，苹果都会抽取一部分佣金，根据开发者的情况，这个比例通常在15%到30%之间，它的初衷其实是为了，维持应用商店的免费日常运营，We don't intend to make money off the app store，在这之前，这些费用由运营商收取，而运营商又太过强势，抽取的佣金比例可以达到50%，到70%，苹果只收30%，并且提供结算推广反盗版服务。
+
+更重要的是，每月准时打款，越来越多的开发者开始把应用发布到app store，The app store has been huge as you know on the iphone，It's completely revolutionized mobile applications on the ipad，It's phenomenal as well now，How do we know this，Because seven over seven billion，Apps have been downloaded from the app store，Seven billion，There's never been anything like this that，We've seen in our careers，And so we'd like to bring it to the mac，And as part of lion，We're gonna have a mac app store，2010年10月20日，苹果正式发布Mac app store，至此apple store不再只是IPHONE的应用商店，而开始成为苹果整个生态的一部分，后来人们把苹果的这种做法称为围墙花园，2012年，苹果已经从一家年营收320亿美元的公司，成长为年营收超过1500亿美元的科技巨头，IPHONE和app store的成功正在改变整个行业，同一年，微软发布了windows8，Windows8，首次将应用商店作为系统的核心，鼓励开发者通过微软的平台分发软件，微软也开始打造自己的微笑花园，windows8发布以后，steam开始重新思考自己的未来，steam的业务建立在windows的开放性之上，而windows正在发生变化，如果windows平台不再开放威慑，就失去了生存的根基。
+
+于是他们把目光投向另一个系统，Linux，一个开源自由，且不受单一商业巨头控制的操作系统，Hi i'm dead the uh，It feels a little bit funny coming here，And telling you guys that linux and open source of the future of gaming，Sort of like going to rome，And teaching catholicism to the pope，So，Bear with me several years ago，We actually we're like wow，This is where we think games are going，You know there's a logical consequence to that，Which is we need to be uh working，Pretty，Hard to make sure that，Linux is a good solution for uh for gamers and for game developers，And it was kind of um distressing，Because there was just a lot of work that，We would need to do in order to help address，Those those issues，2013年12月13日，steam os1.0测试版正式发布，这次发布除系统镜像外，还有300台用于测试的steam主机，V社明确表示，普通用户不要轻易安装，因为1.0的定位是一个邀请函，为设想，邀请全球硬核LINUX玩家开发者，测试这个系统的稳定性和兼容性，Steam os，1.0的商业意义并不完全体现在装机量上，对于威慑而言，它更重要的价值在于证明，steam已经具备了脱离windows的能力，这意味着。
+
+一旦微软将windows进一步封闭，威慑并非没有退路，steam已经拥有了一套可以持续发展的技术路线，1.0的存在本身就是威慑，对微软微向花园策略的一种回应，2014年，威慑进入到steam os2.0的开发周期，在steam os2.0中，威慑开始重新构建steam os的底层架构，并围绕驱动性能和交互体验进行全面优化，V社将steam os的底层系统升级到了德尔变八，大幅改善了系统的稳定性和安全性，为了让steam machine可以即插即玩威慑，优化了游戏和主机的功耗，为了改善显卡驱动的兼容性问题，V社在系统中集成了NVIDIA和AMD的官方闭源驱动，并且驱动可以随着steam os的升级而升级，而全新的steam大屏模式，也让整个系统，彻底摆脱了键盘和鼠标的设计逻辑，开始真正围绕客厅和手柄进行设计，2015年11月10日，steam os2.0正式发布，steam machine主机同步上架销售，steam应用程序设置专区，为steam os的上线造势，但市场对于steam machine的评价却是差评如潮，游戏玩家花费数百美元甚至上千美元，购买了一台主机，却发现可玩的游戏十分有限，因为LINUX原生游戏只有几百款，而windows有上万款，这些LINUX原生游戏大部分都是独立游戏，3A大作集体缺席，steam os的用户体验很差，因为显卡驱动兼容性的问题，系统升级后经常出现黑屏，图形渲染的错误，steam s遭遇了滑铁卢。
+
+steam machine的销量惨淡，2018年，整个项目被边缘化，同年威慑下架了steam应用程序上的steam os专区，科技和游戏媒体将其视为威慑，宣告第一代steam machine计划正式失败的标志，Hi can anybody hear me，Yes，Woo woo，I will speak louder，Ha ha ha ha ha ha ha，Um like to talk first，The people from valve，And then i'm gonna address，Our friends from the gaming community um，So under history about you，Have a lot，We can get wild steps，We have half life，Which was the first single player again，We had source that was our first engine，We have counter strike our first poy player game that we had steam，And the workshop art support，Lobal，Support，Mullinux port just on and off，We represent a tremendous，And that hard work and creativity on your part，V社在经历这次失败之后，将工作重点转移到了index VR，这是一个VR头部显示器，配合steam VR软件，可以实现144HZ的游戏体验，为了在LINUX上能够实现这样的功能威慑，在LINUX内核线程调度编译器方面开源了很多代码，做到了真正的取之开源用纸，开源开源社区，对微视的这种做法给予了很高的评价，2019年6月28日，index VR正式发售，售价999美元，2019年底。
+
+V社宣布买index VR免费送半条命，艾利克斯index VR陷入了一机难求的状态，除了日本，全球30一个发售国家全部处于断货状态，供应链需要长达数月处理预售订单，index VR在商业上取得成功后，V社将steam VR开发过程中的软硬件调优能力，应用到steam os3.0中微设备，steam os开发了整机电源管理系统，以豪华为单位去分配CPU和GPU的能耗，让有限的硬件可以运行精美的3A游戏，V社持续投入工农团队，与a AMD mesa等社区共同完善LINUX显卡驱动，这些在VR时代积累的底层技术，最终却成为了steam os最重要的技术资产，可是怎么解决LINUX原生游戏匮乏的问题呢，威慑决定放弃开发LINUX原生游戏，开始思考如何让windows游戏可以在LINUX上运行，经过一番查找，V社在开源社区发现了wine可以实现这个功能，one你是一个翻译官，负责把游戏给windows说的话，翻译成LINUX可以听得懂的话，这样游戏就可以在LINUX上运行了，威慑，在测试的时候发现one的翻译效率存在三大问题，首先one的翻译效率极低，其次win是单线程渲染，难以应对现代游戏多线程渲染的需求，导致CPU线程排队卡死，最后显卡在实时翻译图形指令时极易产生卡顿，甚至渲染错误，翻译效率这么低，他是怎么活下来的呢，one背后最大的赞助商是cold waves，他们用one帮助Mac和LINUX用户运行office。
+
+PS这类办公软件并赚取利润，对游戏优化的投入非常有限，威慑投资了cold waves，两家一拍即合，开始了part time的研发，这是一个对游戏做过优化的one，2018年8月，PROTOM正式开园，那如何处理德尔本更新慢这个问题呢，威社决定放弃德尔版，转向arc linux，一个第一时间可以接收LINUX内核驱动和破time，更新的操作系统，这样做的代价是什么呢，威慑知道这是以牺牲整个系统稳定性为代价的，因为最新的软件或多或少都会有一些bug，加上LINUX本身就是一个开放的系统，任何人和程序都可以对这个系统进行修改，修改后就会出现死机变砖的情况，V社想为arc linux添加一层稳定性的保险威慑，通过技术手段，确保arc linux的每一次更新都是可回退的，如果系统更新出现失败的情况，系统就会自动退回上一个可以启动的节点，这种机制保证了系统永不变砖，同样的威慑，通过技术手段让系统的核心文件都可以被读取，但是不能被修改，确保了核心系统的稳定，但是人们心中仍然有，LINUX上没有什么游戏可以玩的成见，为了打消人们心中的这种成见，2021年10月20日，威慑正式上线，Steam verified，将steam os上可以运行的游戏分级插电即玩能玩，但要折腾一下，不支持，会测试，玩家，通过这个项目来了解这台设备是否适合自己，2021年7月15日，威社官宣搭载steam os3.0的steam deck主机。
+
+这个消息就像一颗重磅炸弹，扔进了原本平静的水池，人们在讨论他酷似switch的外形，希望他可以满足自己在被窝里打3A的幻想，人们在讨论它399美元的售价，认为它极具性价比，人们在讨论它的系统基于arc linux，会不会买回来，只能当个装饰品，如果不喜欢的话，还可以装windows，这种情况在御三家上从来没有见过，人们挤爆了预售的服务器，黄牛也随之而来，为了防止黄牛抢空库存威慑，制定了，只有2021年6月之前，有过消费记录的steam账号才有资格参与预约，这个举措赢得了玩家的一致好评，2022年2月25日，第一批steam deck送到玩家手中，steam os3.0迎来了他的首秀，根据第三方研究机构的报告以及行业数据估算，在steam deck发售的第一年，出货量突破了160万台，到现在steam deck已经出货几百万台，steam os3.0完成了他的任务，彻底摆脱了对windows的依赖，两年半以后，2024年8月，飞车在steam os中新增了对r o g ii的支持，为啥想把steam os安装到其他掌机中，steam os2.0的时候，他尝试过，但是失败了，这次他会成功吗，steam os3.0发布以后，开源社区的程序员就已经在开发，类似于steam s的第三方衍生系统，这些衍生系统适配了华硕和联想的掌机，在威慑还没有介入之前，华硕和联想的掌机玩家，已经在使用这些衍生系统来获得steam os的体验了，steam s适配第三方掌机。
+
+是对开源社区中这些衍生系统的一种积极回应，V社研究了每一台设备的电源管理，屏幕刷新率，散热架构之后，点对点的进行底层调优，当你刷入steam vs之后，就能获得和steam deck一样丝滑稳定的体验，为什么这次成功了，因为steam os3.0和steam deck，为所有的游戏玩家和厂商提供了一条体验基线，第三方掌机的体验只要比steam deck好，玩家就会买单，那么第三方掌机适配steam os之后，威慑还怎么赚钱呢，2021年steam deck推出的时候，V社就表示steam os是一个通用系统，可以安装在任何硬件上，威慑在商业上的护城河从来不是steam deck主机，而是所有玩家在steam消费之后，收取的30%佣金，steam tag不赚钱，就是交个朋友，换句话来说，steam os的装机量越高，玩家在steam消费的几率就越高，V社赚取的利润就越高，开发steam deck主机是这样，开源steam s也是这样，帮助第三方掌机适配steam os也是这样，就是为了这点醋才包的这顿饺子，2026年6月，威慑重启，Steam machine，1049美元起售，这个价格没有竞争力，威慑也没有打算进行价格补贴，为什么V社不想让steam声大卖吗，威慑的工程师说，steam machine在定价的时候，就已经尽可能的接近成本价格来实现自给自足，威慑也已经明确会和第三方厂商联合开发steam machine，威慑的高定价，给第三方厂商留下了充足的价格空间。
+
+他们有动力推出各种各样的steam machine设备，steam s才会更好用，才会更快的成为一个通用的操作系统，才会有更多的人在这个生态中受益，感谢你能看到这里，我是一直专注于开源和LINUX的开源青年，如果你喜欢我的内容，欢迎一键三连加关注我们，下期视频再见。
+
+
+
+--- 由 vCaptions 生成 ---

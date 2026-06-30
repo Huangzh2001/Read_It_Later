@@ -1,0 +1,47 @@
+---
+url: https://www.bilibili.com/video/BV1VtJG63Ewz/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+tags:
+  - video
+status: readed
+date: 2026-06-30T09:04:47+08:00
+---
+![我给这台 1000 的 Macbook，做了个头...](https://www.bilibili.com/video/BV1VtJG63Ewz/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c)
+我给这台 1000 的 Macbook，做了个头...
+https://www.bilibili.com/video/BV1VtJG63Ewz/?spm_id_from=333.1387.favlist.content.click&vd_source=06168f390bae49c4867767c52a20e87c
+懒狗小黑 2026-06-15 20:31:32
+
+[章节] 引入无头骑士MacBook
+
+Apple's cheapest Mac,four thousand five hundred and ninety nine yen,sold out!Their best seller?two hundred and fifty six gigabytes gone,now starting at five thousand, nine hundred and ninety nine yen—they even hiked the price!And THIS is Apple's quirkiest, Mac, only nine hundred and ninety nine yuan!It’s great in every way—just no screen.This here is the first MacBook I snagged, for any young person—from the second hand market—aka,the “Headless MacBook”!At last, I, too, can be that guy working at Starbucks!Later in the video, I successfully modded it into THIS!But before that, let’s crunch some numbers.If you’re on a tight budget yet, want to get into the Mac ecosystem,what would YOU pick?Hmm— Mac mini, maybe? It’s an M four,but no screen, no keyboard, no battery—getting it all set up costs thousands more, plus, no battery!
+
+[章节] iPad与便携屏尝试
+
+I can't just lug around ...Hiss ... can we shave that down further?A MacBook Neo, post Education Discount,hits just three thousand five hundred RMB—it has a screen, uh, sixty Hz— a processor,and what’s left over: a keyboard,non backlit.The Headless MacBook?You get Apple’s scissor switch keyboard, AND that huge motorized trackpad!Bear in mind,even if you stick Apple’s, separately sold keyboard and trackpad together,it’d STILL cost more than this whole setup!I mean, this IS a MacBook, that retailed for seven thousand, nine hundred and ninety nine yuan,packing a legit M series chips—this is, like, the perfect, first Mac, for young folks!For real, man!So ... where’s MY “head”?A display? Pfft! Who DOESN’T have a screen lying around?!I dug this three hundred yuan iPad out of a box,then used macOS’s built in screen mirroring, and set up a hotkey via Shortcuts.Heh! Now *this* is like having a head, right?but this “head and body separated” design isn’t very elegant;so I whipped up a pivot joint.
+
+and pieced the head and body together.Gently open the iPad,hit the hotkey, and hook up the screen.Mmm, it looks quite the part!I can finally work elegantly in Star—wait, the lag is SO bad! Oh, man!Why’s the trackpad not responding?!Apple Inc.’s SideCar streams, wirelessly between an iPad and a MacBook,but in my tests,the lag was quite hefty—plugging in a cable, does fix that latency issue, though.So silky smooth! Mmm ...
+
+[章节] 谁说一定要实体屏幕
+
+But the screen IS a bit small—hard to even make things out!I mean, ten point five inches feels kinda small on iPad OS,let alone Mac OS!With those top and bottom black bars,the whole display area feels quite cramped.Hey! Here’s a fourteen inch portable screen, that’s been gathering dust—sixty percent more display area, than the iPad!Best of all, it’s a four K O L E D portable screen,and this head’s size, is a great match for our body—set it up like this,and it really looks like a MacBook!Finally! This has GOT to be the perfect “head”!Huh? Why is it so blurry?!I tested it—fullscreen brightness is under two hundred nits!This head gets its power from the body,so its brightness is capped.So, even though it’s overcast, in any slightly dim scene,all you can see is my oh so handsome face!Plus, we’re tinkering, with a Headless MacBook—its light weight is the whole point!Now, the combined weight of both nearly matches a MacBook Pro!If you’re buying a portable screen just for this setup,
+
+you’d be better off heading to Huaqiangbei, and snagging an original one—it’d be more worth your while.I realized then: maybe the issue wasn’t, that I hadn’t found the right screen,but that the very concept of a traditional screen, just doesn’t suit the Headless MacBook.since no matter what you do,third party screens will never be as hassle free, or offer a better experience than the original one.But a screen—who says it has to be physical?You can wear it on your face!Vision Pro was my first thought,and I even borrowed one from a passerby to try it out.Wow! The picture quality is amazing!Man, this thing is SO heavy!The display looks great, sure,but the headset alone weighs over a pound;add the battery, and it’s nearly two!I could live with all that, until I saw ...?Oh! Oh! Oh! I get it! I'll just use THIS then!The RayNeo GT MAX costs two thousand two hundred RMB –less than one tenth of the Vision Pro!Even with the Headless MacBook,it’s still cheaper than a MacBook Neo.
+
+Honestly, this RayNeo GT MAX pairs so well, with the Headless MacBook—using, it feels SO good! So lately,for any short trips, I use this setup for work.
+
+[章节] 办公方案的优化
+
+but I also spotted a huge, fatal flaw:no guy wants to tote a huge bag when they go out.The Headless MacBook itself is awkward,since no matter how you hold it,your hands will hit either the trackpad or the keyboard.Plus these A R glasses—now you HAVE to carry a bag, when you go out,which is SUCH a hassle!Could I make a TRUE handheld PC?I also designed a custom case for the RayNeo GT MAX.I paused the print mid way, to embed four strong magnets inside.this whole setup lets you just grab it, and go—like lugging, a small briefcase—whether you head out to the library, or a coffee shop.So this briefcase transforms into an iPad,plus a one hundred inch MacBook with a dual screen setup,plus a pair of Bluetooth earbuds.This iPad, due to lag,serves as a secondary screen, for light tasks like chatting and music.And the main screen is the GT Max’s big screen.It’s hard to imagine,but I have a one hundred inch giant screen, right in front of me now.This is my first time trying A R glasses!These tiny specs.
+
+can cast a two hundred and sixty seven inch giant screen, before you—how can I even show you that?!This is the size of my one hundred inch Television at home,and THIS is what I see with the RayNeo GT MAX on.Thanks to its fifty nine degree FOV,your gaze can rest quite naturally, upon the center of the screen.So, can it solve my outdoor work woes?Thanks to the A R glasses’ natural sunglass like form,even when sitting out in bright sunlight,the display stays crystal clear.This is way brighter than both portable screens and iPads!Plus, unlike a portable screen,it doesn’t need its own power source—just one Type C cable, handles everything.But what truly sets it apart from the Vision, Pro is its lightness.Everyone agrees the Vision Pro, is the best MR headset out there,but the reason it doesn’t sell well, is that it’s just SO heavy.Wear the six hundred to seven hundred grams Vision Pro, versus the seventy eight grams, RayNeo GT MAX—your body will give you the honest truth.
+
+Plus, aside from weighing just seventy eight grams,thanks to its extra large nose pad, and adjustable temple arms,you can wear it with almost no pressure felt at all.In fact, many folks, much like me on my first wear,worry A R glasses might make them feel a bit dizzy.So, the GT MAX's three DoF hover mode, means the view won't follow your head.And when in a car, I favor its anti shake mode;even in a very bumpy ride,this anti shake algo, keeps the screen tracking your head smoothly.So, day to day, when you aren’t using these A R glasses,a gentle nudge lets you pop them off;I also made a magnetic case for my Steam Deck, too.So when you head out to work,just snap it on——voilà!—and you get a two hundred and sixty seven inch, giant screen on the go!
+
+[章节] 总结优缺点
+
+So, I’ve used this setup for a good while now,and I want to lay out, both its pros and cons—though, the pros can be summed up in one sentence.Headless Mac plus the RayNeo GT MAX—it pretty much marries the best of both worlds!For simple design work, drafting some copy,or even running Codex for some AI fun,this setup offers great bang for your buck.Plus, Macs have a Universal Control option.Bring it home, pop it on your desk,and it acts as a Mac mini’s trackpad plus keyboard—with super, super low lag!You even save the cash for a separate keyboard and trackpad!Drawbacks are clear, too:that old workhorse, the M one, can’t haul heavy loads anymore,plus, a PC with no physical screen, demands a bit of tinkering guts.Plus, to snag a reliable Headless MacBook,you need at least some second hand buying savvy.but the RayNeo GT MAX is perfect for gamers, to hook up to a Steam Deck, and get that big screen gaming experience right in the car!What guy could say no to that?!
+
+And huge thanks to RayNeo for sponsoring this video!The RayNeo GT MAX boasts, twelve hundred nits of peak brightness, among A R glasses—and it’s the world’s first Dolby Vision, certified A R glasses, too!And if you happen to own their Dolby Magic Box,your audio visual experience will be awesome!If you’re keen on this Headless MacBook mod,I’ll open source, the models and the parts list you’ll need to buy.This is Lazy Dog Xiaohei—see you in the next video!
+
+
+
+--- 由 vCaptions 生成 ---

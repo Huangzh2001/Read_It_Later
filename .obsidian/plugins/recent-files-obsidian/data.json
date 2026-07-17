@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Started",
+      "path": "Read It Later/Getting Started.md"
+    },
+    {
       "basename": "CPU这个老登，竟然在智能体时代重新翻身了？",
       "path": "Watch It Later/CPU这个老登，竟然在智能体时代重新翻身了？.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "穷哥们伙食实力排行",
       "path": "Watch It Later/穷哥们伙食实力排行.md"
-    },
-    {
-      "basename": "小众恐惧",
-      "path": "Watch It Later/小众恐惧.md"
     }
   ],
   "omittedPaths": [],

@@ -186,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -196,16 +196,16 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +227,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5a01d0359b64df80",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
     "Watch It Later/从宠儿到弃儿，四年舆论大反转！梅西与阿根廷为何沦为全球公敌？.md",
     "Watch It Later/以防还有人不知道真实球迷汇可以给舰长退钱了.md",

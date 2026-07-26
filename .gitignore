@@ -16,6 +16,11 @@
 # Remember Cursor Position：光标和滚动位置数据库
 /.obsidian/plugins/remember-cursor-position/cursor-positions.json
 
+# Float Search：搜索插件运行数据
+/.obsidian/plugins/float-search/data.json
+
+# Recent Files：打开笔记就会更新
+/.obsidian/plugins/recent-files-obsidian/data.json
 
 # ========================================
 # Office 临时锁定文件

@@ -2,7 +2,7 @@
 url: https://www.bilibili.com/video/BV11o4y1s7VY/?spm_id_from=333.337.search-card.all.click
 tags:
   - video
-status: reading
+status: readed
 date: 2025-10-18T12:42:34+08:00
 ---
 ![我是如何快速学习一个领域的_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV11o4y1s7VY/?spm_id_from=333.337.search-card.all.click)

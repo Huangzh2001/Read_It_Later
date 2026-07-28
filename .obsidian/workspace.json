@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
+                "file": "Watch It Later/动物井的画面效果是如何实现的？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili 的出链列表"
+              "title": "动物井的画面效果是如何实现的？ 的出链列表"
             }
           },
           {
@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +227,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9a5eb96f5b6dc7e7",
+  "active": "08169aa61664d389",
   "lastOpenFiles": [
+    "utils/obsidian-urls/logs/2026-07-29_00-31-38.md",
     "utils/obsidian-urls/logs/2026-07-29_00-11-18.md",
     "Watch It Later/低多边风格的东方角色：「多边心象  Polygonic Echo」.md",
     "Watch It Later/动物井的画面效果是如何实现的？.md",
@@ -256,7 +256,6 @@
     "Watch It Later/王楚淇爆料c罗想退役，葡萄牙国家队不让退，求着c罗老先生打.md",
     "Watch It Later/淘到三模热敏键盘.md",
     "Watch It Later/【大福】我把键盘装在了飞机起落架上.md",
-    "Untitled.md",
     "Clippings/sync.ffs_lock",
     "Read It Later/attachments/aef39074106333faad7de2cf309de067_MD5.png",
     "Watch It Later/attachments/ece4f94f7ecddeed289a1785c197b618_MD5.jpg",

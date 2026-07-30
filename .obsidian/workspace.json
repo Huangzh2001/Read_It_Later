@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/黑莓手机创始人，看到苹果发布会的那一刻，整个人都傻了.md",
+                "file": "Watch It Later/高斯泼溅有多厉害？和传统三维建模孰优孰劣？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黑莓手机创始人，看到苹果发布会的那一刻，整个人都傻了"
+              "title": "高斯泼溅有多厉害？和传统三维建模孰优孰劣？"
             }
           }
         ]
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +230,12 @@
   },
   "active": "9a5eb96f5b6dc7e7",
   "lastOpenFiles": [
-    "Watch It Later/iPhone以外的苹果产品是最大的陷阱.md",
+    "Watch It Later/《蜘蛛侠4》结局&片尾彩蛋解析：魔法失效，联动《复联5》，组建X战警！.md",
+    "Watch It Later/高斯泼溅有多厉害？和传统三维建模孰优孰劣？.md",
+    "Watch It Later/“一句话做游戏”到底是怎么回事？AI生成游戏的六条技术路线解析.md",
+    "Watch It Later/年轻人，不在宜家样板间做梦了【暗中观察458】IC实验室.md",
     "Watch It Later/黑莓手机创始人，看到苹果发布会的那一刻，整个人都傻了.md",
+    "Watch It Later/iPhone以外的苹果产品是最大的陷阱.md",
     "Watch It Later/谁抄得更狠？苹果 vs 安卓：19 年互抄史.md",
     "Watch It Later/【豫西小丁】小九咬伤工人迎来大结局，发配宗人府，永久圈禁！.md",
     "Watch It Later/【豫西小丁】2026年7月29日｜直播·录播｜只播了七分钟～关于小九～简单说两句😶.md",
@@ -253,10 +258,6 @@
     "Watch It Later/我是如何快速学习一个领域的_哔哩哔哩_bilibili.md",
     "Watch It Later/28纳米也算先进制程吗？RF雷达芯片：Yes！.md",
     "utils/obsidian-urls/logs/2026-07-28_15-23-47.md",
-    "Watch It Later/【巫师】男色经济02：恋与深空大瓜的背后，乙女产业的金矿.md",
-    "Watch It Later/比生化武器还可怕！全中国第一炸鸡店崩塌：2万家门店集体「喷射」，21亿债务背后的恶心真相！.md",
-    "Watch It Later/小心效率陷阱：为什么你不需要第二大脑或者个人知识库？.md",
-    "Watch It Later/据说洋快餐界出了薯条N重奏，有人2分钟就能吃完8份薯条？.md",
     "Read It Later/attachments/aef39074106333faad7de2cf309de067_MD5.png",
     "Watch It Later/attachments/ece4f94f7ecddeed289a1785c197b618_MD5.jpg",
     "Clippings/sync.ffs_db.ce75.ffs_tmp",

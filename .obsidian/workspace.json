@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/绝对不能穿越的小说之“玄鉴仙族” 修仙文你见过，但是家族群像修仙文，可能全网仅此一本，我愿称之为印度修仙流。.md",
+                "file": "Watch It Later/1993年“暑假的一天”是怎么过的—手机、网络、空调都没有的岁月.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绝对不能穿越的小说之“玄鉴仙族” 修仙文你见过，但是家族群像修仙文，可能全网仅此一本，我愿称之为印度修仙流。"
+              "title": "1993年“暑假的一天”是怎么过的—手机、网络、空调都没有的岁月"
             }
           }
         ]
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +230,10 @@
   },
   "active": "9a5eb96f5b6dc7e7",
   "lastOpenFiles": [
-    "Watch It Later/肌肉不会长在软蛋的身上！_哔哩哔哩_bilibili.md",
     "Watch It Later/绝对不能穿越的小说之“玄鉴仙族” 修仙文你见过，但是家族群像修仙文，可能全网仅此一本，我愿称之为印度修仙流。.md",
+    "utils/obsidian-urls/logs/2026-08-03_21-23-09.md",
+    "Watch It Later/1993年“暑假的一天”是怎么过的—手机、网络、空调都没有的岁月.md",
+    "Watch It Later/肌肉不会长在软蛋的身上！_哔哩哔哩_bilibili.md",
     "Watch It Later/几百KB的体积，却改变了整个游戏史.md",
     "Watch It Later/为什么很多中立UP主，面对梅西和阿根廷都选择沉默？.md",
     "Watch It Later/读书到底有没有用？现身说法个人经历，我的40年读书生涯_哔哩哔哩_bilibili.md",
@@ -255,8 +258,6 @@
     "Watch It Later/从超马惊奇到耀西图鉴，聊聊2D游戏存在的意义.md",
     "Watch It Later/两种类型的世界观创作者.md",
     "Watch It Later/上火星，马斯克的惊天骗局？.md",
-    "Watch It Later/玄幻小说里，筑基家族是什么样的？.md",
-    "Watch It Later/【游戏众生相】耗时14年！玩家们终于逃出了这个小房间！.md",
     "Read It Later/attachments/aef39074106333faad7de2cf309de067_MD5.png",
     "Watch It Later/attachments/ece4f94f7ecddeed289a1785c197b618_MD5.jpg",
     "Clippings/sync.ffs_db.ce75.ffs_tmp",

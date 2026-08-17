@@ -1,9 +1,9 @@
 ---
-url: "https://www.youtube.com/watch?v=3g-N_M8PN0U"
+url: https://www.youtube.com/watch?v=3g-N_M8PN0U
 tags:
-  - "video"
-status:
-date: "2026-08-17T18:06:43+08:00"
+  - video
+status: readed
+date: 2026-08-17T18:06:43+08:00
 ---
 ![Destructible Smooth Terrain Using Voxel Tools | Godot 4](https://www.youtube.com/watch?v=3g-N_M8PN0U)
 

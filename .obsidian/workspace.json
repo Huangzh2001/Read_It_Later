@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7272a52854342c",
+        "id": "0d496151e9823a95",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf23b6b926ca613",
+            "id": "5c62923435d60689",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Interactive Water Demo  Godot 4 (C.NET) by Kextex"
+              "title": "新标签页"
             }
           }
         ]
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +142,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,15 +186,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "360bddcee547c764",
+  "active": "5c62923435d60689",
   "lastOpenFiles": [
+    "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
     "Read It Later/attachments/Godot_4_Water_TEST_260516.7z",
     "Read It Later/attachments/56c30cd808030b0a7302985a509d5f15_MD5.jpg",
     "Read It Later/attachments/80321ec2e8172b0dd43f21120de0bca2_MD5.jpg",
     "Read It Later/attachments/bed6993c6fd6afbd63b4a4250b65223f_MD5.jpg",
     "Read It Later/attachments/287647cf057ad28bb507bc01ee76954f_MD5.jpg",
     "Watch It Later/Godot 4.6  Interactive Water Fluid Simulation & Buoyancy (C)  IWS Dvelog.md",
-    "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
     "Watch It Later/我又做了一个风格化的海洋环境.md",
     "Watch It Later/罗哥没上场是好事？睡衣哥赛后点评葡萄牙2-1挪威.md",
     "Watch It Later/异 端 ，阔 手 机 。.md",

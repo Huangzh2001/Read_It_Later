@@ -1,0 +1,25 @@
+---
+url: "https://www.bilibili.com/video/BV1rEh161EDH/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c"
+tags:
+  - "video"
+status: "readed"
+date: "2026-09-26T10:31:18+08:00"
+---
+![地上足球：没C罗真不行！这支葡萄牙为什么离不开C罗？](https://www.bilibili.com/video/BV1rEh161EDH/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c)
+地上足球：没C罗真不行！这支葡萄牙为什么离不开C罗？
+https://www.bilibili.com/video/BV1rEh161EDH/?spm_id_from=333.337.search-card.all.click&vd_source=06168f390bae49c4867767c52a20e87c
+地上足球888 2026-09-25 14:00:04
+
+Messi can retire—so why can’t Cristiano Ronaldo ?Well, early this morning, that debate was put to rest:CR seven CANNOT retire.Early today, in the first round of the UEFA Nations League,Portugal bested Wales one to zero;though Cristiano Ronaldo, earned the lowest rating of the match,he notched the most shots—seven—in just sixty seven minutes!Yet, Gonçalo Ramos, who came on to replace Cristiano Ronaldo ,only took ONE shot.You played for over thirty minutes and took ONE shot,whereas Cristiano Ronaldo in that striker spot took SEVEN—a full three point five times more efficient!That’s why Cristiano Ronaldo can’t retire!Now, many folks say, “CR seven didn’t score”—but you guys aren’t looking far enough ahead.Once Cristiano Ronaldo was subbed off,for the final thirty plus minutes,Portugal’s attack was a chaotic mess—no one could step up and take a shot.In football, the game is about who scores more goals;once Cristiano Ronaldo left,there wasn’t even anyone left to take a shot!
+
+At first, I too thought Gonçalo Ramos, could take CR seven’s spot, in the starting eleven.I Special Follow’d his four games since moving to AC Milan—and it’s the same deal:chances missed, no goals scored.Sure, he chipped in with some assists,but he just can’t shoulder a striker’s duties.Portugal’s national squad?Their midfield isn’t lacking—no shortage of passers or ball handlers—but what they *do* lack are goal scorers.I think at forty two,Cristiano Ronaldo must be itching to retire.but national teams and clubs aren't the same;clubs have someone much like Cristiano Ronaldo —the one who takes the most shots per game,yet gets low ratings and lags in goal scoring efficiency.That man is Kylian Mbappé.So, Mbappé faces the same issue as Cristiano Ronaldo —why do I call out Mbappé, yet not CR seven?Because Real Madrid is a club—when your striker falters,I can just go buy someone from outside.But national teams are different!If a national team has no striker,
+
+they can only hope their populace procreates, and spawns a new one!Clubs can buy players, make transfers—but national teams can only procreate;that’s the key distinction.So, until Portugal’s national team, spawns a new generation of goal scorers,Cristiano Ronaldo truly cannot retire.Once Cristiano Ronaldo retires,no one will even take shots! Regarding shot count,many folks think CR seven takes SO many shots, yet fails to score.You’re wrong! In crunch time,there’s always a safety net—everyone needs that safety net mindset.Just picture this: if Portugal, back at the FIFA World Cup, just months ago against Spain,had landed even one or two of those safety net goals,wouldn't they have knocked Spain out?The issue was just bad luck—no safety net emerged.But if you bench Cristiano Ronaldo ,you don’t even get a shot at that safety net,so yeah, he just can’t retire.After watching today’s Portugal match,I can declare to all CR seven fans and fans worldwide:
+
+Bro Ro will CERTAINLY play in the Euro two years from now—because with no one else shooting,putting in Cristiano Ronaldo, at least gives you that safety net!Without Cristiano Ronaldo , you get NO shots—no safety net, to even fall back on! That’s the biggest issue!C'mon, Portugal—hope Cristiano Ronaldo bags more goals, in the next UEFA Nations League match, and hits that safety net more often!Plus, one of Cristiano Ronaldo ’, s goals got ruled out for offside—and that whole offside thing? To be blunt,that embodies that “safety net” mindset, too.Even at the FIFA World Cup,Cristiano Ronaldo had that “toenail offside”—just a tiny bit off—yet it still counted as an offside goal!But if luck had been on his side—no “toenail offside,”, no “big toe offside”—then that ball would’ve gone in, right?Same for this match:Cristiano Ronaldo was just a tad offside—yeah, just a tad—and next time, with some luck, he won't be offside at all!In contrast, Argentina has plenty of folks, who could take Lionel Messi’s place—
+
+so whether he retires or not,there are people ready to take over from him.But if Cristiano Ronaldo retires,Portugal has NO one to take his place!As for Gonçalo Ramos’s performance—hey,if you missed the game, go watch the replay—he’s truly not up to the task.If Cristiano Ronaldo retires,Portugal will have no one to succeed him—not even a chance to draw a safety net!The great Cristiano Ronaldo, forge ahead! Next match—SIUUUU!
+
+
+
+--- 由 vCaptions 生成 ---

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "d855fa7cad9c2059",
     "type": "split",
     "children": [
       {
-        "id": "6bfcaf96df981960",
+        "id": "4a7272a52854342c",
         "type": "tabs",
         "children": [
           {
-            "id": "9a5eb96f5b6dc7e7",
+            "id": "6bf23b6b926ca613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watch It Later/把菊次郎的夏天做成一个网页游戏？threejs，webgl【大帅老猿·酷站赏析】.md",
+                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "把菊次郎的夏天做成一个网页游戏？threejs，webgl【大帅老猿·酷站赏析】"
+              "title": "Interactive Water Demo  Godot 4 (C.NET) by Kextex"
             }
           }
         ]
@@ -27,34 +27,35 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0950bd50e4c27580",
+    "id": "c51600c54245968d",
     "type": "split",
     "children": [
       {
-        "id": "cdb0e280bdd2371c",
+        "id": "bf21ec08b7e92d6e",
         "type": "tabs",
-        "dimension": 76.01918465227818,
         "children": [
           {
-            "id": "54d1819fda844f1a",
+            "id": "af0860eb8470e7ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "8c935dd4b1f36106",
+            "id": "d1a6c66bfb5f022c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "python scripts/train.py --outdir outputs/celegans_300_to_500 --config configs/tasks/celegans_lineagepert_300_to_500.yaml --config configs/models/lineagepert_celegans.yaml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,64 +67,40 @@
             }
           },
           {
-            "id": "0bce969343c7c185",
+            "id": "599be1b24af9eeb2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "0139dd4841f2b020",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1af6b5e439437549",
-        "type": "tabs",
-        "dimension": 23.980815347721823,
-        "children": [
-          {
-            "id": "9d306b205865eb6a",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "158c89bda8c70c68",
+    "id": "c208cc8b79aa152d",
     "type": "split",
     "children": [
       {
-        "id": "7ed45f0f518a4324",
+        "id": "898fcc98c34d372b",
         "type": "tabs",
         "children": [
           {
-            "id": "fca6fe017aef9b98",
+            "id": "188ccef6a7ae4a7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Watch It Later/得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili.md",
+                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +110,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "得罪了！华为Mate80ProMax和iPhone17ProMax对比让我想救人_哔哩哔哩_bilibili 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "981896b1c3c423d4",
+            "id": "afb7d73a83ff2830",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watch It Later/动物井的画面效果是如何实现的？.md",
+                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动物井的画面效果是如何实现的？ 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "229b10a95981cd0a",
+            "id": "f3538a865d3d2ab6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,22 +143,22 @@
             }
           },
           {
-            "id": "7975b9a665861f00",
+            "id": "df04cfef11875541",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watch It Later/能玩一辈子的？近乎拟真的模拟经济游戏！prosperous universePrUn繁荣宇宙.md",
+                "file": "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "能玩一辈子的？近乎拟真的模拟经济游戏！prosperous universePrUn繁荣宇宙 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "08169aa61664d389",
+            "id": "360bddcee547c764",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,28 +166,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "791fd4167575c9cc",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -218,63 +183,48 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
-      "copilot:Open Copilot Chat": false,
       "cmdr:打开设置": false,
       "float-search:Search obsidian in modal view": false,
       "notebook-navigator:笔记本导航器": false,
       "media-extended:Open media": false
     }
   },
-  "active": "9a5eb96f5b6dc7e7",
+  "active": "360bddcee547c764",
   "lastOpenFiles": [
-    "Web/equinox.space.zip",
-    "Web",
-    "新建文件夹",
-    "Watch It Later/Voxel physics engine sneak peek.md",
-    "Watch It Later/把菊次郎的夏天做成一个网页游戏？threejs，webgl【大帅老猿·酷站赏析】.md",
-    "Watch It Later/My voxel physics engine was BROKEN - here's every fix Voxel Devlog 26.md",
-    "Watch It Later/程序化体素低多边形地形演示.md",
-    "utils/obsidian-urls/notes-with-excerpt.json",
-    "Watch It Later/洛斐 hyzen 是一把让我有点破防的键盘.md",
-    "utils/obsidian-urls/logs/2026-08-19_12-09-40.md",
-    "Watch It Later/偷狼硬养 = 这是帮我当狗养啊！！！.md",
-    "Watch It Later/这种砖从哪来 为何我们都见过？一块人行道砖的技术艺术史.md",
-    "Watch It Later/堰的原理和作用：发明堰的人真是个天才【AI全民制作人】.md",
-    "Watch It Later/逆天微软！原来Windows没优化过中高配电脑？.md",
-    "Watch It Later/初中没上完的精神小伙现在都怎么样了？【农村青年录】.md",
-    "Watch It Later/500 million voxelssec - Voxel engine optimizations.md",
-    "utils/obsidian-urls/logs/2026-08-19_06-46-41.md",
-    "Watch It Later/【结合小说精讲渗透】第12期：于秀凝与齐公子的首轮交锋，齐公子为何一败涂地？.md",
-    "Watch It Later/【结合小说精讲渗透】第11期：戴笠为他拍桌子，教员对他赞不绝口，许忠义的书法有多厉害？.md",
-    "Watch It Later/【结合小说精讲渗透】第9期：许忠义是如何把货物销售出去的？电视剧精简了哪些细节？.md",
-    "Watch It Later/【结合小说精讲渗透】第8期：鬼子战败后，沈阳的政治格局是个什么情况？为何陈明要从苏军手里偷运棉布？.md",
-    "Watch It Later/【结合小说精讲渗透】第10期：我军取仓库的货为何非要经军统的手？这里面有哪些门道？.md",
-    "Watch It Later/梅西失点+与裁判交谈，美职联配不上足球king.md",
-    "Watch It Later/【解析渗透】第4期：与汉奸做生意？抗战时期我军是如何换取被封锁物资的？.md",
-    "Watch It Later/298只用了2天！22元却用了三年！iPhone配件从夯到拉.md",
-    "Watch It Later/特斯拉FSD与中国智驾，你更认可谁？.md",
-    "Watch It Later/买酷态科产品会不会上瘾？听听两年酷粉的回答.md",
-    "Watch It Later/侧置270°环绕灯箱 超清高刷OLED触控屏 蜜氪开启先锋潮玩时代！VIVA63上手体验分享.md",
-    "Watch It Later/美国吃货夫妇：中国面条也太强了！人生最好吃的面！.md",
+    "Read It Later/attachments/Godot_4_Water_TEST_260516.7z",
+    "Read It Later/attachments/56c30cd808030b0a7302985a509d5f15_MD5.jpg",
+    "Read It Later/attachments/80321ec2e8172b0dd43f21120de0bca2_MD5.jpg",
+    "Read It Later/attachments/bed6993c6fd6afbd63b4a4250b65223f_MD5.jpg",
+    "Read It Later/attachments/287647cf057ad28bb507bc01ee76954f_MD5.jpg",
+    "Watch It Later/Godot 4.6  Interactive Water Fluid Simulation & Buoyancy (C)  IWS Dvelog.md",
+    "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
+    "Watch It Later/我又做了一个风格化的海洋环境.md",
+    "Watch It Later/罗哥没上场是好事？睡衣哥赛后点评葡萄牙2-1挪威.md",
+    "Watch It Later/异 端 ，阔 手 机 。.md",
+    "Watch It Later/阿莫林揭开管理层遮羞布就立即被宣判下课，这真的是正确的时间吗？一年又一年，.md",
+    "Watch It Later/淇言万物：阿莫林下课！曼联管理层尽显业余无能，球队毒瘤是谁？未来谁来救火？.md",
+    "Watch It Later/护林员身份藏不住了！牢厂丧心病狂抹黑曼联12分钟纯享.md",
+    "Watch It Later/为什么猫那么容易应激，而狗却不会？.md",
+    "Watch It Later/苹果人体工学老键盘 ～开箱.md",
+    "Watch It Later/把屏幕做成了键盘！！IPI•Action75首次亮相！！.md",
+    "Watch It Later/【第89期】全球票房前十演员.md",
+    "Watch It Later/苹果手机换华为 Pura X View保姆级教程.md",
+    "Watch It Later/【第91期】全球流行文化影响力前五国家.md",
+    "Watch It Later/安卓旗舰全玩完，只能看华为了.md",
+    "Watch It Later/师徒二人带着粉丝寄来的12个盲盒去挑战海岛求生，今天拆的这个盲盒真的太离谱了，默默承受着精神和肉体的双重打击.md",
     "Clippings/sync.ffs_lock",
-    "Watch It Later/attachments/9939f1d5ca7dda20af4033547d933162_MD5.png",
-    "Watch It Later/attachments/a74b40a86670a28647499a15d7146ba7_MD5.png",
-    "Watch It Later/attachments/Pasted image 20260803233827.png",
-    "Read It Later/attachments/aef39074106333faad7de2cf309de067_MD5.png",
-    "Watch It Later/attachments/ece4f94f7ecddeed289a1785c197b618_MD5.jpg",
-    "Clippings/sync.ffs_db.ce75.ffs_tmp",
-    "Read It Later/attachments/6cba2b8788db1114b55ff114822e2a63_MD5.jpg",
-    "Read It Later/attachments/4160871cf4ef77f58b6cb9e6cf66bea6_MD5.jpg",
-    "Read It Later/attachments/276a53c63dd9eae226dbae18e31b416f_MD5.png",
-    "Read It Later/attachments/b5e3c7eb1151f4538ed770717a09793d_MD5.jpg",
-    "Read It Later/attachments/734849f8b53759c4e531a1a9001f2eaf_MD5.jpg",
-    "Clippings/sync.ffs_db.859f.ffs_tmp",
-    "Clippings/sync.ffs_db.0fc5.ffs_tmp",
-    "Clippings/sync.ffs_db.afe4.ffs_tmp",
-    "Clippings/sync.ffs_db.f60a.ffs_tmp",
-    "Watch It Later/attachments/isometric-room-prefab-v18-habbo-selector-rootpreset-20260323P-ui-button-iconfix.zip"
+    "Watch It Later/真实自用华为全家桶分享！最后附个人喜爱排行榜！.md",
+    "Watch It Later/为了卖线出了个悔恨之泪？原道泪落组合，原道酱の千层套路.md",
+    "Watch It Later/PCB是真的强  600价位全铝旋钮98  渴创Z5ultra对比Z6  打字音  拆解&简评  机械键盘.md",
+    "Watch It Later/未成年小键盘分享！收藏多年的40配列键盘.md",
+    "Watch It Later/WINGS68  - 金河田也来做键盘了？！高低尝尝咸淡！.md",
+    "Watch It Later/你没见过的乐高：不在商店卖，却在帮助全世界的孩子.md",
+    "Watch It Later/特朗普为何要自己接机？中美再次会晤很有必要了.md",
+    "Watch It Later/罪名成立！曼城恐遭英超重罚！巨额罚分+剥夺冠军？.md",
+    "Watch It Later/余承东语录合集 包括《这么好的车》《L2.9》《手机支架》《漂移是愚蠢的行为》《零头车》.md"
   ]
 }

@@ -11,10 +11,14 @@
             "id": "5c62923435d60689",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Watch It Later/【小拉】从夯到拉锐评Pocket 4的所有改动！.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "【小拉】从夯到拉锐评Pocket 4的所有改动！"
             }
           }
         ]
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Watch It Later/水体渲染——粗糙折射+距离场碰撞+多光源高光+玉石渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Watch It Later/水体渲染——粗糙折射+距离场碰撞+多光源高光+玉石渲染.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,6 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Watch It Later/水体渲染——粗糙折射+距离场碰撞+多光源高光+玉石渲染.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +196,9 @@
   },
   "active": "5c62923435d60689",
   "lastOpenFiles": [
+    "Watch It Later/水体渲染——粗糙折射+距离场碰撞+多光源高光+玉石渲染.md",
+    "Watch It Later/【小拉】从夯到拉锐评Pocket 4的所有改动！.md",
+    "Watch It Later/Blender制作一个真实的海洋体积水教程.md",
     "Read It Later/Interactive Water Demo  Godot 4 (C.NET) by Kextex.md",
     "Read It Later/attachments/Godot_4_Water_TEST_260516.7z",
     "Read It Later/attachments/56c30cd808030b0a7302985a509d5f15_MD5.jpg",
@@ -216,8 +227,6 @@
     "Watch It Later/未成年小键盘分享！收藏多年的40配列键盘.md",
     "Watch It Later/WINGS68  - 金河田也来做键盘了？！高低尝尝咸淡！.md",
     "Watch It Later/你没见过的乐高：不在商店卖，却在帮助全世界的孩子.md",
-    "Watch It Later/特朗普为何要自己接机？中美再次会晤很有必要了.md",
-    "Watch It Later/罪名成立！曼城恐遭英超重罚！巨额罚分+剥夺冠军？.md",
-    "Watch It Later/余承东语录合集 包括《这么好的车》《L2.9》《手机支架》《漂移是愚蠢的行为》《零头车》.md"
+    "Watch It Later/特朗普为何要自己接机？中美再次会晤很有必要了.md"
   ]
 }

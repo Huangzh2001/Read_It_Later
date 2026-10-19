@@ -1,0 +1,35 @@
+/*
+ * Obsidian 1.14.4 — 左侧 Ribbon 自动隐藏 / 悬停显示
+ * 2026-10: 1.14 将原来的 .mod-left 更名为 .mod-primary。
+ * 保留旧版选择器，以便在旧版本中也能使用。
+ * 仅处理左侧竖排图标工具栏，不处理文件列表或右侧边栏。
+ * 使用前须在「设置 → 外观 → 高级」开启「显示 Ribbon」。
+ */
+
+body:not(.is-mobile) .workspace-ribbon:is(.mod-primary, .mod-left) {
+    /* 原先 -30px 的效果：工具栏只露出约 14px 的透明悬停区 */
+    position: absolute !important;
+    top: 0 !important;
+    left: -30px !important;
+    width: var(--ribbon-width, 44px);
+    height: 95%;
+    opacity: 0;
+    z-index: 100 !important;
+    transition: left 0.3s ease-out 0.2s, opacity 0.3s ease-out 0.2s;
+}
+
+body:not(.is-mobile) .workspace-ribbon:is(.mod-primary, .mod-left):is(:hover, :focus-within) {
+    left: 0 !important;
+    opacity: 1;
+    transition-delay: 0s;
+}
+
+body:not(.is-mobile) .workspace-ribbon:is(.mod-primary, .mod-left) .side-dock-actions {
+    margin-top: 35px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    body:not(.is-mobile) .workspace-ribbon:is(.mod-primary, .mod-left) {
+        transition: none;
+    }
+}

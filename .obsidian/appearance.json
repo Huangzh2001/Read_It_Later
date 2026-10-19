@@ -2,7 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "Cyber Glow",
   "enabledCssSnippets": [
-    "dataview"
+    "dataview",
+    "隐藏侧边栏-新"
   ],
   "accentColor": "",
   "baseFontSize": 16

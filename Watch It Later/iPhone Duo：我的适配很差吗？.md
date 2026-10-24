@@ -1,0 +1,23 @@
+---
+url: "https://www.bilibili.com/video/BV1JLn86TEZE?trackid=web_related_0.router-related-2479604-tdxs9.1792812730024.948&vd_source=06168f390bae49c4867767c52a20e87c&spm_id_from=333.788.player.player_end_recommend"
+tags:
+  - "video"
+status: "readed"
+date: "2026-10-24T11:43:14+08:00"
+---
+![iPhone Duo：我的适配很差吗？](https://www.bilibili.com/video/BV1JLn86TEZE?trackid=web_related_0.router-related-2479604-tdxs9.1792812730024.948&vd_source=06168f390bae49c4867767c52a20e87c&spm_id_from=333.788.player.player_end_recommend)
+iPhone Duo：我的适配很差吗？
+https://www.bilibili.com/video/BV1JLn86TEZE?trackid=web_related_0.router-related-2479604-tdxs9.1792812730024.948&vd_source=06168f390bae49c4867767c52a20e87c&spm_id_from=333.788.player.player_end_recommend
+请不要叫我测评君 2026-10-23 23:28:30
+
+Apple’s latest foldable, the iPhone Duo—we snagged one right away, to answer the one question on everyone’s mind:how’s its software adaptation?We picked fifty Trending apps from the App Store, and checked out their adaptation status on launch day,one by one.Before we dive in,let’s cover what’s unique, about the iPhone Duo’s software adaptation.In the past, with Android or HarmonyOS foldables,some apps might lack proper adaptation—or have none at all.but if you wish,you can usually still stretch the app, across the whole screen—like on Android,where you can install the HD version.But for the iPhone Duo, that’s not how it works—if there’s zero adaptation done,So, when you open an app from the inner screen,here’s what it looks like:only the middle area displays properly.Using it feels SO clunky!And there are quite a few apps like this—out of the fifty we tested,thirty three had zero adaptation whatsoever.So, they can barely use this huge screen.
+
+But you can also flip it sideways and tap this zoom button,which gives it a vibe kinda like a “phone for seniors”/“, simplified phone”.Now, some of these apps HAVE been iPad adapted,but for certain reasons,The iPhone six won’t auto adopt, the iPad layout, and iPad exclusive apps, can’t run on the iPhone six—each one minds his own business, you could say.So, for now, if you snagged an iPhone Duo at launch,your experience using these third party apps, will lag behind HarmonyOS and Android foldables.Not just the inner screen— the outer screen’s UX suffers, too.That front area and the status bar—yeah, that space gets wasted;it’s just not as disruptive to use as on the inner screen.So, devs have two choices, now: one is to do a full re adaptation.This entails the most work—both the app’s interaction design and UI layout, need corresponding tweaks.but the experience is top notch,letting you make full use, of both the inner and outer screens.plus, some apps even tweak their interactions.
+
+based on the hinge’s angle!For well crafted apps,I feel their user experience rivals—or even bests—other foldable phones.Sadly, there aren’t many apps, with such perfect adaptation right now.Our tally shows that out of fifty apps,only twelve fit this bill—but they work superbly well and deserve praise!The second type just gets recompiled with the new SDK,which also expands the display area on the inner screen.but for both screens, that status bar area stays blank—just like with unadapted apps.In terms of experience, it’s merely usable.Ah— it feels much like an iPad,but still has room for improvement.At least the inner screen layout isn’t as wonky, as un optimized apps.There aren’t many apps like this yet,but their approach is better than those not adapted at all—and hopefully, they’ll achieve perfect adaptation soon.As for gaming on the iPhone Duo, we took a quick look,and at least some of the popular mobile games we often play, aren’t adapted either.
+
+So, if you snagged an iPhone Duo at launch,or plan to get one soon,then re: third party app compatibility,you should brace yourself to wait for updates often.At least for now,it still can’t beat HarmonyOS or Android foldables.Plus, we’ve run into quite a few bugs thus far,in both system and third party apps.the volume bar animation froze—it’s stuck here, and won’t move.Let me press it—see that?!See that?!SEE THAT?!Oh! Okay,it’s fine now—pressed back down.Still, software adaptation for foldable screens, is a rather complex undertaking.Our stance has always been, that developers themselves must step up—vendors can, at most, aid their efforts.Hopefully, with the Duo’s launch,major software firms will pay more mind to foldable screens.So, we’ve planned tons of content for the iPhone Duo—including that outdoor test you’ve all been waiting for!Plus, do follow our channel—we’ll be bringing you more iPhone Duo experience videos!Okay! That’s it for this video;see you next time—bye!
+
+
+
+--- 由 vCaptions 生成 ---
